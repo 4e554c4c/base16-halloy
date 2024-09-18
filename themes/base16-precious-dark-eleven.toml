@@ -1,0 +1,47 @@
+## Base16 Precious Dark Eleven
+# Author: 4lex4 &lt;4lex49@zoho.com&gt;
+[general]
+background = "#1c1e20"
+border = "#b8b7b6"
+horizontal_rule = "#37393a"
+unread_indicator = "#d0a543"
+
+[text]
+primary = "#b8b7b6"
+secondary = "#a8a8a7"
+tertiary = "#d0a543"
+success = "#95b658"
+error = "#ff8782"
+
+[buffer]
+action = "#95b658"
+background = "#1c1e20"
+background_text_input = "#292b2d"
+background_title_bar = "#292b2d"
+border = "#858585"
+border_selected = "#b8b7b6"
+code = "#b799fe"
+highlight = "#292b2d"
+nickname = "#42bda7"
+selection = "#37393a"
+timestamp = "#b8b7b6"
+topic = "#a8a8a7"
+url = "#68b0ee"
+
+[buffer.server_messages]
+join = "#95b658"
+part = "#ff8782"
+quit = "#ff8782"
+default = "#42bda7"
+
+[buttons.primary]
+background = "#1c1e20"
+background_hover = "#37393a"
+background_selected = "#858585"
+background_selected_hover = "#a8a8a7"
+
+[buttons.secondary]
+background = "#292b2d"
+background_hover = "#37393a"
+background_selected = "#858585"
+background_selected_hover = "#a8a8a7"

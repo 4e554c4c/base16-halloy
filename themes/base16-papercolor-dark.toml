@@ -1,0 +1,47 @@
+## Base16 PaperColor Dark
+# Author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+[general]
+background = "#1c1c1c"
+border = "#d0d0d0"
+horizontal_rule = "#5faf00"
+unread_indicator = "#afd700"
+
+[text]
+primary = "#808080"
+secondary = "#5fafd7"
+tertiary = "#afd700"
+success = "#af87d7"
+error = "#585858"
+
+[buffer]
+action = "#af87d7"
+background = "#1c1c1c"
+background_text_input = "#af005f"
+background_title_bar = "#af005f"
+border = "#d7af5f"
+border_selected = "#d0d0d0"
+code = "#00afaf"
+highlight = "#af005f"
+nickname = "#ffaf00"
+selection = "#5faf00"
+timestamp = "#808080"
+topic = "#5fafd7"
+url = "#ff5faf"
+
+[buffer.server_messages]
+join = "#af87d7"
+part = "#585858"
+quit = "#585858"
+default = "#ffaf00"
+
+[buttons.primary]
+background = "#1c1c1c"
+background_hover = "#5faf00"
+background_selected = "#d7af5f"
+background_selected_hover = "#5fafd7"
+
+[buttons.secondary]
+background = "#af005f"
+background_hover = "#5faf00"
+background_selected = "#d7af5f"
+background_selected_hover = "#5fafd7"

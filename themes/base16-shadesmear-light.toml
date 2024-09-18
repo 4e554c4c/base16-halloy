@@ -1,0 +1,47 @@
+## Base16 ShadeSmear Light
+# Author: Kyle Giammarco (http://kyle.giammar.co)
+[general]
+background = "#dbdbdb"
+border = "#e4e4e4"
+horizontal_rule = "#c0c0c0"
+unread_indicator = "#307878"
+
+[text]
+primary = "#232323"
+secondary = "#1c1c1c"
+tertiary = "#307878"
+success = "#71983b"
+error = "#cc5450"
+
+[buffer]
+action = "#71983b"
+background = "#dbdbdb"
+background_text_input = "#e4e4e4"
+background_title_bar = "#e4e4e4"
+border = "#4e4e4e"
+border_selected = "#e4e4e4"
+code = "#d7ab54"
+highlight = "#e4e4e4"
+nickname = "#c57d42"
+selection = "#c0c0c0"
+timestamp = "#232323"
+topic = "#1c1c1c"
+url = "#376388"
+
+[buffer.server_messages]
+join = "#71983b"
+part = "#cc5450"
+quit = "#cc5450"
+default = "#c57d42"
+
+[buttons.primary]
+background = "#dbdbdb"
+background_hover = "#c0c0c0"
+background_selected = "#4e4e4e"
+background_selected_hover = "#1c1c1c"
+
+[buttons.secondary]
+background = "#e4e4e4"
+background_hover = "#c0c0c0"
+background_selected = "#4e4e4e"
+background_selected_hover = "#1c1c1c"

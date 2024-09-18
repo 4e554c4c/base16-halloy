@@ -1,0 +1,47 @@
+## Base16 Spaceduck
+# Author: Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+[general]
+background = "#16172d"
+border = "#ffffff"
+horizontal_rule = "#30365f"
+unread_indicator = "#f2ce00"
+
+[text]
+primary = "#ecf0c1"
+secondary = "#818596"
+tertiary = "#f2ce00"
+success = "#5ccc96"
+error = "#e33400"
+
+[buffer]
+action = "#5ccc96"
+background = "#16172d"
+background_text_input = "#1b1c36"
+background_title_bar = "#1b1c36"
+border = "#686f9a"
+border_selected = "#ffffff"
+code = "#b3a1e6"
+highlight = "#1b1c36"
+nickname = "#00a3cc"
+selection = "#30365f"
+timestamp = "#ecf0c1"
+topic = "#818596"
+url = "#7a5ccc"
+
+[buffer.server_messages]
+join = "#5ccc96"
+part = "#e33400"
+quit = "#e33400"
+default = "#00a3cc"
+
+[buttons.primary]
+background = "#16172d"
+background_hover = "#30365f"
+background_selected = "#686f9a"
+background_selected_hover = "#818596"
+
+[buttons.secondary]
+background = "#1b1c36"
+background_hover = "#30365f"
+background_selected = "#686f9a"
+background_selected_hover = "#818596"

@@ -1,0 +1,47 @@
+## Base16 Darktooth
+# Author: Jason Milkins (https://github.com/jasonm23)
+[general]
+background = "#1d2021"
+border = "#fdf4c1"
+horizontal_rule = "#504945"
+unread_indicator = "#fac03b"
+
+[text]
+primary = "#a89984"
+secondary = "#928374"
+tertiary = "#fac03b"
+success = "#95c085"
+error = "#fb543f"
+
+[buffer]
+action = "#95c085"
+background = "#1d2021"
+background_text_input = "#32302f"
+background_title_bar = "#32302f"
+border = "#665c54"
+border_selected = "#fdf4c1"
+code = "#8f4673"
+highlight = "#32302f"
+nickname = "#8ba59b"
+selection = "#504945"
+timestamp = "#a89984"
+topic = "#928374"
+url = "#0d6678"
+
+[buffer.server_messages]
+join = "#95c085"
+part = "#fb543f"
+quit = "#fb543f"
+default = "#8ba59b"
+
+[buttons.primary]
+background = "#1d2021"
+background_hover = "#504945"
+background_selected = "#665c54"
+background_selected_hover = "#928374"
+
+[buttons.secondary]
+background = "#32302f"
+background_hover = "#504945"
+background_selected = "#665c54"
+background_selected_hover = "#928374"

@@ -1,0 +1,47 @@
+## Base16 Edge Light
+# Author: cjayross (https://github.com/cjayross)
+[general]
+background = "#fafafa"
+border = "#5e646f"
+horizontal_rule = "#d69822"
+unread_indicator = "#d69822"
+
+[text]
+primary = "#5e646f"
+secondary = "#6587bf"
+tertiary = "#d69822"
+success = "#7c9f4b"
+error = "#db7070"
+
+[buffer]
+action = "#7c9f4b"
+background = "#fafafa"
+background_text_input = "#7c9f4b"
+background_title_bar = "#7c9f4b"
+border = "#5e646f"
+border_selected = "#5e646f"
+code = "#b870ce"
+highlight = "#7c9f4b"
+nickname = "#509c93"
+selection = "#d69822"
+timestamp = "#5e646f"
+topic = "#6587bf"
+url = "#6587bf"
+
+[buffer.server_messages]
+join = "#7c9f4b"
+part = "#db7070"
+quit = "#db7070"
+default = "#509c93"
+
+[buttons.primary]
+background = "#fafafa"
+background_hover = "#d69822"
+background_selected = "#5e646f"
+background_selected_hover = "#6587bf"
+
+[buttons.secondary]
+background = "#7c9f4b"
+background_hover = "#d69822"
+background_selected = "#5e646f"
+background_selected_hover = "#6587bf"

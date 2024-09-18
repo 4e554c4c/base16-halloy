@@ -1,0 +1,47 @@
+## Base16 Atelier Forest Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#f1efee"
+border = "#1b1918"
+horizontal_rule = "#a8a19f"
+unread_indicator = "#c38418"
+
+[text]
+primary = "#68615e"
+secondary = "#766e6b"
+tertiary = "#c38418"
+success = "#7b9726"
+error = "#f22c40"
+
+[buffer]
+action = "#7b9726"
+background = "#f1efee"
+background_text_input = "#e6e2e0"
+background_title_bar = "#e6e2e0"
+border = "#9c9491"
+border_selected = "#1b1918"
+code = "#6666ea"
+highlight = "#e6e2e0"
+nickname = "#3d97b8"
+selection = "#a8a19f"
+timestamp = "#68615e"
+topic = "#766e6b"
+url = "#407ee7"
+
+[buffer.server_messages]
+join = "#7b9726"
+part = "#f22c40"
+quit = "#f22c40"
+default = "#3d97b8"
+
+[buttons.primary]
+background = "#f1efee"
+background_hover = "#a8a19f"
+background_selected = "#9c9491"
+background_selected_hover = "#766e6b"
+
+[buttons.secondary]
+background = "#e6e2e0"
+background_hover = "#a8a19f"
+background_selected = "#9c9491"
+background_selected_hover = "#766e6b"

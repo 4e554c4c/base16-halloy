@@ -1,0 +1,47 @@
+## Base16 Atelier Heath
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#1b181b"
+border = "#f7f3f7"
+horizontal_rule = "#695d69"
+unread_indicator = "#bb8a35"
+
+[text]
+primary = "#ab9bab"
+secondary = "#9e8f9e"
+tertiary = "#bb8a35"
+success = "#918b3b"
+error = "#ca402b"
+
+[buffer]
+action = "#918b3b"
+background = "#1b181b"
+background_text_input = "#292329"
+background_title_bar = "#292329"
+border = "#776977"
+border_selected = "#f7f3f7"
+code = "#7b59c0"
+highlight = "#292329"
+nickname = "#159393"
+selection = "#695d69"
+timestamp = "#ab9bab"
+topic = "#9e8f9e"
+url = "#516aec"
+
+[buffer.server_messages]
+join = "#918b3b"
+part = "#ca402b"
+quit = "#ca402b"
+default = "#159393"
+
+[buttons.primary]
+background = "#1b181b"
+background_hover = "#695d69"
+background_selected = "#776977"
+background_selected_hover = "#9e8f9e"
+
+[buttons.secondary]
+background = "#292329"
+background_hover = "#695d69"
+background_selected = "#776977"
+background_selected_hover = "#9e8f9e"

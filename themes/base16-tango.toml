@@ -1,0 +1,47 @@
+## Base16 Tango
+# Author: @Schnouki, based on the Tango Desktop Project
+[general]
+background = "#2e3436"
+border = "#eeeeec"
+horizontal_rule = "#fce94f"
+unread_indicator = "#c4a000"
+
+[text]
+primary = "#d3d7cf"
+secondary = "#729fcf"
+tertiary = "#c4a000"
+success = "#4e9a06"
+error = "#cc0000"
+
+[buffer]
+action = "#4e9a06"
+background = "#2e3436"
+background_text_input = "#8ae234"
+background_title_bar = "#8ae234"
+border = "#555753"
+border_selected = "#eeeeec"
+code = "#75507b"
+highlight = "#8ae234"
+nickname = "#06989a"
+selection = "#fce94f"
+timestamp = "#d3d7cf"
+topic = "#729fcf"
+url = "#3465a4"
+
+[buffer.server_messages]
+join = "#4e9a06"
+part = "#cc0000"
+quit = "#cc0000"
+default = "#06989a"
+
+[buttons.primary]
+background = "#2e3436"
+background_hover = "#fce94f"
+background_selected = "#555753"
+background_selected_hover = "#729fcf"
+
+[buttons.secondary]
+background = "#8ae234"
+background_hover = "#fce94f"
+background_selected = "#555753"
+background_selected_hover = "#729fcf"

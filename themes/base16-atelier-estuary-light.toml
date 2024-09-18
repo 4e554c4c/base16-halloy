@@ -1,0 +1,47 @@
+## Base16 Atelier Estuary Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#f4f3ec"
+border = "#22221b"
+horizontal_rule = "#929181"
+unread_indicator = "#a5980d"
+
+[text]
+primary = "#5f5e4e"
+secondary = "#6c6b5a"
+tertiary = "#a5980d"
+success = "#7d9726"
+error = "#ba6236"
+
+[buffer]
+action = "#7d9726"
+background = "#f4f3ec"
+background_text_input = "#e7e6df"
+background_title_bar = "#e7e6df"
+border = "#878573"
+border_selected = "#22221b"
+code = "#5f9182"
+highlight = "#e7e6df"
+nickname = "#5b9d48"
+selection = "#929181"
+timestamp = "#5f5e4e"
+topic = "#6c6b5a"
+url = "#36a166"
+
+[buffer.server_messages]
+join = "#7d9726"
+part = "#ba6236"
+quit = "#ba6236"
+default = "#5b9d48"
+
+[buttons.primary]
+background = "#f4f3ec"
+background_hover = "#929181"
+background_selected = "#878573"
+background_selected_hover = "#6c6b5a"
+
+[buttons.secondary]
+background = "#e7e6df"
+background_hover = "#929181"
+background_selected = "#878573"
+background_selected_hover = "#6c6b5a"

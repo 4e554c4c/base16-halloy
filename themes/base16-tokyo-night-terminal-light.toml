@@ -1,0 +1,47 @@
+## Base16 Tokyo Night Terminal Light
+# Author: Michaël Ball
+[general]
+background = "#d5d6db"
+border = "#1a1b26"
+horizontal_rule = "#dfe0e5"
+unread_indicator = "#8f5e15"
+
+[text]
+primary = "#4c505e"
+secondary = "#4c505e"
+tertiary = "#8f5e15"
+success = "#33635c"
+error = "#8c4351"
+
+[buffer]
+action = "#33635c"
+background = "#d5d6db"
+background_text_input = "#cbccd1"
+background_title_bar = "#cbccd1"
+border = "#9699a3"
+border_selected = "#1a1b26"
+code = "#5a4a78"
+highlight = "#cbccd1"
+nickname = "#0f4b6e"
+selection = "#dfe0e5"
+timestamp = "#4c505e"
+topic = "#4c505e"
+url = "#34548a"
+
+[buffer.server_messages]
+join = "#33635c"
+part = "#8c4351"
+quit = "#8c4351"
+default = "#0f4b6e"
+
+[buttons.primary]
+background = "#d5d6db"
+background_hover = "#dfe0e5"
+background_selected = "#9699a3"
+background_selected_hover = "#4c505e"
+
+[buttons.secondary]
+background = "#cbccd1"
+background_hover = "#dfe0e5"
+background_selected = "#9699a3"
+background_selected_hover = "#4c505e"

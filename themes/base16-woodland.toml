@@ -1,0 +1,47 @@
+## Base16 Woodland
+# Author: Jay Cornwall (https://jcornwall.com)
+[general]
+background = "#231e18"
+border = "#e4d4c8"
+horizontal_rule = "#48413a"
+unread_indicator = "#e0ac16"
+
+[text]
+primary = "#cabcb1"
+secondary = "#b4a490"
+tertiary = "#e0ac16"
+success = "#b7ba53"
+error = "#d35c5c"
+
+[buffer]
+action = "#b7ba53"
+background = "#231e18"
+background_text_input = "#302b25"
+background_title_bar = "#302b25"
+border = "#9d8b70"
+border_selected = "#e4d4c8"
+code = "#bb90e2"
+highlight = "#302b25"
+nickname = "#6eb958"
+selection = "#48413a"
+timestamp = "#cabcb1"
+topic = "#b4a490"
+url = "#88a4d3"
+
+[buffer.server_messages]
+join = "#b7ba53"
+part = "#d35c5c"
+quit = "#d35c5c"
+default = "#6eb958"
+
+[buttons.primary]
+background = "#231e18"
+background_hover = "#48413a"
+background_selected = "#9d8b70"
+background_selected_hover = "#b4a490"
+
+[buttons.secondary]
+background = "#302b25"
+background_hover = "#48413a"
+background_selected = "#9d8b70"
+background_selected_hover = "#b4a490"

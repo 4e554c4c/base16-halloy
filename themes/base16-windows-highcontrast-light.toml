@@ -1,0 +1,47 @@
+## Base16 Windows High Contrast Light
+# Author: Fergus Collins (https://github.com/C-Fergus)
+[general]
+background = "#fcfcfc"
+border = "#000000"
+horizontal_rule = "#d4d4d4"
+unread_indicator = "#808000"
+
+[text]
+primary = "#545454"
+secondary = "#7e7e7e"
+tertiary = "#808000"
+success = "#008000"
+error = "#800000"
+
+[buffer]
+action = "#008000"
+background = "#fcfcfc"
+background_text_input = "#e8e8e8"
+background_title_bar = "#e8e8e8"
+border = "#c0c0c0"
+border_selected = "#000000"
+code = "#800080"
+highlight = "#e8e8e8"
+nickname = "#008080"
+selection = "#d4d4d4"
+timestamp = "#545454"
+topic = "#7e7e7e"
+url = "#000080"
+
+[buffer.server_messages]
+join = "#008000"
+part = "#800000"
+quit = "#800000"
+default = "#008080"
+
+[buttons.primary]
+background = "#fcfcfc"
+background_hover = "#d4d4d4"
+background_selected = "#c0c0c0"
+background_selected_hover = "#7e7e7e"
+
+[buttons.secondary]
+background = "#e8e8e8"
+background_hover = "#d4d4d4"
+background_selected = "#c0c0c0"
+background_selected_hover = "#7e7e7e"

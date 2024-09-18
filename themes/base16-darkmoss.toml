@@ -1,0 +1,47 @@
+## Base16 darkmoss
+# Author: Gabriel Avanzi (https://github.com/avanzzzi)
+[general]
+background = "#171e1f"
+border = "#e1eaef"
+horizontal_rule = "#373c3d"
+unread_indicator = "#fdb11f"
+
+[text]
+primary = "#c7c7a5"
+secondary = "#818f80"
+tertiary = "#fdb11f"
+success = "#499180"
+error = "#ff4658"
+
+[buffer]
+action = "#499180"
+background = "#171e1f"
+background_text_input = "#252c2d"
+background_title_bar = "#252c2d"
+border = "#555e5f"
+border_selected = "#e1eaef"
+code = "#9bc0c8"
+highlight = "#252c2d"
+nickname = "#66d9ef"
+selection = "#373c3d"
+timestamp = "#c7c7a5"
+topic = "#818f80"
+url = "#498091"
+
+[buffer.server_messages]
+join = "#499180"
+part = "#ff4658"
+quit = "#ff4658"
+default = "#66d9ef"
+
+[buttons.primary]
+background = "#171e1f"
+background_hover = "#373c3d"
+background_selected = "#555e5f"
+background_selected_hover = "#818f80"
+
+[buttons.secondary]
+background = "#252c2d"
+background_hover = "#373c3d"
+background_selected = "#555e5f"
+background_selected_hover = "#818f80"

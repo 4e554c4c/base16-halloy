@@ -1,0 +1,47 @@
+## Base16 Oxocarbon Dark
+# Author: shaunsingh/IBM
+[general]
+background = "#161616"
+border = "#08bdba"
+horizontal_rule = "#393939"
+unread_indicator = "#ee5396"
+
+[text]
+primary = "#f2f4f8"
+secondary = "#dde1e6"
+tertiary = "#ee5396"
+success = "#33b1ff"
+error = "#3ddbd9"
+
+[buffer]
+action = "#33b1ff"
+background = "#161616"
+background_text_input = "#262626"
+background_title_bar = "#262626"
+border = "#525252"
+border_selected = "#08bdba"
+code = "#be95ff"
+highlight = "#262626"
+nickname = "#ff7eb6"
+selection = "#393939"
+timestamp = "#f2f4f8"
+topic = "#dde1e6"
+url = "#42be65"
+
+[buffer.server_messages]
+join = "#33b1ff"
+part = "#3ddbd9"
+quit = "#3ddbd9"
+default = "#ff7eb6"
+
+[buttons.primary]
+background = "#161616"
+background_hover = "#393939"
+background_selected = "#525252"
+background_selected_hover = "#dde1e6"
+
+[buttons.secondary]
+background = "#262626"
+background_hover = "#393939"
+background_selected = "#525252"
+background_selected_hover = "#dde1e6"

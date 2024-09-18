@@ -1,0 +1,47 @@
+## Base16 selenized-white
+# Author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+[general]
+background = "#ffffff"
+border = "#282828"
+horizontal_rule = "#cdcdcd"
+unread_indicator = "#af8500"
+
+[text]
+primary = "#474747"
+secondary = "#878787"
+tertiary = "#af8500"
+success = "#008400"
+error = "#bf0000"
+
+[buffer]
+action = "#008400"
+background = "#ffffff"
+background_text_input = "#ebebeb"
+background_title_bar = "#ebebeb"
+border = "#878787"
+border_selected = "#282828"
+code = "#6b40c3"
+highlight = "#ebebeb"
+nickname = "#009a8a"
+selection = "#cdcdcd"
+timestamp = "#474747"
+topic = "#878787"
+url = "#0054cf"
+
+[buffer.server_messages]
+join = "#008400"
+part = "#bf0000"
+quit = "#bf0000"
+default = "#009a8a"
+
+[buttons.primary]
+background = "#ffffff"
+background_hover = "#cdcdcd"
+background_selected = "#878787"
+background_selected_hover = "#878787"
+
+[buttons.secondary]
+background = "#ebebeb"
+background_hover = "#cdcdcd"
+background_selected = "#878787"
+background_selected_hover = "#878787"

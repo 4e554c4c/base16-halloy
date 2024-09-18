@@ -1,0 +1,47 @@
+## Base16 Ayu Mirage
+# Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+[general]
+background = "#171b24"
+border = "#f3f4f5"
+horizontal_rule = "#242936"
+unread_indicator = "#ffd173"
+
+[text]
+primary = "#cccac2"
+secondary = "#8a9199"
+tertiary = "#ffd173"
+success = "#d5ff80"
+error = "#f28779"
+
+[buffer]
+action = "#d5ff80"
+background = "#171b24"
+background_text_input = "#1f2430"
+background_title_bar = "#1f2430"
+border = "#707a8c"
+border_selected = "#f3f4f5"
+code = "#d4bfff"
+highlight = "#1f2430"
+nickname = "#95e6cb"
+selection = "#242936"
+timestamp = "#cccac2"
+topic = "#8a9199"
+url = "#5ccfe6"
+
+[buffer.server_messages]
+join = "#d5ff80"
+part = "#f28779"
+quit = "#f28779"
+default = "#95e6cb"
+
+[buttons.primary]
+background = "#171b24"
+background_hover = "#242936"
+background_selected = "#707a8c"
+background_selected_hover = "#8a9199"
+
+[buttons.secondary]
+background = "#1f2430"
+background_hover = "#242936"
+background_selected = "#707a8c"
+background_selected_hover = "#8a9199"

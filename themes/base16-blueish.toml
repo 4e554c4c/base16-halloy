@@ -1,0 +1,47 @@
+## Base16 Blueish
+# Author: Ben Mayoras
+[general]
+background = "#182430"
+border = "#8f98a0"
+horizontal_rule = "#46290a"
+unread_indicator = "#82aaff"
+
+[text]
+primary = "#c8e1f8"
+secondary = "#74afe7"
+tertiary = "#82aaff"
+success = "#c3e88d"
+error = "#4ce587"
+
+[buffer]
+action = "#c3e88d"
+background = "#182430"
+background_text_input = "#243c54"
+background_title_bar = "#243c54"
+border = "#616d78"
+border_selected = "#8f98a0"
+code = "#ff84dd"
+highlight = "#243c54"
+nickname = "#5fd1ff"
+selection = "#46290a"
+timestamp = "#c8e1f8"
+topic = "#74afe7"
+url = "#82aaff"
+
+[buffer.server_messages]
+join = "#c3e88d"
+part = "#4ce587"
+quit = "#4ce587"
+default = "#5fd1ff"
+
+[buttons.primary]
+background = "#182430"
+background_hover = "#46290a"
+background_selected = "#616d78"
+background_selected_hover = "#74afe7"
+
+[buttons.secondary]
+background = "#243c54"
+background_hover = "#46290a"
+background_selected = "#616d78"
+background_selected_hover = "#74afe7"

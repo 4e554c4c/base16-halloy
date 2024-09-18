@@ -1,0 +1,47 @@
+## Base16 Material
+# Author: Nate Peterson
+[general]
+background = "#263238"
+border = "#ffffff"
+horizontal_rule = "#314549"
+unread_indicator = "#ffcb6b"
+
+[text]
+primary = "#eeffff"
+secondary = "#b2ccd6"
+tertiary = "#ffcb6b"
+success = "#c3e88d"
+error = "#f07178"
+
+[buffer]
+action = "#c3e88d"
+background = "#263238"
+background_text_input = "#2e3c43"
+background_title_bar = "#2e3c43"
+border = "#546e7a"
+border_selected = "#ffffff"
+code = "#c792ea"
+highlight = "#2e3c43"
+nickname = "#89ddff"
+selection = "#314549"
+timestamp = "#eeffff"
+topic = "#b2ccd6"
+url = "#82aaff"
+
+[buffer.server_messages]
+join = "#c3e88d"
+part = "#f07178"
+quit = "#f07178"
+default = "#89ddff"
+
+[buttons.primary]
+background = "#263238"
+background_hover = "#314549"
+background_selected = "#546e7a"
+background_selected_hover = "#b2ccd6"
+
+[buttons.secondary]
+background = "#2e3c43"
+background_hover = "#314549"
+background_selected = "#546e7a"
+background_selected_hover = "#b2ccd6"

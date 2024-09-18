@@ -1,0 +1,47 @@
+## Base16 Heetch Dark
+# Author: Geoffrey Teale (tealeg@gmail.com)
+[general]
+background = "#190134"
+border = "#feffff"
+horizontal_rule = "#5a496e"
+unread_indicator = "#8f6c97"
+
+[text]
+primary = "#bdb6c5"
+secondary = "#9c92a8"
+tertiary = "#8f6c97"
+success = "#c33678"
+error = "#27d9d5"
+
+[buffer]
+action = "#c33678"
+background = "#190134"
+background_text_input = "#392551"
+background_title_bar = "#392551"
+border = "#7b6d8b"
+border_selected = "#feffff"
+code = "#82034c"
+highlight = "#392551"
+nickname = "#f80059"
+selection = "#5a496e"
+timestamp = "#bdb6c5"
+topic = "#9c92a8"
+url = "#bd0152"
+
+[buffer.server_messages]
+join = "#c33678"
+part = "#27d9d5"
+quit = "#27d9d5"
+default = "#f80059"
+
+[buttons.primary]
+background = "#190134"
+background_hover = "#5a496e"
+background_selected = "#7b6d8b"
+background_selected_hover = "#9c92a8"
+
+[buttons.secondary]
+background = "#392551"
+background_hover = "#5a496e"
+background_selected = "#7b6d8b"
+background_selected_hover = "#9c92a8"

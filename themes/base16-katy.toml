@@ -1,0 +1,47 @@
+## Base16 Katy
+# Author: George Essig (https://github.com/gessig)
+[general]
+background = "#292d3e"
+border = "#ffffff"
+horizontal_rule = "#5c598b"
+unread_indicator = "#e0a557"
+
+[text]
+primary = "#959dcb"
+secondary = "#8796b0"
+tertiary = "#e0a557"
+success = "#78c06e"
+error = "#6e98e1"
+
+[buffer]
+action = "#78c06e"
+background = "#292d3e"
+background_text_input = "#444267"
+background_title_bar = "#444267"
+border = "#676e95"
+border_selected = "#ffffff"
+code = "#c792ea"
+highlight = "#444267"
+nickname = "#83b7e5"
+selection = "#5c598b"
+timestamp = "#959dcb"
+topic = "#8796b0"
+url = "#82aaff"
+
+[buffer.server_messages]
+join = "#78c06e"
+part = "#6e98e1"
+quit = "#6e98e1"
+default = "#83b7e5"
+
+[buttons.primary]
+background = "#292d3e"
+background_hover = "#5c598b"
+background_selected = "#676e95"
+background_selected_hover = "#8796b0"
+
+[buttons.secondary]
+background = "#444267"
+background_hover = "#5c598b"
+background_selected = "#676e95"
+background_selected_hover = "#8796b0"

@@ -1,0 +1,47 @@
+## Base16 Tokyo City Dark
+# Author: Michaël Ball
+[general]
+background = "#171d23"
+border = "#fbfbfd"
+horizontal_rule = "#28323a"
+unread_indicator = "#b7c5d3"
+
+[text]
+primary = "#d8e2ec"
+secondary = "#b7c5d3"
+tertiary = "#b7c5d3"
+success = "#9ece6a"
+error = "#f7768e"
+
+[buffer]
+action = "#9ece6a"
+background = "#171d23"
+background_text_input = "#1d252c"
+background_title_bar = "#1d252c"
+border = "#526270"
+border_selected = "#fbfbfd"
+code = "#bb9af7"
+highlight = "#1d252c"
+nickname = "#89ddff"
+selection = "#28323a"
+timestamp = "#d8e2ec"
+topic = "#b7c5d3"
+url = "#7aa2f7"
+
+[buffer.server_messages]
+join = "#9ece6a"
+part = "#f7768e"
+quit = "#f7768e"
+default = "#89ddff"
+
+[buttons.primary]
+background = "#171d23"
+background_hover = "#28323a"
+background_selected = "#526270"
+background_selected_hover = "#b7c5d3"
+
+[buttons.secondary]
+background = "#1d252c"
+background_hover = "#28323a"
+background_selected = "#526270"
+background_selected_hover = "#b7c5d3"

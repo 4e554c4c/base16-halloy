@@ -1,0 +1,47 @@
+## Base16 Brewer
+# Author: Timothée Poisot (http://github.com/tpoisot)
+[general]
+background = "#0c0d0e"
+border = "#fcfdfe"
+horizontal_rule = "#515253"
+unread_indicator = "#dca060"
+
+[text]
+primary = "#b7b8b9"
+secondary = "#959697"
+tertiary = "#dca060"
+success = "#31a354"
+error = "#e31a1c"
+
+[buffer]
+action = "#31a354"
+background = "#0c0d0e"
+background_text_input = "#2e2f30"
+background_title_bar = "#2e2f30"
+border = "#737475"
+border_selected = "#fcfdfe"
+code = "#756bb1"
+highlight = "#2e2f30"
+nickname = "#80b1d3"
+selection = "#515253"
+timestamp = "#b7b8b9"
+topic = "#959697"
+url = "#3182bd"
+
+[buffer.server_messages]
+join = "#31a354"
+part = "#e31a1c"
+quit = "#e31a1c"
+default = "#80b1d3"
+
+[buttons.primary]
+background = "#0c0d0e"
+background_hover = "#515253"
+background_selected = "#737475"
+background_selected_hover = "#959697"
+
+[buttons.secondary]
+background = "#2e2f30"
+background_hover = "#515253"
+background_selected = "#737475"
+background_selected_hover = "#959697"

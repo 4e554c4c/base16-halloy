@@ -1,0 +1,47 @@
+## Base16 Atelier Lakeside
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#161b1d"
+border = "#ebf8ff"
+horizontal_rule = "#516d7b"
+unread_indicator = "#8a8a0f"
+
+[text]
+primary = "#7ea2b4"
+secondary = "#7195a8"
+tertiary = "#8a8a0f"
+success = "#568c3b"
+error = "#d22d72"
+
+[buffer]
+action = "#568c3b"
+background = "#161b1d"
+background_text_input = "#1f292e"
+background_title_bar = "#1f292e"
+border = "#5a7b8c"
+border_selected = "#ebf8ff"
+code = "#6b6bb8"
+highlight = "#1f292e"
+nickname = "#2d8f6f"
+selection = "#516d7b"
+timestamp = "#7ea2b4"
+topic = "#7195a8"
+url = "#257fad"
+
+[buffer.server_messages]
+join = "#568c3b"
+part = "#d22d72"
+quit = "#d22d72"
+default = "#2d8f6f"
+
+[buttons.primary]
+background = "#161b1d"
+background_hover = "#516d7b"
+background_selected = "#5a7b8c"
+background_selected_hover = "#7195a8"
+
+[buttons.secondary]
+background = "#1f292e"
+background_hover = "#516d7b"
+background_selected = "#5a7b8c"
+background_selected_hover = "#7195a8"

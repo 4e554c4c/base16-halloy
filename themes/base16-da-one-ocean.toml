@@ -1,0 +1,47 @@
+## Base16 Da One Ocean
+# Author: NNB (https://github.com/NNBnh)
+[general]
+background = "#171726"
+border = "#ffffff"
+horizontal_rule = "#525866"
+unread_indicator = "#ff9470"
+
+[text]
+primary = "#ffffff"
+secondary = "#c8c8c8"
+tertiary = "#ff9470"
+success = "#98c379"
+error = "#fa7883"
+
+[buffer]
+action = "#98c379"
+background = "#171726"
+background_text_input = "#22273d"
+background_title_bar = "#22273d"
+border = "#878d96"
+border_selected = "#ffffff"
+code = "#e799ff"
+highlight = "#22273d"
+nickname = "#8af5ff"
+selection = "#525866"
+timestamp = "#ffffff"
+topic = "#c8c8c8"
+url = "#6bb8ff"
+
+[buffer.server_messages]
+join = "#98c379"
+part = "#fa7883"
+quit = "#fa7883"
+default = "#8af5ff"
+
+[buttons.primary]
+background = "#171726"
+background_hover = "#525866"
+background_selected = "#878d96"
+background_selected_hover = "#c8c8c8"
+
+[buttons.secondary]
+background = "#22273d"
+background_hover = "#525866"
+background_selected = "#878d96"
+background_selected_hover = "#c8c8c8"

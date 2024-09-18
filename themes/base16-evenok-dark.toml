@@ -1,0 +1,47 @@
+## Base16 Evenok Dark
+# Author: Mekeor Melire
+[general]
+background = "#000000"
+border = "#ffffff"
+horizontal_rule = "#303030"
+unread_indicator = "#b8a300"
+
+[text]
+primary = "#d0d0d0"
+secondary = "#b0b0b0"
+tertiary = "#b8a300"
+success = "#54bc5c"
+error = "#f5708a"
+
+[buffer]
+action = "#54bc5c"
+background = "#000000"
+background_text_input = "#202020"
+background_title_bar = "#202020"
+border = "#505050"
+border_selected = "#ffffff"
+code = "#9095ff"
+highlight = "#202020"
+nickname = "#00bab3"
+selection = "#303030"
+timestamp = "#d0d0d0"
+topic = "#b0b0b0"
+url = "#00aff2"
+
+[buffer.server_messages]
+join = "#54bc5c"
+part = "#f5708a"
+quit = "#f5708a"
+default = "#00bab3"
+
+[buttons.primary]
+background = "#000000"
+background_hover = "#303030"
+background_selected = "#505050"
+background_selected_hover = "#b0b0b0"
+
+[buttons.secondary]
+background = "#202020"
+background_hover = "#303030"
+background_selected = "#505050"
+background_selected_hover = "#b0b0b0"

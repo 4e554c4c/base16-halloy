@@ -1,0 +1,47 @@
+## Base16 tender
+# Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+[general]
+background = "#282828"
+border = "#feffff"
+horizontal_rule = "#484848"
+unread_indicator = "#ffc24b"
+
+[text]
+primary = "#eeeeee"
+secondary = "#b8b8b8"
+tertiary = "#ffc24b"
+success = "#c9d05c"
+error = "#f43753"
+
+[buffer]
+action = "#c9d05c"
+background = "#282828"
+background_text_input = "#383838"
+background_title_bar = "#383838"
+border = "#4c4c4c"
+border_selected = "#feffff"
+code = "#d3b987"
+highlight = "#383838"
+nickname = "#73cef4"
+selection = "#484848"
+timestamp = "#eeeeee"
+topic = "#b8b8b8"
+url = "#b3deef"
+
+[buffer.server_messages]
+join = "#c9d05c"
+part = "#f43753"
+quit = "#f43753"
+default = "#73cef4"
+
+[buttons.primary]
+background = "#282828"
+background_hover = "#484848"
+background_selected = "#4c4c4c"
+background_selected_hover = "#b8b8b8"
+
+[buttons.secondary]
+background = "#383838"
+background_hover = "#484848"
+background_selected = "#4c4c4c"
+background_selected_hover = "#b8b8b8"

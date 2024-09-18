@@ -1,0 +1,47 @@
+## Base16 Macintosh
+# Author: Rebecca Bettencourt (http://www.kreativekorp.com)
+[general]
+background = "#000000"
+border = "#ffffff"
+horizontal_rule = "#404040"
+unread_indicator = "#fbf305"
+
+[text]
+primary = "#c0c0c0"
+secondary = "#808080"
+tertiary = "#fbf305"
+success = "#1fb714"
+error = "#dd0907"
+
+[buffer]
+action = "#1fb714"
+background = "#000000"
+background_text_input = "#404040"
+background_title_bar = "#404040"
+border = "#808080"
+border_selected = "#ffffff"
+code = "#4700a5"
+highlight = "#404040"
+nickname = "#02abea"
+selection = "#404040"
+timestamp = "#c0c0c0"
+topic = "#808080"
+url = "#0000d3"
+
+[buffer.server_messages]
+join = "#1fb714"
+part = "#dd0907"
+quit = "#dd0907"
+default = "#02abea"
+
+[buttons.primary]
+background = "#000000"
+background_hover = "#404040"
+background_selected = "#808080"
+background_selected_hover = "#808080"
+
+[buttons.secondary]
+background = "#404040"
+background_hover = "#404040"
+background_selected = "#808080"
+background_selected_hover = "#808080"

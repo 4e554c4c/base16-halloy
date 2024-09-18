@@ -1,0 +1,47 @@
+## Base16 Black Metal (Marduk)
+# Author: metalelf0 (https://github.com/metalelf0)
+[general]
+background = "#000000"
+border = "#c1c1c1"
+horizontal_rule = "#222222"
+unread_indicator = "#626b67"
+
+[text]
+primary = "#c1c1c1"
+secondary = "#999999"
+tertiary = "#626b67"
+success = "#a5aaa7"
+error = "#5f8787"
+
+[buffer]
+action = "#a5aaa7"
+background = "#000000"
+background_text_input = "#121212"
+background_title_bar = "#121212"
+border = "#333333"
+border_selected = "#c1c1c1"
+code = "#999999"
+highlight = "#121212"
+nickname = "#aaaaaa"
+selection = "#222222"
+timestamp = "#c1c1c1"
+topic = "#999999"
+url = "#888888"
+
+[buffer.server_messages]
+join = "#a5aaa7"
+part = "#5f8787"
+quit = "#5f8787"
+default = "#aaaaaa"
+
+[buttons.primary]
+background = "#000000"
+background_hover = "#222222"
+background_selected = "#333333"
+background_selected_hover = "#999999"
+
+[buttons.secondary]
+background = "#121212"
+background_hover = "#222222"
+background_selected = "#333333"
+background_selected_hover = "#999999"

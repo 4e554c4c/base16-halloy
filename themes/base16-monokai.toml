@@ -1,0 +1,47 @@
+## Base16 Monokai
+# Author: Wimer Hazenberg (http://www.monokai.nl)
+[general]
+background = "#272822"
+border = "#f9f8f5"
+horizontal_rule = "#49483e"
+unread_indicator = "#f4bf75"
+
+[text]
+primary = "#f8f8f2"
+secondary = "#a59f85"
+tertiary = "#f4bf75"
+success = "#a6e22e"
+error = "#f92672"
+
+[buffer]
+action = "#a6e22e"
+background = "#272822"
+background_text_input = "#383830"
+background_title_bar = "#383830"
+border = "#75715e"
+border_selected = "#f9f8f5"
+code = "#ae81ff"
+highlight = "#383830"
+nickname = "#a1efe4"
+selection = "#49483e"
+timestamp = "#f8f8f2"
+topic = "#a59f85"
+url = "#66d9ef"
+
+[buffer.server_messages]
+join = "#a6e22e"
+part = "#f92672"
+quit = "#f92672"
+default = "#a1efe4"
+
+[buttons.primary]
+background = "#272822"
+background_hover = "#49483e"
+background_selected = "#75715e"
+background_selected_hover = "#a59f85"
+
+[buttons.secondary]
+background = "#383830"
+background_hover = "#49483e"
+background_selected = "#75715e"
+background_selected_hover = "#a59f85"

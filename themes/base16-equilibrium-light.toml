@@ -1,0 +1,47 @@
+## Base16 Equilibrium Light
+# Author: Carlo Abelli
+[general]
+background = "#f5f0e7"
+border = "#181c22"
+horizontal_rule = "#d8d4cb"
+unread_indicator = "#9d6f00"
+
+[text]
+primary = "#43474e"
+secondary = "#5a5f66"
+tertiary = "#9d6f00"
+success = "#637200"
+error = "#d02023"
+
+[buffer]
+action = "#637200"
+background = "#f5f0e7"
+background_text_input = "#e7e2d9"
+background_title_bar = "#e7e2d9"
+border = "#73777f"
+border_selected = "#181c22"
+code = "#4e66b6"
+highlight = "#e7e2d9"
+nickname = "#007a72"
+selection = "#d8d4cb"
+timestamp = "#43474e"
+topic = "#5a5f66"
+url = "#0073b5"
+
+[buffer.server_messages]
+join = "#637200"
+part = "#d02023"
+quit = "#d02023"
+default = "#007a72"
+
+[buttons.primary]
+background = "#f5f0e7"
+background_hover = "#d8d4cb"
+background_selected = "#73777f"
+background_selected_hover = "#5a5f66"
+
+[buttons.secondary]
+background = "#e7e2d9"
+background_hover = "#d8d4cb"
+background_selected = "#73777f"
+background_selected_hover = "#5a5f66"

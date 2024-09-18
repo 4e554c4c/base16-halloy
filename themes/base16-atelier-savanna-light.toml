@@ -1,0 +1,47 @@
+## Base16 Atelier Savanna Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#ecf4ee"
+border = "#171c19"
+horizontal_rule = "#87928a"
+unread_indicator = "#a07e3b"
+
+[text]
+primary = "#526057"
+secondary = "#5f6d64"
+tertiary = "#a07e3b"
+success = "#489963"
+error = "#b16139"
+
+[buffer]
+action = "#489963"
+background = "#ecf4ee"
+background_text_input = "#dfe7e2"
+background_title_bar = "#dfe7e2"
+border = "#78877d"
+border_selected = "#171c19"
+code = "#55859b"
+highlight = "#dfe7e2"
+nickname = "#1c9aa0"
+selection = "#87928a"
+timestamp = "#526057"
+topic = "#5f6d64"
+url = "#478c90"
+
+[buffer.server_messages]
+join = "#489963"
+part = "#b16139"
+quit = "#b16139"
+default = "#1c9aa0"
+
+[buttons.primary]
+background = "#ecf4ee"
+background_hover = "#87928a"
+background_selected = "#78877d"
+background_selected_hover = "#5f6d64"
+
+[buttons.secondary]
+background = "#dfe7e2"
+background_hover = "#87928a"
+background_selected = "#78877d"
+background_selected_hover = "#5f6d64"

@@ -1,0 +1,47 @@
+## Base16 UwUnicorn
+# Author: Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+[general]
+background = "#241b26"
+border = "#e4ccd0"
+horizontal_rule = "#46354a"
+unread_indicator = "#a84a73"
+
+[text]
+primary = "#eed5d9"
+secondary = "#7e5f83"
+tertiary = "#a84a73"
+success = "#c965bf"
+error = "#877bb6"
+
+[buffer]
+action = "#c965bf"
+background = "#241b26"
+background_text_input = "#2f2a3f"
+background_title_bar = "#2f2a3f"
+border = "#6c3cb2"
+border_selected = "#e4ccd0"
+code = "#78a38f"
+highlight = "#2f2a3f"
+nickname = "#9c5fce"
+selection = "#46354a"
+timestamp = "#eed5d9"
+topic = "#7e5f83"
+url = "#6a9eb5"
+
+[buffer.server_messages]
+join = "#c965bf"
+part = "#877bb6"
+quit = "#877bb6"
+default = "#9c5fce"
+
+[buttons.primary]
+background = "#241b26"
+background_hover = "#46354a"
+background_selected = "#6c3cb2"
+background_selected_hover = "#7e5f83"
+
+[buttons.secondary]
+background = "#2f2a3f"
+background_hover = "#46354a"
+background_selected = "#6c3cb2"
+background_selected_hover = "#7e5f83"

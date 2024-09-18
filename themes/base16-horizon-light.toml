@@ -1,0 +1,47 @@
+## Base16 Horizon Light
+# Author: Michaël Ball (http://github.com/michael-ball/)
+[general]
+background = "#fdf0ed"
+border = "#201c1d"
+horizontal_rule = "#f9cbbe"
+unread_indicator = "#fbe0d9"
+
+[text]
+primary = "#403c3d"
+secondary = "#948c8a"
+tertiary = "#fbe0d9"
+success = "#94e1b0"
+error = "#f7939b"
+
+[buffer]
+action = "#94e1b0"
+background = "#fdf0ed"
+background_text_input = "#fadad1"
+background_title_bar = "#fadad1"
+border = "#bdb3b1"
+border_selected = "#201c1d"
+code = "#1d8991"
+highlight = "#fadad1"
+nickname = "#dc3318"
+selection = "#f9cbbe"
+timestamp = "#403c3d"
+topic = "#948c8a"
+url = "#da103f"
+
+[buffer.server_messages]
+join = "#94e1b0"
+part = "#f7939b"
+quit = "#f7939b"
+default = "#dc3318"
+
+[buttons.primary]
+background = "#fdf0ed"
+background_hover = "#f9cbbe"
+background_selected = "#bdb3b1"
+background_selected_hover = "#948c8a"
+
+[buttons.secondary]
+background = "#fadad1"
+background_hover = "#f9cbbe"
+background_selected = "#bdb3b1"
+background_selected_hover = "#948c8a"

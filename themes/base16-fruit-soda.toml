@@ -1,0 +1,47 @@
+## Base16 Fruit Soda
+# Author: jozip
+[general]
+background = "#f1ecf1"
+border = "#2d2c2c"
+horizontal_rule = "#d8d5d5"
+unread_indicator = "#f7e203"
+
+[text]
+primary = "#515151"
+secondary = "#979598"
+tertiary = "#f7e203"
+success = "#47f74c"
+error = "#fe3e31"
+
+[buffer]
+action = "#47f74c"
+background = "#f1ecf1"
+background_text_input = "#e0dee0"
+background_title_bar = "#e0dee0"
+border = "#b5b4b6"
+border_selected = "#2d2c2c"
+code = "#611fce"
+highlight = "#e0dee0"
+nickname = "#0f9cfd"
+selection = "#d8d5d5"
+timestamp = "#515151"
+topic = "#979598"
+url = "#2931df"
+
+[buffer.server_messages]
+join = "#47f74c"
+part = "#fe3e31"
+quit = "#fe3e31"
+default = "#0f9cfd"
+
+[buttons.primary]
+background = "#f1ecf1"
+background_hover = "#d8d5d5"
+background_selected = "#b5b4b6"
+background_selected_hover = "#979598"
+
+[buttons.secondary]
+background = "#e0dee0"
+background_hover = "#d8d5d5"
+background_selected = "#b5b4b6"
+background_selected_hover = "#979598"

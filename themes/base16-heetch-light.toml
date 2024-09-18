@@ -1,0 +1,47 @@
+## Base16 Heetch Light
+# Author: Geoffrey Teale (tealeg@gmail.com)
+[general]
+background = "#feffff"
+border = "#190134"
+horizontal_rule = "#7b6d8b"
+unread_indicator = "#5ba2b6"
+
+[text]
+primary = "#5a496e"
+secondary = "#ddd6e5"
+tertiary = "#5ba2b6"
+success = "#f80059"
+error = "#27d9d5"
+
+[buffer]
+action = "#f80059"
+background = "#feffff"
+background_text_input = "#392551"
+background_title_bar = "#392551"
+border = "#9c92a8"
+border_selected = "#190134"
+code = "#bd0152"
+highlight = "#392551"
+nickname = "#c33678"
+selection = "#7b6d8b"
+timestamp = "#5a496e"
+topic = "#ddd6e5"
+url = "#47f9f5"
+
+[buffer.server_messages]
+join = "#f80059"
+part = "#27d9d5"
+quit = "#27d9d5"
+default = "#c33678"
+
+[buttons.primary]
+background = "#feffff"
+background_hover = "#7b6d8b"
+background_selected = "#9c92a8"
+background_selected_hover = "#ddd6e5"
+
+[buttons.secondary]
+background = "#392551"
+background_hover = "#7b6d8b"
+background_selected = "#9c92a8"
+background_selected_hover = "#ddd6e5"

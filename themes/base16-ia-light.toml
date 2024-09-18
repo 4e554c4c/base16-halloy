@@ -1,0 +1,47 @@
+## Base16 iA Light
+# Author: iA Inc. (modified by aramisgithub)
+[general]
+background = "#f6f6f6"
+border = "#f8f8f8"
+horizontal_rule = "#bde5f2"
+unread_indicator = "#c48218"
+
+[text]
+primary = "#181818"
+secondary = "#767676"
+tertiary = "#c48218"
+success = "#38781c"
+error = "#9c5a02"
+
+[buffer]
+action = "#38781c"
+background = "#f6f6f6"
+background_text_input = "#dedede"
+background_title_bar = "#dedede"
+border = "#898989"
+border_selected = "#f8f8f8"
+code = "#a94598"
+highlight = "#dedede"
+nickname = "#2d6bb1"
+selection = "#bde5f2"
+timestamp = "#181818"
+topic = "#767676"
+url = "#48bac2"
+
+[buffer.server_messages]
+join = "#38781c"
+part = "#9c5a02"
+quit = "#9c5a02"
+default = "#2d6bb1"
+
+[buttons.primary]
+background = "#f6f6f6"
+background_hover = "#bde5f2"
+background_selected = "#898989"
+background_selected_hover = "#767676"
+
+[buttons.secondary]
+background = "#dedede"
+background_hover = "#bde5f2"
+background_selected = "#898989"
+background_selected_hover = "#767676"

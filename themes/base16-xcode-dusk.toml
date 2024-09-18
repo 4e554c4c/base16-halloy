@@ -1,0 +1,47 @@
+## Base16 XCode Dusk
+# Author: Elsa Gonsiorowski (https://github.com/gonsie)
+[general]
+background = "#282b35"
+border = "#bebfc2"
+horizontal_rule = "#53555d"
+unread_indicator = "#438288"
+
+[text]
+primary = "#939599"
+secondary = "#7e8086"
+tertiary = "#438288"
+success = "#df0002"
+error = "#b21889"
+
+[buffer]
+action = "#df0002"
+background = "#282b35"
+background_text_input = "#3d4048"
+background_title_bar = "#3d4048"
+border = "#686a71"
+border_selected = "#bebfc2"
+code = "#b21889"
+highlight = "#3d4048"
+nickname = "#00a0be"
+selection = "#53555d"
+timestamp = "#939599"
+topic = "#7e8086"
+url = "#790ead"
+
+[buffer.server_messages]
+join = "#df0002"
+part = "#b21889"
+quit = "#b21889"
+default = "#00a0be"
+
+[buttons.primary]
+background = "#282b35"
+background_hover = "#53555d"
+background_selected = "#686a71"
+background_selected_hover = "#7e8086"
+
+[buttons.secondary]
+background = "#3d4048"
+background_hover = "#53555d"
+background_selected = "#686a71"
+background_selected_hover = "#7e8086"

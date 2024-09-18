@@ -1,0 +1,47 @@
+## Base16 Atelier Dune Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#fefbec"
+border = "#20201d"
+horizontal_rule = "#a6a28c"
+unread_indicator = "#ae9513"
+
+[text]
+primary = "#6e6b5e"
+secondary = "#7d7a68"
+tertiary = "#ae9513"
+success = "#60ac39"
+error = "#d73737"
+
+[buffer]
+action = "#60ac39"
+background = "#fefbec"
+background_text_input = "#e8e4cf"
+background_title_bar = "#e8e4cf"
+border = "#999580"
+border_selected = "#20201d"
+code = "#b854d4"
+highlight = "#e8e4cf"
+nickname = "#1fad83"
+selection = "#a6a28c"
+timestamp = "#6e6b5e"
+topic = "#7d7a68"
+url = "#6684e1"
+
+[buffer.server_messages]
+join = "#60ac39"
+part = "#d73737"
+quit = "#d73737"
+default = "#1fad83"
+
+[buttons.primary]
+background = "#fefbec"
+background_hover = "#a6a28c"
+background_selected = "#999580"
+background_selected_hover = "#7d7a68"
+
+[buttons.secondary]
+background = "#e8e4cf"
+background_hover = "#a6a28c"
+background_selected = "#999580"
+background_selected_hover = "#7d7a68"

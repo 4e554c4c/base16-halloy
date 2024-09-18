@@ -1,0 +1,47 @@
+## Base16 Gotham
+# Author: Andrea Leopardi (arranged by Brett Jones)
+[general]
+background = "#0c1014"
+border = "#d3ebe9"
+horizontal_rule = "#091f2e"
+unread_indicator = "#edb443"
+
+[text]
+primary = "#599cab"
+secondary = "#245361"
+tertiary = "#edb443"
+success = "#33859e"
+error = "#c23127"
+
+[buffer]
+action = "#33859e"
+background = "#0c1014"
+background_text_input = "#11151c"
+background_title_bar = "#11151c"
+border = "#0a3749"
+border_selected = "#d3ebe9"
+code = "#888ca6"
+highlight = "#11151c"
+nickname = "#2aa889"
+selection = "#091f2e"
+timestamp = "#599cab"
+topic = "#245361"
+url = "#195466"
+
+[buffer.server_messages]
+join = "#33859e"
+part = "#c23127"
+quit = "#c23127"
+default = "#2aa889"
+
+[buttons.primary]
+background = "#0c1014"
+background_hover = "#091f2e"
+background_selected = "#0a3749"
+background_selected_hover = "#245361"
+
+[buttons.secondary]
+background = "#11151c"
+background_hover = "#091f2e"
+background_selected = "#0a3749"
+background_selected_hover = "#245361"

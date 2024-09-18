@@ -1,0 +1,47 @@
+## Base16 Atelier Forest
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#1b1918"
+border = "#f1efee"
+horizontal_rule = "#68615e"
+unread_indicator = "#c38418"
+
+[text]
+primary = "#a8a19f"
+secondary = "#9c9491"
+tertiary = "#c38418"
+success = "#7b9726"
+error = "#f22c40"
+
+[buffer]
+action = "#7b9726"
+background = "#1b1918"
+background_text_input = "#2c2421"
+background_title_bar = "#2c2421"
+border = "#766e6b"
+border_selected = "#f1efee"
+code = "#6666ea"
+highlight = "#2c2421"
+nickname = "#3d97b8"
+selection = "#68615e"
+timestamp = "#a8a19f"
+topic = "#9c9491"
+url = "#407ee7"
+
+[buffer.server_messages]
+join = "#7b9726"
+part = "#f22c40"
+quit = "#f22c40"
+default = "#3d97b8"
+
+[buttons.primary]
+background = "#1b1918"
+background_hover = "#68615e"
+background_selected = "#766e6b"
+background_selected_hover = "#9c9491"
+
+[buttons.secondary]
+background = "#2c2421"
+background_hover = "#68615e"
+background_selected = "#766e6b"
+background_selected_hover = "#9c9491"

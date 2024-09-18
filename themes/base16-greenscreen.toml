@@ -1,0 +1,47 @@
+## Base16 Green Screen
+# Author: Chris Kempson (http://chriskempson.com)
+[general]
+background = "#001100"
+border = "#00ff00"
+horizontal_rule = "#005500"
+unread_indicator = "#007700"
+
+[text]
+primary = "#00bb00"
+secondary = "#009900"
+tertiary = "#007700"
+success = "#00bb00"
+error = "#007700"
+
+[buffer]
+action = "#00bb00"
+background = "#001100"
+background_text_input = "#003300"
+background_title_bar = "#003300"
+border = "#007700"
+border_selected = "#00ff00"
+code = "#00bb00"
+highlight = "#003300"
+nickname = "#005500"
+selection = "#005500"
+timestamp = "#00bb00"
+topic = "#009900"
+url = "#009900"
+
+[buffer.server_messages]
+join = "#00bb00"
+part = "#007700"
+quit = "#007700"
+default = "#005500"
+
+[buttons.primary]
+background = "#001100"
+background_hover = "#005500"
+background_selected = "#007700"
+background_selected_hover = "#009900"
+
+[buttons.secondary]
+background = "#003300"
+background_hover = "#005500"
+background_selected = "#007700"
+background_selected_hover = "#009900"

@@ -1,0 +1,47 @@
+## Base16 Gruber
+# Author: Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+[general]
+background = "#181818"
+border = "#e4e4ef"
+horizontal_rule = "#484848"
+unread_indicator = "#ffdd33"
+
+[text]
+primary = "#f4f4ff"
+secondary = "#e4e4ef"
+tertiary = "#ffdd33"
+success = "#73c936"
+error = "#f43841"
+
+[buffer]
+action = "#73c936"
+background = "#181818"
+background_text_input = "#453d41"
+background_title_bar = "#453d41"
+border = "#52494e"
+border_selected = "#e4e4ef"
+code = "#9e95c7"
+highlight = "#453d41"
+nickname = "#95a99f"
+selection = "#484848"
+timestamp = "#f4f4ff"
+topic = "#e4e4ef"
+url = "#96a6c8"
+
+[buffer.server_messages]
+join = "#73c936"
+part = "#f43841"
+quit = "#f43841"
+default = "#95a99f"
+
+[buttons.primary]
+background = "#181818"
+background_hover = "#484848"
+background_selected = "#52494e"
+background_selected_hover = "#e4e4ef"
+
+[buttons.secondary]
+background = "#453d41"
+background_hover = "#484848"
+background_selected = "#52494e"
+background_selected_hover = "#e4e4ef"

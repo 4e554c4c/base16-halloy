@@ -1,0 +1,47 @@
+## Base16 Dark Violet
+# Author: ruler501 (https://github.com/ruler501/base16-darkviolet)
+[general]
+background = "#000000"
+border = "#a366ff"
+horizontal_rule = "#432d59"
+unread_indicator = "#f29df2"
+
+[text]
+primary = "#b08ae6"
+secondary = "#00ff00"
+tertiary = "#f29df2"
+success = "#4595e6"
+error = "#a82ee6"
+
+[buffer]
+action = "#4595e6"
+background = "#000000"
+background_text_input = "#231a40"
+background_title_bar = "#231a40"
+border = "#593380"
+border_selected = "#a366ff"
+code = "#7e5ce6"
+highlight = "#231a40"
+nickname = "#40dfff"
+selection = "#432d59"
+timestamp = "#b08ae6"
+topic = "#00ff00"
+url = "#4136d9"
+
+[buffer.server_messages]
+join = "#4595e6"
+part = "#a82ee6"
+quit = "#a82ee6"
+default = "#40dfff"
+
+[buttons.primary]
+background = "#000000"
+background_hover = "#432d59"
+background_selected = "#593380"
+background_selected_hover = "#00ff00"
+
+[buttons.secondary]
+background = "#231a40"
+background_hover = "#432d59"
+background_selected = "#593380"
+background_selected_hover = "#00ff00"

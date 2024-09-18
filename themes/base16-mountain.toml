@@ -1,0 +1,47 @@
+## Base16 Mountain
+# Author: gnsfujiwara (https://github.com/gnsfujiwara)
+[general]
+background = "#0f0f0f"
+border = "#f0f0f0"
+horizontal_rule = "#262626"
+unread_indicator = "#aca98a"
+
+[text]
+primary = "#cacaca"
+secondary = "#ac8a8c"
+tertiary = "#aca98a"
+success = "#8aac8b"
+error = "#ac8a8c"
+
+[buffer]
+action = "#8aac8b"
+background = "#0f0f0f"
+background_text_input = "#191919"
+background_title_bar = "#191919"
+border = "#4c4c4c"
+border_selected = "#f0f0f0"
+code = "#ac8aac"
+highlight = "#191919"
+nickname = "#8aabac"
+selection = "#262626"
+timestamp = "#cacaca"
+topic = "#ac8a8c"
+url = "#8f8aac"
+
+[buffer.server_messages]
+join = "#8aac8b"
+part = "#ac8a8c"
+quit = "#ac8a8c"
+default = "#8aabac"
+
+[buttons.primary]
+background = "#0f0f0f"
+background_hover = "#262626"
+background_selected = "#4c4c4c"
+background_selected_hover = "#ac8a8c"
+
+[buttons.secondary]
+background = "#191919"
+background_hover = "#262626"
+background_selected = "#4c4c4c"
+background_selected_hover = "#ac8a8c"

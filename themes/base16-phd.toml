@@ -1,0 +1,47 @@
+## Base16 PhD
+# Author: Hennig Hasemann (http://leetless.de/vim.html)
+[general]
+background = "#061229"
+border = "#ffffff"
+horizontal_rule = "#4d5666"
+unread_indicator = "#fbd461"
+
+[text]
+primary = "#b8bbc2"
+secondary = "#9a99a3"
+tertiary = "#fbd461"
+success = "#99bf52"
+error = "#d07346"
+
+[buffer]
+action = "#99bf52"
+background = "#061229"
+background_text_input = "#2a3448"
+background_title_bar = "#2a3448"
+border = "#717885"
+border_selected = "#ffffff"
+code = "#9989cc"
+highlight = "#2a3448"
+nickname = "#72b9bf"
+selection = "#4d5666"
+timestamp = "#b8bbc2"
+topic = "#9a99a3"
+url = "#5299bf"
+
+[buffer.server_messages]
+join = "#99bf52"
+part = "#d07346"
+quit = "#d07346"
+default = "#72b9bf"
+
+[buttons.primary]
+background = "#061229"
+background_hover = "#4d5666"
+background_selected = "#717885"
+background_selected_hover = "#9a99a3"
+
+[buttons.secondary]
+background = "#2a3448"
+background_hover = "#4d5666"
+background_selected = "#717885"
+background_selected_hover = "#9a99a3"

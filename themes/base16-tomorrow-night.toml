@@ -1,0 +1,47 @@
+## Base16 Tomorrow Night
+# Author: Chris Kempson (http://chriskempson.com)
+[general]
+background = "#1d1f21"
+border = "#ffffff"
+horizontal_rule = "#373b41"
+unread_indicator = "#f0c674"
+
+[text]
+primary = "#c5c8c6"
+secondary = "#b4b7b4"
+tertiary = "#f0c674"
+success = "#b5bd68"
+error = "#cc6666"
+
+[buffer]
+action = "#b5bd68"
+background = "#1d1f21"
+background_text_input = "#282a2e"
+background_title_bar = "#282a2e"
+border = "#969896"
+border_selected = "#ffffff"
+code = "#b294bb"
+highlight = "#282a2e"
+nickname = "#8abeb7"
+selection = "#373b41"
+timestamp = "#c5c8c6"
+topic = "#b4b7b4"
+url = "#81a2be"
+
+[buffer.server_messages]
+join = "#b5bd68"
+part = "#cc6666"
+quit = "#cc6666"
+default = "#8abeb7"
+
+[buttons.primary]
+background = "#1d1f21"
+background_hover = "#373b41"
+background_selected = "#969896"
+background_selected_hover = "#b4b7b4"
+
+[buttons.secondary]
+background = "#282a2e"
+background_hover = "#373b41"
+background_selected = "#969896"
+background_selected_hover = "#b4b7b4"

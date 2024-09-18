@@ -1,0 +1,47 @@
+## Base16 Espresso
+# Author: Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+[general]
+background = "#2d2d2d"
+border = "#ffffff"
+horizontal_rule = "#515151"
+unread_indicator = "#ffc66d"
+
+[text]
+primary = "#cccccc"
+secondary = "#b4b7b4"
+tertiary = "#ffc66d"
+success = "#a5c261"
+error = "#d25252"
+
+[buffer]
+action = "#a5c261"
+background = "#2d2d2d"
+background_text_input = "#393939"
+background_title_bar = "#393939"
+border = "#777777"
+border_selected = "#ffffff"
+code = "#d197d9"
+highlight = "#393939"
+nickname = "#bed6ff"
+selection = "#515151"
+timestamp = "#cccccc"
+topic = "#b4b7b4"
+url = "#6c99bb"
+
+[buffer.server_messages]
+join = "#a5c261"
+part = "#d25252"
+quit = "#d25252"
+default = "#bed6ff"
+
+[buttons.primary]
+background = "#2d2d2d"
+background_hover = "#515151"
+background_selected = "#777777"
+background_selected_hover = "#b4b7b4"
+
+[buttons.secondary]
+background = "#393939"
+background_hover = "#515151"
+background_selected = "#777777"
+background_selected_hover = "#b4b7b4"

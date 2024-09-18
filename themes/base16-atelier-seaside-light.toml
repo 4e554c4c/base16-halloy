@@ -1,0 +1,47 @@
+## Base16 Atelier Seaside Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#f4fbf4"
+border = "#131513"
+horizontal_rule = "#8ca68c"
+unread_indicator = "#98981b"
+
+[text]
+primary = "#5e6e5e"
+secondary = "#687d68"
+tertiary = "#98981b"
+success = "#29a329"
+error = "#e6193c"
+
+[buffer]
+action = "#29a329"
+background = "#f4fbf4"
+background_text_input = "#cfe8cf"
+background_title_bar = "#cfe8cf"
+border = "#809980"
+border_selected = "#131513"
+code = "#ad2bee"
+highlight = "#cfe8cf"
+nickname = "#1999b3"
+selection = "#8ca68c"
+timestamp = "#5e6e5e"
+topic = "#687d68"
+url = "#3d62f5"
+
+[buffer.server_messages]
+join = "#29a329"
+part = "#e6193c"
+quit = "#e6193c"
+default = "#1999b3"
+
+[buttons.primary]
+background = "#f4fbf4"
+background_hover = "#8ca68c"
+background_selected = "#809980"
+background_selected_hover = "#687d68"
+
+[buttons.secondary]
+background = "#cfe8cf"
+background_hover = "#8ca68c"
+background_selected = "#809980"
+background_selected_hover = "#687d68"

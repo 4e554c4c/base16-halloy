@@ -1,0 +1,47 @@
+## Base16 Atelier Lakeside Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#ebf8ff"
+border = "#161b1d"
+horizontal_rule = "#7ea2b4"
+unread_indicator = "#8a8a0f"
+
+[text]
+primary = "#516d7b"
+secondary = "#5a7b8c"
+tertiary = "#8a8a0f"
+success = "#568c3b"
+error = "#d22d72"
+
+[buffer]
+action = "#568c3b"
+background = "#ebf8ff"
+background_text_input = "#c1e4f6"
+background_title_bar = "#c1e4f6"
+border = "#7195a8"
+border_selected = "#161b1d"
+code = "#6b6bb8"
+highlight = "#c1e4f6"
+nickname = "#2d8f6f"
+selection = "#7ea2b4"
+timestamp = "#516d7b"
+topic = "#5a7b8c"
+url = "#257fad"
+
+[buffer.server_messages]
+join = "#568c3b"
+part = "#d22d72"
+quit = "#d22d72"
+default = "#2d8f6f"
+
+[buttons.primary]
+background = "#ebf8ff"
+background_hover = "#7ea2b4"
+background_selected = "#7195a8"
+background_selected_hover = "#5a7b8c"
+
+[buttons.secondary]
+background = "#c1e4f6"
+background_hover = "#7ea2b4"
+background_selected = "#7195a8"
+background_selected_hover = "#5a7b8c"

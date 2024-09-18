@@ -1,0 +1,47 @@
+## Base16 Ocean
+# Author: Chris Kempson (http://chriskempson.com)
+[general]
+background = "#2b303b"
+border = "#eff1f5"
+horizontal_rule = "#4f5b66"
+unread_indicator = "#ebcb8b"
+
+[text]
+primary = "#c0c5ce"
+secondary = "#a7adba"
+tertiary = "#ebcb8b"
+success = "#a3be8c"
+error = "#bf616a"
+
+[buffer]
+action = "#a3be8c"
+background = "#2b303b"
+background_text_input = "#343d46"
+background_title_bar = "#343d46"
+border = "#65737e"
+border_selected = "#eff1f5"
+code = "#b48ead"
+highlight = "#343d46"
+nickname = "#96b5b4"
+selection = "#4f5b66"
+timestamp = "#c0c5ce"
+topic = "#a7adba"
+url = "#8fa1b3"
+
+[buffer.server_messages]
+join = "#a3be8c"
+part = "#bf616a"
+quit = "#bf616a"
+default = "#96b5b4"
+
+[buttons.primary]
+background = "#2b303b"
+background_hover = "#4f5b66"
+background_selected = "#65737e"
+background_selected_hover = "#a7adba"
+
+[buttons.secondary]
+background = "#343d46"
+background_hover = "#4f5b66"
+background_selected = "#65737e"
+background_selected_hover = "#a7adba"

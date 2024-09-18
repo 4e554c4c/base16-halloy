@@ -1,0 +1,47 @@
+## Base16 Oxocarbon Light
+# Author: shaunsingh/IBM
+[general]
+background = "#f2f4f8"
+border = "#08bdba"
+horizontal_rule = "#525252"
+unread_indicator = "#ff6f00"
+
+[text]
+primary = "#393939"
+secondary = "#262626"
+tertiary = "#ff6f00"
+success = "#0f62fe"
+error = "#ff7eb6"
+
+[buffer]
+action = "#0f62fe"
+background = "#f2f4f8"
+background_text_input = "#dde1e6"
+background_title_bar = "#dde1e6"
+border = "#161616"
+border_selected = "#08bdba"
+code = "#be95ff"
+highlight = "#dde1e6"
+nickname = "#673ab7"
+selection = "#525252"
+timestamp = "#393939"
+topic = "#262626"
+url = "#42be65"
+
+[buffer.server_messages]
+join = "#0f62fe"
+part = "#ff7eb6"
+quit = "#ff7eb6"
+default = "#673ab7"
+
+[buttons.primary]
+background = "#f2f4f8"
+background_hover = "#525252"
+background_selected = "#161616"
+background_selected_hover = "#262626"
+
+[buttons.secondary]
+background = "#dde1e6"
+background_hover = "#525252"
+background_selected = "#161616"
+background_selected_hover = "#262626"

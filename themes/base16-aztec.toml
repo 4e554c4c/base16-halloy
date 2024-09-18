@@ -1,0 +1,47 @@
+## Base16 Aztec
+# Author: TheNeverMan (github.com/TheNeverMan)
+[general]
+background = "#101600"
+border = "#ffeba0"
+horizontal_rule = "#242604"
+unread_indicator = "#eebb00"
+
+[text]
+primary = "#ffda51"
+secondary = "#ffd129"
+tertiary = "#eebb00"
+success = "#63d932"
+error = "#ee2e00"
+
+[buffer]
+action = "#63d932"
+background = "#101600"
+background_text_input = "#1a1e01"
+background_title_bar = "#1a1e01"
+border = "#2e2e05"
+border_selected = "#ffeba0"
+code = "#883e9f"
+highlight = "#1a1e01"
+nickname = "#3d94a5"
+selection = "#242604"
+timestamp = "#ffda51"
+topic = "#ffd129"
+url = "#5b4a9f"
+
+[buffer.server_messages]
+join = "#63d932"
+part = "#ee2e00"
+quit = "#ee2e00"
+default = "#3d94a5"
+
+[buttons.primary]
+background = "#101600"
+background_hover = "#242604"
+background_selected = "#2e2e05"
+background_selected_hover = "#ffd129"
+
+[buttons.secondary]
+background = "#1a1e01"
+background_hover = "#242604"
+background_selected = "#2e2e05"
+background_selected_hover = "#ffd129"

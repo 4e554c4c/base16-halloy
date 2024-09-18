@@ -1,0 +1,47 @@
+## Base16 Qualia
+# Author: isaacwhanson
+[general]
+background = "#101010"
+border = "#454545"
+horizontal_rule = "#454545"
+unread_indicator = "#e6a3dc"
+
+[text]
+primary = "#c0c0c0"
+secondary = "#808080"
+tertiary = "#e6a3dc"
+success = "#80c990"
+error = "#efa6a2"
+
+[buffer]
+action = "#80c990"
+background = "#101010"
+background_text_input = "#454545"
+background_title_bar = "#454545"
+border = "#454545"
+border_selected = "#454545"
+code = "#e0af85"
+highlight = "#454545"
+nickname = "#c8c874"
+selection = "#454545"
+timestamp = "#c0c0c0"
+topic = "#808080"
+url = "#50cacd"
+
+[buffer.server_messages]
+join = "#80c990"
+part = "#efa6a2"
+quit = "#efa6a2"
+default = "#c8c874"
+
+[buttons.primary]
+background = "#101010"
+background_hover = "#454545"
+background_selected = "#454545"
+background_selected_hover = "#808080"
+
+[buttons.secondary]
+background = "#454545"
+background_hover = "#454545"
+background_selected = "#454545"
+background_selected_hover = "#808080"

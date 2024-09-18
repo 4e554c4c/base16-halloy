@@ -1,0 +1,47 @@
+## Base16 Atelier Plateau
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#1b1818"
+border = "#f4ecec"
+horizontal_rule = "#585050"
+unread_indicator = "#a06e3b"
+
+[text]
+primary = "#8a8585"
+secondary = "#7e7777"
+tertiary = "#a06e3b"
+success = "#4b8b8b"
+error = "#ca4949"
+
+[buffer]
+action = "#4b8b8b"
+background = "#1b1818"
+background_text_input = "#292424"
+background_title_bar = "#292424"
+border = "#655d5d"
+border_selected = "#f4ecec"
+code = "#8464c4"
+highlight = "#292424"
+nickname = "#5485b6"
+selection = "#585050"
+timestamp = "#8a8585"
+topic = "#7e7777"
+url = "#7272ca"
+
+[buffer.server_messages]
+join = "#4b8b8b"
+part = "#ca4949"
+quit = "#ca4949"
+default = "#5485b6"
+
+[buttons.primary]
+background = "#1b1818"
+background_hover = "#585050"
+background_selected = "#655d5d"
+background_selected_hover = "#7e7777"
+
+[buttons.secondary]
+background = "#292424"
+background_hover = "#585050"
+background_selected = "#655d5d"
+background_selected_hover = "#7e7777"

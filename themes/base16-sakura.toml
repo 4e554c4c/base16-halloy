@@ -1,0 +1,47 @@
+## Base16 Sakura
+# Author: Misterio77 (http://github.com/Misterio77)
+[general]
+background = "#feedf3"
+border = "#33292b"
+horizontal_rule = "#e0ccd1"
+unread_indicator = "#c29461"
+
+[text]
+primary = "#564448"
+secondary = "#665055"
+tertiary = "#c29461"
+success = "#2e916d"
+error = "#df2d52"
+
+[buffer]
+action = "#2e916d"
+background = "#feedf3"
+background_text_input = "#f8e2e7"
+background_title_bar = "#f8e2e7"
+border = "#755f64"
+border_selected = "#33292b"
+code = "#5e2180"
+highlight = "#f8e2e7"
+nickname = "#1d8991"
+selection = "#e0ccd1"
+timestamp = "#564448"
+topic = "#665055"
+url = "#006e93"
+
+[buffer.server_messages]
+join = "#2e916d"
+part = "#df2d52"
+quit = "#df2d52"
+default = "#1d8991"
+
+[buttons.primary]
+background = "#feedf3"
+background_hover = "#e0ccd1"
+background_selected = "#755f64"
+background_selected_hover = "#665055"
+
+[buttons.secondary]
+background = "#f8e2e7"
+background_hover = "#e0ccd1"
+background_selected = "#755f64"
+background_selected_hover = "#665055"

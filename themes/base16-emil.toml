@@ -1,0 +1,47 @@
+## Base16 emil
+# Author: limelier
+[general]
+background = "#efefef"
+border = "#1a1a2f"
+horizontal_rule = "#9e9eaf"
+unread_indicator = "#ff669b"
+
+[text]
+primary = "#313145"
+secondary = "#505063"
+tertiary = "#ff669b"
+success = "#0073a8"
+error = "#f43979"
+
+[buffer]
+action = "#0073a8"
+background = "#efefef"
+background_text_input = "#bebed2"
+background_title_bar = "#bebed2"
+border = "#7c7c98"
+border_selected = "#1a1a2f"
+code = "#6916b6"
+highlight = "#bebed2"
+nickname = "#2155d6"
+selection = "#9e9eaf"
+timestamp = "#313145"
+topic = "#505063"
+url = "#471397"
+
+[buffer.server_messages]
+join = "#0073a8"
+part = "#f43979"
+quit = "#f43979"
+default = "#2155d6"
+
+[buttons.primary]
+background = "#efefef"
+background_hover = "#9e9eaf"
+background_selected = "#7c7c98"
+background_selected_hover = "#505063"
+
+[buttons.secondary]
+background = "#bebed2"
+background_hover = "#9e9eaf"
+background_selected = "#7c7c98"
+background_selected_hover = "#505063"

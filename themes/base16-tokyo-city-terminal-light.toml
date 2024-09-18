@@ -1,0 +1,47 @@
+## Base16 Tokyo City Terminal Light
+# Author: Michaël Ball
+[general]
+background = "#fbfbfd"
+border = "#171d23"
+horizontal_rule = "#d8e2ec"
+unread_indicator = "#8f5e15"
+
+[text]
+primary = "#28323a"
+secondary = "#526270"
+tertiary = "#8f5e15"
+success = "#33635c"
+error = "#8c4351"
+
+[buffer]
+action = "#33635c"
+background = "#fbfbfd"
+background_text_input = "#f6f6f8"
+background_title_bar = "#f6f6f8"
+border = "#b7c5d3"
+border_selected = "#171d23"
+code = "#5a4a78"
+highlight = "#f6f6f8"
+nickname = "#0f4b6e"
+selection = "#d8e2ec"
+timestamp = "#28323a"
+topic = "#526270"
+url = "#34548a"
+
+[buffer.server_messages]
+join = "#33635c"
+part = "#8c4351"
+quit = "#8c4351"
+default = "#0f4b6e"
+
+[buttons.primary]
+background = "#fbfbfd"
+background_hover = "#d8e2ec"
+background_selected = "#b7c5d3"
+background_selected_hover = "#526270"
+
+[buttons.secondary]
+background = "#f6f6f8"
+background_hover = "#d8e2ec"
+background_selected = "#b7c5d3"
+background_selected_hover = "#526270"

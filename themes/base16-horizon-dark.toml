@@ -1,0 +1,47 @@
+## Base16 Horizon Dark
+# Author: Michaël Ball (http://github.com/michael-ball/)
+[general]
+background = "#1c1e26"
+border = "#e3e6ee"
+horizontal_rule = "#2e303e"
+unread_indicator = "#efb993"
+
+[text]
+primary = "#cbced0"
+secondary = "#9da0a2"
+tertiary = "#efb993"
+success = "#efaf8e"
+error = "#e93c58"
+
+[buffer]
+action = "#efaf8e"
+background = "#1c1e26"
+background_text_input = "#232530"
+background_title_bar = "#232530"
+border = "#6f6f70"
+border_selected = "#e3e6ee"
+code = "#b072d1"
+highlight = "#232530"
+nickname = "#24a8b4"
+selection = "#2e303e"
+timestamp = "#cbced0"
+topic = "#9da0a2"
+url = "#df5273"
+
+[buffer.server_messages]
+join = "#efaf8e"
+part = "#e93c58"
+quit = "#e93c58"
+default = "#24a8b4"
+
+[buttons.primary]
+background = "#1c1e26"
+background_hover = "#2e303e"
+background_selected = "#6f6f70"
+background_selected_hover = "#9da0a2"
+
+[buttons.secondary]
+background = "#232530"
+background_hover = "#2e303e"
+background_selected = "#6f6f70"
+background_selected_hover = "#9da0a2"

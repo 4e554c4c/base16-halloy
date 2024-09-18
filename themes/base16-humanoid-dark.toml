@@ -1,0 +1,47 @@
+## Base16 Humanoid dark
+# Author: Thomas (tasmo) Friese
+[general]
+background = "#232629"
+border = "#fcfcfc"
+horizontal_rule = "#484e54"
+unread_indicator = "#ffb627"
+
+[text]
+primary = "#f8f8f2"
+secondary = "#c0c0bd"
+tertiary = "#ffb627"
+success = "#02d849"
+error = "#f11235"
+
+[buffer]
+action = "#02d849"
+background = "#232629"
+background_text_input = "#333b3d"
+background_title_bar = "#333b3d"
+border = "#60615d"
+border_selected = "#fcfcfc"
+code = "#f15ee3"
+highlight = "#333b3d"
+nickname = "#0dd9d6"
+selection = "#484e54"
+timestamp = "#f8f8f2"
+topic = "#c0c0bd"
+url = "#00a6fb"
+
+[buffer.server_messages]
+join = "#02d849"
+part = "#f11235"
+quit = "#f11235"
+default = "#0dd9d6"
+
+[buttons.primary]
+background = "#232629"
+background_hover = "#484e54"
+background_selected = "#60615d"
+background_selected_hover = "#c0c0bd"
+
+[buttons.secondary]
+background = "#333b3d"
+background_hover = "#484e54"
+background_selected = "#60615d"
+background_selected_hover = "#c0c0bd"

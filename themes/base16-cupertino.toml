@@ -1,0 +1,47 @@
+## Base16 Cupertino
+# Author: Defman21
+[general]
+background = "#ffffff"
+border = "#5e5e5e"
+horizontal_rule = "#c0c0c0"
+unread_indicator = "#826b28"
+
+[text]
+primary = "#404040"
+secondary = "#808080"
+tertiary = "#826b28"
+success = "#007400"
+error = "#c41a15"
+
+[buffer]
+action = "#007400"
+background = "#ffffff"
+background_text_input = "#c0c0c0"
+background_title_bar = "#c0c0c0"
+border = "#808080"
+border_selected = "#5e5e5e"
+code = "#a90d91"
+highlight = "#c0c0c0"
+nickname = "#318495"
+selection = "#c0c0c0"
+timestamp = "#404040"
+topic = "#808080"
+url = "#0000ff"
+
+[buffer.server_messages]
+join = "#007400"
+part = "#c41a15"
+quit = "#c41a15"
+default = "#318495"
+
+[buttons.primary]
+background = "#ffffff"
+background_hover = "#c0c0c0"
+background_selected = "#808080"
+background_selected_hover = "#808080"
+
+[buttons.secondary]
+background = "#c0c0c0"
+background_hover = "#c0c0c0"
+background_selected = "#808080"
+background_selected_hover = "#808080"

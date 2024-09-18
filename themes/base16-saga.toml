@@ -1,0 +1,47 @@
+## Base16 SAGA
+# Author: https://github.com/SAGAtheme/SAGA
+[general]
+background = "#05080a"
+border = "#ccd3fe"
+horizontal_rule = "#0f181e"
+unread_indicator = "#fbebc8"
+
+[text]
+primary = "#dce2f7"
+secondary = "#192630"
+tertiary = "#fbebc8"
+success = "#f7ddff"
+error = "#ffd4e9"
+
+[buffer]
+action = "#f7ddff"
+background = "#05080a"
+background_text_input = "#0a1014"
+background_title_bar = "#0a1014"
+border = "#141f27"
+border_selected = "#ccd3fe"
+code = "#dcc3f9"
+highlight = "#0a1014"
+nickname = "#c5edc1"
+selection = "#0f181e"
+timestamp = "#dce2f7"
+topic = "#192630"
+url = "#c9fff7"
+
+[buffer.server_messages]
+join = "#f7ddff"
+part = "#ffd4e9"
+quit = "#ffd4e9"
+default = "#c5edc1"
+
+[buttons.primary]
+background = "#05080a"
+background_hover = "#0f181e"
+background_selected = "#141f27"
+background_selected_hover = "#192630"
+
+[buttons.secondary]
+background = "#0a1014"
+background_hover = "#0f181e"
+background_selected = "#141f27"
+background_selected_hover = "#192630"

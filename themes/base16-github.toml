@@ -1,0 +1,47 @@
+## Base16 Github
+# Author: Defman21
+[general]
+background = "#ffffff"
+border = "#ffffff"
+horizontal_rule = "#c8c8fa"
+unread_indicator = "#795da3"
+
+[text]
+primary = "#333333"
+secondary = "#e8e8e8"
+tertiary = "#795da3"
+success = "#183691"
+error = "#ed6a43"
+
+[buffer]
+action = "#183691"
+background = "#ffffff"
+background_text_input = "#f5f5f5"
+background_title_bar = "#f5f5f5"
+border = "#969896"
+border_selected = "#ffffff"
+code = "#a71d5d"
+highlight = "#f5f5f5"
+nickname = "#183691"
+selection = "#c8c8fa"
+timestamp = "#333333"
+topic = "#e8e8e8"
+url = "#795da3"
+
+[buffer.server_messages]
+join = "#183691"
+part = "#ed6a43"
+quit = "#ed6a43"
+default = "#183691"
+
+[buttons.primary]
+background = "#ffffff"
+background_hover = "#c8c8fa"
+background_selected = "#969896"
+background_selected_hover = "#e8e8e8"
+
+[buttons.secondary]
+background = "#f5f5f5"
+background_hover = "#c8c8fa"
+background_selected = "#969896"
+background_selected_hover = "#e8e8e8"

@@ -1,0 +1,47 @@
+## Base16 Unikitty Light
+# Author: Josh W Lewis (@joshwlewis)
+[general]
+background = "#ffffff"
+border = "#322d34"
+horizontal_rule = "#c4c3c5"
+unread_indicator = "#dc8a0e"
+
+[text]
+primary = "#6c696e"
+secondary = "#89878b"
+tertiary = "#dc8a0e"
+success = "#17ad98"
+error = "#d8137f"
+
+[buffer]
+action = "#17ad98"
+background = "#ffffff"
+background_text_input = "#e1e1e2"
+background_title_bar = "#e1e1e2"
+border = "#a7a5a8"
+border_selected = "#322d34"
+code = "#aa17e6"
+highlight = "#e1e1e2"
+nickname = "#149bda"
+selection = "#c4c3c5"
+timestamp = "#6c696e"
+topic = "#89878b"
+url = "#775dff"
+
+[buffer.server_messages]
+join = "#17ad98"
+part = "#d8137f"
+quit = "#d8137f"
+default = "#149bda"
+
+[buttons.primary]
+background = "#ffffff"
+background_hover = "#c4c3c5"
+background_selected = "#a7a5a8"
+background_selected_hover = "#89878b"
+
+[buttons.secondary]
+background = "#e1e1e2"
+background_hover = "#c4c3c5"
+background_selected = "#a7a5a8"
+background_selected_hover = "#89878b"

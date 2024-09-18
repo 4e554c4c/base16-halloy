@@ -1,0 +1,47 @@
+## Base16 Windows 10
+# Author: Fergus Collins (https://github.com/C-Fergus)
+[general]
+background = "#0c0c0c"
+border = "#f2f2f2"
+horizontal_rule = "#535353"
+unread_indicator = "#f9f1a5"
+
+[text]
+primary = "#cccccc"
+secondary = "#b9b9b9"
+tertiary = "#f9f1a5"
+success = "#16c60c"
+error = "#e74856"
+
+[buffer]
+action = "#16c60c"
+background = "#0c0c0c"
+background_text_input = "#2f2f2f"
+background_title_bar = "#2f2f2f"
+border = "#767676"
+border_selected = "#f2f2f2"
+code = "#b4009e"
+highlight = "#2f2f2f"
+nickname = "#61d6d6"
+selection = "#535353"
+timestamp = "#cccccc"
+topic = "#b9b9b9"
+url = "#3b78ff"
+
+[buffer.server_messages]
+join = "#16c60c"
+part = "#e74856"
+quit = "#e74856"
+default = "#61d6d6"
+
+[buttons.primary]
+background = "#0c0c0c"
+background_hover = "#535353"
+background_selected = "#767676"
+background_selected_hover = "#b9b9b9"
+
+[buttons.secondary]
+background = "#2f2f2f"
+background_hover = "#535353"
+background_selected = "#767676"
+background_selected_hover = "#b9b9b9"

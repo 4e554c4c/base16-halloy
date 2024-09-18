@@ -1,0 +1,47 @@
+## Base16 Rosé Pine Moon
+# Author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+[general]
+background = "#232136"
+border = "#56526e"
+horizontal_rule = "#393552"
+unread_indicator = "#ea9a97"
+
+[text]
+primary = "#e0def4"
+secondary = "#908caa"
+tertiary = "#ea9a97"
+success = "#3e8fb0"
+error = "#eb6f92"
+
+[buffer]
+action = "#3e8fb0"
+background = "#232136"
+background_text_input = "#2a273f"
+background_title_bar = "#2a273f"
+border = "#6e6a86"
+border_selected = "#56526e"
+code = "#f6c177"
+highlight = "#2a273f"
+nickname = "#9ccfd8"
+selection = "#393552"
+timestamp = "#e0def4"
+topic = "#908caa"
+url = "#c4a7e7"
+
+[buffer.server_messages]
+join = "#3e8fb0"
+part = "#eb6f92"
+quit = "#eb6f92"
+default = "#9ccfd8"
+
+[buttons.primary]
+background = "#232136"
+background_hover = "#393552"
+background_selected = "#6e6a86"
+background_selected_hover = "#908caa"
+
+[buttons.secondary]
+background = "#2a273f"
+background_hover = "#393552"
+background_selected = "#6e6a86"
+background_selected_hover = "#908caa"

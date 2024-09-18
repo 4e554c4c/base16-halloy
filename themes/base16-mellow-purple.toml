@@ -1,0 +1,47 @@
+## Base16 Mellow Purple
+# Author: gidsi
+[general]
+background = "#1e0528"
+border = "#f8c0ff"
+horizontal_rule = "#331354"
+unread_indicator = "#955ae7"
+
+[text]
+primary = "#ffeeff"
+secondary = "#873582"
+tertiary = "#955ae7"
+success = "#05cb0d"
+error = "#00d9e9"
+
+[buffer]
+action = "#05cb0d"
+background = "#1e0528"
+background_text_input = "#1a092d"
+background_title_bar = "#1a092d"
+border = "#320f55"
+border_selected = "#f8c0ff"
+code = "#8991bb"
+highlight = "#1a092d"
+nickname = "#b900b1"
+selection = "#331354"
+timestamp = "#ffeeff"
+topic = "#873582"
+url = "#550068"
+
+[buffer.server_messages]
+join = "#05cb0d"
+part = "#00d9e9"
+quit = "#00d9e9"
+default = "#b900b1"
+
+[buttons.primary]
+background = "#1e0528"
+background_hover = "#331354"
+background_selected = "#320f55"
+background_selected_hover = "#873582"
+
+[buttons.secondary]
+background = "#1a092d"
+background_hover = "#331354"
+background_selected = "#320f55"
+background_selected_hover = "#873582"

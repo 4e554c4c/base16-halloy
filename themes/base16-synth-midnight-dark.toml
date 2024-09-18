@@ -1,0 +1,47 @@
+## Base16 Synth Midnight Terminal Dark
+# Author: Michaël Ball (http://github.com/michael-ball/)
+[general]
+background = "#050608"
+border = "#dddfe0"
+horizontal_rule = "#28292a"
+unread_indicator = "#c9d364"
+
+[text]
+primary = "#c1c3c4"
+secondary = "#a3a5a6"
+tertiary = "#c9d364"
+success = "#06ea61"
+error = "#b53b50"
+
+[buffer]
+action = "#06ea61"
+background = "#050608"
+background_text_input = "#1a1b1c"
+background_title_bar = "#1a1b1c"
+border = "#474849"
+border_selected = "#dddfe0"
+code = "#ea5ce2"
+highlight = "#1a1b1c"
+nickname = "#42fff9"
+selection = "#28292a"
+timestamp = "#c1c3c4"
+topic = "#a3a5a6"
+url = "#03aeff"
+
+[buffer.server_messages]
+join = "#06ea61"
+part = "#b53b50"
+quit = "#b53b50"
+default = "#42fff9"
+
+[buttons.primary]
+background = "#050608"
+background_hover = "#28292a"
+background_selected = "#474849"
+background_selected_hover = "#a3a5a6"
+
+[buttons.secondary]
+background = "#1a1b1c"
+background_hover = "#28292a"
+background_selected = "#474849"
+background_selected_hover = "#a3a5a6"

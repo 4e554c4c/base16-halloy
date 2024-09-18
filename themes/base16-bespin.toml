@@ -1,0 +1,47 @@
+## Base16 Bespin
+# Author: Jan T. Sott
+[general]
+background = "#28211c"
+border = "#baae9e"
+horizontal_rule = "#5e5d5c"
+unread_indicator = "#f9ee98"
+
+[text]
+primary = "#8a8986"
+secondary = "#797977"
+tertiary = "#f9ee98"
+success = "#54be0d"
+error = "#cf6a4c"
+
+[buffer]
+action = "#54be0d"
+background = "#28211c"
+background_text_input = "#36312e"
+background_title_bar = "#36312e"
+border = "#666666"
+border_selected = "#baae9e"
+code = "#9b859d"
+highlight = "#36312e"
+nickname = "#afc4db"
+selection = "#5e5d5c"
+timestamp = "#8a8986"
+topic = "#797977"
+url = "#5ea6ea"
+
+[buffer.server_messages]
+join = "#54be0d"
+part = "#cf6a4c"
+quit = "#cf6a4c"
+default = "#afc4db"
+
+[buttons.primary]
+background = "#28211c"
+background_hover = "#5e5d5c"
+background_selected = "#666666"
+background_selected_hover = "#797977"
+
+[buttons.secondary]
+background = "#36312e"
+background_hover = "#5e5d5c"
+background_selected = "#666666"
+background_selected_hover = "#797977"

@@ -1,0 +1,47 @@
+## Base16 Framer
+# Author: Framer (Maintained by Jesse Hoyos)
+[general]
+background = "#181818"
+border = "#eeeeee"
+horizontal_rule = "#464646"
+unread_indicator = "#fecb6e"
+
+[text]
+primary = "#d0d0d0"
+secondary = "#b9b9b9"
+tertiary = "#fecb6e"
+success = "#32ccdc"
+error = "#fd886b"
+
+[buffer]
+action = "#32ccdc"
+background = "#181818"
+background_text_input = "#151515"
+background_title_bar = "#151515"
+border = "#747474"
+border_selected = "#eeeeee"
+code = "#ba8cfc"
+highlight = "#151515"
+nickname = "#acddfd"
+selection = "#464646"
+timestamp = "#d0d0d0"
+topic = "#b9b9b9"
+url = "#20bcfc"
+
+[buffer.server_messages]
+join = "#32ccdc"
+part = "#fd886b"
+quit = "#fd886b"
+default = "#acddfd"
+
+[buttons.primary]
+background = "#181818"
+background_hover = "#464646"
+background_selected = "#747474"
+background_selected_hover = "#b9b9b9"
+
+[buttons.secondary]
+background = "#151515"
+background_hover = "#464646"
+background_selected = "#747474"
+background_selected_hover = "#b9b9b9"

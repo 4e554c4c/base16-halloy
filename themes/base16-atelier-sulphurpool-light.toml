@@ -1,0 +1,47 @@
+## Base16 Atelier Sulphurpool Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#f5f7ff"
+border = "#202746"
+horizontal_rule = "#979db4"
+unread_indicator = "#c08b30"
+
+[text]
+primary = "#5e6687"
+secondary = "#6b7394"
+tertiary = "#c08b30"
+success = "#ac9739"
+error = "#c94922"
+
+[buffer]
+action = "#ac9739"
+background = "#f5f7ff"
+background_text_input = "#dfe2f1"
+background_title_bar = "#dfe2f1"
+border = "#898ea4"
+border_selected = "#202746"
+code = "#6679cc"
+highlight = "#dfe2f1"
+nickname = "#22a2c9"
+selection = "#979db4"
+timestamp = "#5e6687"
+topic = "#6b7394"
+url = "#3d8fd1"
+
+[buffer.server_messages]
+join = "#ac9739"
+part = "#c94922"
+quit = "#c94922"
+default = "#22a2c9"
+
+[buttons.primary]
+background = "#f5f7ff"
+background_hover = "#979db4"
+background_selected = "#898ea4"
+background_selected_hover = "#6b7394"
+
+[buttons.secondary]
+background = "#dfe2f1"
+background_hover = "#979db4"
+background_selected = "#898ea4"
+background_selected_hover = "#6b7394"

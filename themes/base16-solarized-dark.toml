@@ -1,0 +1,47 @@
+## Base16 Solarized Dark
+# Author: Ethan Schoonover (modified by aramisgithub)
+[general]
+background = "#002b36"
+border = "#fdf6e3"
+horizontal_rule = "#586e75"
+unread_indicator = "#b58900"
+
+[text]
+primary = "#93a1a1"
+secondary = "#839496"
+tertiary = "#b58900"
+success = "#859900"
+error = "#dc322f"
+
+[buffer]
+action = "#859900"
+background = "#002b36"
+background_text_input = "#073642"
+background_title_bar = "#073642"
+border = "#657b83"
+border_selected = "#fdf6e3"
+code = "#6c71c4"
+highlight = "#073642"
+nickname = "#2aa198"
+selection = "#586e75"
+timestamp = "#93a1a1"
+topic = "#839496"
+url = "#268bd2"
+
+[buffer.server_messages]
+join = "#859900"
+part = "#dc322f"
+quit = "#dc322f"
+default = "#2aa198"
+
+[buttons.primary]
+background = "#002b36"
+background_hover = "#586e75"
+background_selected = "#657b83"
+background_selected_hover = "#839496"
+
+[buttons.secondary]
+background = "#073642"
+background_hover = "#586e75"
+background_selected = "#657b83"
+background_selected_hover = "#839496"

@@ -1,0 +1,47 @@
+## Base16 Mocha
+# Author: Chris Kempson (http://chriskempson.com)
+[general]
+background = "#3b3228"
+border = "#f5eeeb"
+horizontal_rule = "#645240"
+unread_indicator = "#f4bc87"
+
+[text]
+primary = "#d0c8c6"
+secondary = "#b8afad"
+tertiary = "#f4bc87"
+success = "#beb55b"
+error = "#cb6077"
+
+[buffer]
+action = "#beb55b"
+background = "#3b3228"
+background_text_input = "#534636"
+background_title_bar = "#534636"
+border = "#7e705a"
+border_selected = "#f5eeeb"
+code = "#a89bb9"
+highlight = "#534636"
+nickname = "#7bbda4"
+selection = "#645240"
+timestamp = "#d0c8c6"
+topic = "#b8afad"
+url = "#8ab3b5"
+
+[buffer.server_messages]
+join = "#beb55b"
+part = "#cb6077"
+quit = "#cb6077"
+default = "#7bbda4"
+
+[buttons.primary]
+background = "#3b3228"
+background_hover = "#645240"
+background_selected = "#7e705a"
+background_selected_hover = "#b8afad"
+
+[buttons.secondary]
+background = "#534636"
+background_hover = "#645240"
+background_selected = "#7e705a"
+background_selected_hover = "#b8afad"

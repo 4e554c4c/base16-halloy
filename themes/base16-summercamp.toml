@@ -1,0 +1,47 @@
+## Base16 summercamp
+# Author: zoe firi (zoefiri.github.io)
+[general]
+background = "#1c1810"
+border = "#f8f5de"
+horizontal_rule = "#3a3527"
+unread_indicator = "#f2ff27"
+
+[text]
+primary = "#736e55"
+secondary = "#5f5b45"
+tertiary = "#f2ff27"
+success = "#5ceb5a"
+error = "#e35142"
+
+[buffer]
+action = "#5ceb5a"
+background = "#1c1810"
+background_text_input = "#2a261c"
+background_title_bar = "#2a261c"
+border = "#504b38"
+border_selected = "#f8f5de"
+code = "#ff8080"
+highlight = "#2a261c"
+nickname = "#5aebbc"
+selection = "#3a3527"
+timestamp = "#736e55"
+topic = "#5f5b45"
+url = "#489bf0"
+
+[buffer.server_messages]
+join = "#5ceb5a"
+part = "#e35142"
+quit = "#e35142"
+default = "#5aebbc"
+
+[buttons.primary]
+background = "#1c1810"
+background_hover = "#3a3527"
+background_selected = "#504b38"
+background_selected_hover = "#5f5b45"
+
+[buttons.secondary]
+background = "#2a261c"
+background_hover = "#3a3527"
+background_selected = "#504b38"
+background_selected_hover = "#5f5b45"

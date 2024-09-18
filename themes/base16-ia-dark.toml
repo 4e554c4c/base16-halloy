@@ -1,0 +1,47 @@
+## Base16 iA Dark
+# Author: iA Inc. (modified by aramisgithub)
+[general]
+background = "#1a1a1a"
+border = "#f8f8f8"
+horizontal_rule = "#1d414d"
+unread_indicator = "#b99353"
+
+[text]
+primary = "#cccccc"
+secondary = "#b8b8b8"
+tertiary = "#b99353"
+success = "#83a471"
+error = "#d88568"
+
+[buffer]
+action = "#83a471"
+background = "#1a1a1a"
+background_text_input = "#222222"
+background_title_bar = "#222222"
+border = "#767676"
+border_selected = "#f8f8f8"
+code = "#b98eb2"
+highlight = "#222222"
+nickname = "#7c9cae"
+selection = "#1d414d"
+timestamp = "#cccccc"
+topic = "#b8b8b8"
+url = "#8eccdd"
+
+[buffer.server_messages]
+join = "#83a471"
+part = "#d88568"
+quit = "#d88568"
+default = "#7c9cae"
+
+[buttons.primary]
+background = "#1a1a1a"
+background_hover = "#1d414d"
+background_selected = "#767676"
+background_selected_hover = "#b8b8b8"
+
+[buttons.secondary]
+background = "#222222"
+background_hover = "#1d414d"
+background_selected = "#767676"
+background_selected_hover = "#b8b8b8"

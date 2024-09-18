@@ -1,0 +1,47 @@
+## Base16 Snazzy
+# Author: Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+[general]
+background = "#282a36"
+border = "#f1f1f0"
+horizontal_rule = "#43454f"
+unread_indicator = "#f3f99d"
+
+[text]
+primary = "#e2e4e5"
+secondary = "#a5a5a9"
+tertiary = "#f3f99d"
+success = "#5af78e"
+error = "#ff5c57"
+
+[buffer]
+action = "#5af78e"
+background = "#282a36"
+background_text_input = "#34353e"
+background_title_bar = "#34353e"
+border = "#78787e"
+border_selected = "#f1f1f0"
+code = "#ff6ac1"
+highlight = "#34353e"
+nickname = "#9aedfe"
+selection = "#43454f"
+timestamp = "#e2e4e5"
+topic = "#a5a5a9"
+url = "#57c7ff"
+
+[buffer.server_messages]
+join = "#5af78e"
+part = "#ff5c57"
+quit = "#ff5c57"
+default = "#9aedfe"
+
+[buttons.primary]
+background = "#282a36"
+background_hover = "#43454f"
+background_selected = "#78787e"
+background_selected_hover = "#a5a5a9"
+
+[buttons.secondary]
+background = "#34353e"
+background_hover = "#43454f"
+background_selected = "#78787e"
+background_selected_hover = "#a5a5a9"

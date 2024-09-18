@@ -1,0 +1,47 @@
+## Base16 eris
+# Author: ed (https://codeberg.org/ed)
+[general]
+background = "#0a0920"
+border = "#9aaae5"
+horizontal_rule = "#23255a"
+unread_indicator = "#faaea2"
+
+[text]
+primary = "#606bac"
+secondary = "#4a5293"
+tertiary = "#faaea2"
+success = "#faaea2"
+error = "#f768a3"
+
+[buffer]
+action = "#faaea2"
+background = "#0a0920"
+background_text_input = "#13133a"
+background_title_bar = "#13133a"
+border = "#333773"
+border_selected = "#9aaae5"
+code = "#f768a3"
+highlight = "#13133a"
+nickname = "#258fc4"
+selection = "#23255a"
+timestamp = "#606bac"
+topic = "#4a5293"
+url = "#258fc4"
+
+[buffer.server_messages]
+join = "#faaea2"
+part = "#f768a3"
+quit = "#f768a3"
+default = "#258fc4"
+
+[buttons.primary]
+background = "#0a0920"
+background_hover = "#23255a"
+background_selected = "#333773"
+background_selected_hover = "#4a5293"
+
+[buttons.secondary]
+background = "#13133a"
+background_hover = "#23255a"
+background_selected = "#333773"
+background_selected_hover = "#4a5293"

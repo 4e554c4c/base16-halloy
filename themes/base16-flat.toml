@@ -1,0 +1,47 @@
+## Base16 Flat
+# Author: Chris Kempson (http://chriskempson.com)
+[general]
+background = "#2c3e50"
+border = "#ecf0f1"
+horizontal_rule = "#7f8c8d"
+unread_indicator = "#f1c40f"
+
+[text]
+primary = "#e0e0e0"
+secondary = "#bdc3c7"
+tertiary = "#f1c40f"
+success = "#2ecc71"
+error = "#e74c3c"
+
+[buffer]
+action = "#2ecc71"
+background = "#2c3e50"
+background_text_input = "#34495e"
+background_title_bar = "#34495e"
+border = "#95a5a6"
+border_selected = "#ecf0f1"
+code = "#9b59b6"
+highlight = "#34495e"
+nickname = "#1abc9c"
+selection = "#7f8c8d"
+timestamp = "#e0e0e0"
+topic = "#bdc3c7"
+url = "#3498db"
+
+[buffer.server_messages]
+join = "#2ecc71"
+part = "#e74c3c"
+quit = "#e74c3c"
+default = "#1abc9c"
+
+[buttons.primary]
+background = "#2c3e50"
+background_hover = "#7f8c8d"
+background_selected = "#95a5a6"
+background_selected_hover = "#bdc3c7"
+
+[buttons.secondary]
+background = "#34495e"
+background_hover = "#7f8c8d"
+background_selected = "#95a5a6"
+background_selected_hover = "#bdc3c7"

@@ -1,0 +1,47 @@
+## Base16 tarot
+# Author: ed (https://codeberg.org/ed)
+[general]
+background = "#0e091d"
+border = "#dc8f7c"
+horizontal_rule = "#4b2054"
+unread_indicator = "#ff6565"
+
+[text]
+primary = "#aa556f"
+secondary = "#8c406f"
+tertiary = "#ff6565"
+success = "#a68e5a"
+error = "#c53253"
+
+[buffer]
+action = "#a68e5a"
+background = "#0e091d"
+background_text_input = "#2a153c"
+background_title_bar = "#2a153c"
+border = "#74316b"
+border_selected = "#dc8f7c"
+code = "#a45782"
+highlight = "#2a153c"
+nickname = "#8c9785"
+selection = "#4b2054"
+timestamp = "#aa556f"
+topic = "#8c406f"
+url = "#6e6080"
+
+[buffer.server_messages]
+join = "#a68e5a"
+part = "#c53253"
+quit = "#c53253"
+default = "#8c9785"
+
+[buttons.primary]
+background = "#0e091d"
+background_hover = "#4b2054"
+background_selected = "#74316b"
+background_selected_hover = "#8c406f"
+
+[buttons.secondary]
+background = "#2a153c"
+background_hover = "#4b2054"
+background_selected = "#74316b"
+background_selected_hover = "#8c406f"

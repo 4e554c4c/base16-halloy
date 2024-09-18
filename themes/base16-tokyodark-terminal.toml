@@ -1,0 +1,47 @@
+## Base16 Tokyodark Terminal
+# Author: Tiagovla (https://github.com/tiagovla/)
+[general]
+background = "#11121d"
+border = "#a0a8cd"
+horizontal_rule = "#212234"
+unread_indicator = "#d7a65f"
+
+[text]
+primary = "#a0a8cd"
+secondary = "#4a5057"
+tertiary = "#d7a65f"
+success = "#95c561"
+error = "#ee6d85"
+
+[buffer]
+action = "#95c561"
+background = "#11121d"
+background_text_input = "#1a1b2a"
+background_title_bar = "#1a1b2a"
+border = "#282c34"
+border_selected = "#a0a8cd"
+code = "#a485dd"
+highlight = "#1a1b2a"
+nickname = "#38a89d"
+selection = "#212234"
+timestamp = "#a0a8cd"
+topic = "#4a5057"
+url = "#7199ee"
+
+[buffer.server_messages]
+join = "#95c561"
+part = "#ee6d85"
+quit = "#ee6d85"
+default = "#38a89d"
+
+[buttons.primary]
+background = "#11121d"
+background_hover = "#212234"
+background_selected = "#282c34"
+background_selected_hover = "#4a5057"
+
+[buttons.secondary]
+background = "#1a1b2a"
+background_hover = "#212234"
+background_selected = "#282c34"
+background_selected_hover = "#4a5057"

@@ -1,0 +1,47 @@
+## Base16 Stella
+# Author: Shrimpram
+[general]
+background = "#2b213c"
+border = "#ebdcff"
+horizontal_rule = "#4d4160"
+unread_indicator = "#c7c691"
+
+[text]
+primary = "#998bad"
+secondary = "#7f7192"
+tertiary = "#c7c691"
+success = "#acc79b"
+error = "#c79987"
+
+[buffer]
+action = "#acc79b"
+background = "#2b213c"
+background_text_input = "#362b48"
+background_title_bar = "#362b48"
+border = "#655978"
+border_selected = "#ebdcff"
+code = "#c594ff"
+highlight = "#362b48"
+nickname = "#9bc7bf"
+selection = "#4d4160"
+timestamp = "#998bad"
+topic = "#7f7192"
+url = "#a5aad4"
+
+[buffer.server_messages]
+join = "#acc79b"
+part = "#c79987"
+quit = "#c79987"
+default = "#9bc7bf"
+
+[buttons.primary]
+background = "#2b213c"
+background_hover = "#4d4160"
+background_selected = "#655978"
+background_selected_hover = "#7f7192"
+
+[buttons.secondary]
+background = "#362b48"
+background_hover = "#4d4160"
+background_selected = "#655978"
+background_selected_hover = "#7f7192"

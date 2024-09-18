@@ -1,0 +1,47 @@
+## Base16 Atelier Seaside
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#131513"
+border = "#f4fbf4"
+horizontal_rule = "#5e6e5e"
+unread_indicator = "#98981b"
+
+[text]
+primary = "#8ca68c"
+secondary = "#809980"
+tertiary = "#98981b"
+success = "#29a329"
+error = "#e6193c"
+
+[buffer]
+action = "#29a329"
+background = "#131513"
+background_text_input = "#242924"
+background_title_bar = "#242924"
+border = "#687d68"
+border_selected = "#f4fbf4"
+code = "#ad2bee"
+highlight = "#242924"
+nickname = "#1999b3"
+selection = "#5e6e5e"
+timestamp = "#8ca68c"
+topic = "#809980"
+url = "#3d62f5"
+
+[buffer.server_messages]
+join = "#29a329"
+part = "#e6193c"
+quit = "#e6193c"
+default = "#1999b3"
+
+[buttons.primary]
+background = "#131513"
+background_hover = "#5e6e5e"
+background_selected = "#687d68"
+background_selected_hover = "#809980"
+
+[buttons.secondary]
+background = "#242924"
+background_hover = "#5e6e5e"
+background_selected = "#687d68"
+background_selected_hover = "#809980"

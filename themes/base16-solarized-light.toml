@@ -1,0 +1,47 @@
+## Base16 Solarized Light
+# Author: Ethan Schoonover (modified by aramisgithub)
+[general]
+background = "#fdf6e3"
+border = "#002b36"
+horizontal_rule = "#93a1a1"
+unread_indicator = "#b58900"
+
+[text]
+primary = "#586e75"
+secondary = "#657b83"
+tertiary = "#b58900"
+success = "#859900"
+error = "#dc322f"
+
+[buffer]
+action = "#859900"
+background = "#fdf6e3"
+background_text_input = "#eee8d5"
+background_title_bar = "#eee8d5"
+border = "#839496"
+border_selected = "#002b36"
+code = "#6c71c4"
+highlight = "#eee8d5"
+nickname = "#2aa198"
+selection = "#93a1a1"
+timestamp = "#586e75"
+topic = "#657b83"
+url = "#268bd2"
+
+[buffer.server_messages]
+join = "#859900"
+part = "#dc322f"
+quit = "#dc322f"
+default = "#2aa198"
+
+[buttons.primary]
+background = "#fdf6e3"
+background_hover = "#93a1a1"
+background_selected = "#839496"
+background_selected_hover = "#657b83"
+
+[buttons.secondary]
+background = "#eee8d5"
+background_hover = "#93a1a1"
+background_selected = "#839496"
+background_selected_hover = "#657b83"

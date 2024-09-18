@@ -1,0 +1,47 @@
+## Base16 Brogrammer
+# Author: Vik Ramanujam (http://github.com/piggyslasher)
+[general]
+background = "#1f1f1f"
+border = "#d6dbe5"
+horizontal_rule = "#2dc55e"
+unread_indicator = "#1dd361"
+
+[text]
+primary = "#4e5ab7"
+secondary = "#2a84d2"
+tertiary = "#1dd361"
+success = "#f3bd09"
+error = "#d6dbe5"
+
+[buffer]
+action = "#f3bd09"
+background = "#1f1f1f"
+background_text_input = "#f81118"
+background_title_bar = "#f81118"
+border = "#ecba0f"
+border_selected = "#d6dbe5"
+code = "#0f7ddb"
+highlight = "#f81118"
+nickname = "#1081d6"
+selection = "#2dc55e"
+timestamp = "#4e5ab7"
+topic = "#2a84d2"
+url = "#5350b9"
+
+[buffer.server_messages]
+join = "#f3bd09"
+part = "#d6dbe5"
+quit = "#d6dbe5"
+default = "#1081d6"
+
+[buttons.primary]
+background = "#1f1f1f"
+background_hover = "#2dc55e"
+background_selected = "#ecba0f"
+background_selected_hover = "#2a84d2"
+
+[buttons.secondary]
+background = "#f81118"
+background_hover = "#2dc55e"
+background_selected = "#ecba0f"
+background_selected_hover = "#2a84d2"

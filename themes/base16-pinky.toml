@@ -1,0 +1,47 @@
+## Base16 pinky
+# Author: Benjamin (https://github.com/b3nj5m1n)
+[general]
+background = "#171517"
+border = "#f7f3f7"
+horizontal_rule = "#1d1b1d"
+unread_indicator = "#20df6c"
+
+[text]
+primary = "#f5f5f5"
+secondary = "#e7dbdb"
+tertiary = "#20df6c"
+success = "#ff0066"
+error = "#ffa600"
+
+[buffer]
+action = "#ff0066"
+background = "#171517"
+background_text_input = "#1b181b"
+background_title_bar = "#1b181b"
+border = "#383338"
+border_selected = "#f7f3f7"
+code = "#007fff"
+highlight = "#1b181b"
+nickname = "#6600ff"
+selection = "#1d1b1d"
+timestamp = "#f5f5f5"
+topic = "#e7dbdb"
+url = "#00ffff"
+
+[buffer.server_messages]
+join = "#ff0066"
+part = "#ffa600"
+quit = "#ffa600"
+default = "#6600ff"
+
+[buttons.primary]
+background = "#171517"
+background_hover = "#1d1b1d"
+background_selected = "#383338"
+background_selected_hover = "#e7dbdb"
+
+[buttons.secondary]
+background = "#1b181b"
+background_hover = "#1d1b1d"
+background_selected = "#383338"
+background_selected_hover = "#e7dbdb"

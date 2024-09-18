@@ -1,0 +1,47 @@
+## Base16 3024
+# Author: Jan T. Sott (http://github.com/idleberg)
+[general]
+background = "#090300"
+border = "#f7f7f7"
+horizontal_rule = "#4a4543"
+unread_indicator = "#fded02"
+
+[text]
+primary = "#a5a2a2"
+secondary = "#807d7c"
+tertiary = "#fded02"
+success = "#01a252"
+error = "#db2d20"
+
+[buffer]
+action = "#01a252"
+background = "#090300"
+background_text_input = "#3a3432"
+background_title_bar = "#3a3432"
+border = "#5c5855"
+border_selected = "#f7f7f7"
+code = "#a16a94"
+highlight = "#3a3432"
+nickname = "#b5e4f4"
+selection = "#4a4543"
+timestamp = "#a5a2a2"
+topic = "#807d7c"
+url = "#01a0e4"
+
+[buffer.server_messages]
+join = "#01a252"
+part = "#db2d20"
+quit = "#db2d20"
+default = "#b5e4f4"
+
+[buttons.primary]
+background = "#090300"
+background_hover = "#4a4543"
+background_selected = "#5c5855"
+background_selected_hover = "#807d7c"
+
+[buttons.secondary]
+background = "#3a3432"
+background_hover = "#4a4543"
+background_selected = "#5c5855"
+background_selected_hover = "#807d7c"

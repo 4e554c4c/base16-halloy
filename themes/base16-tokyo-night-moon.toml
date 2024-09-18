@@ -1,0 +1,47 @@
+## Base16 Tokyo Night Moon
+# Author: Ólafur Bjarki Bogason
+[general]
+background = "#222436"
+border = "#c8d3f5"
+horizontal_rule = "#2d3f76"
+unread_indicator = "#ffc777"
+
+[text]
+primary = "#3b4261"
+secondary = "#828bb8"
+tertiary = "#ffc777"
+success = "#c3e88d"
+error = "#ff757f"
+
+[buffer]
+action = "#c3e88d"
+background = "#222436"
+background_text_input = "#1e2030"
+background_title_bar = "#1e2030"
+border = "#636da6"
+border_selected = "#c8d3f5"
+code = "#fca7ea"
+highlight = "#1e2030"
+nickname = "#86e1fc"
+selection = "#2d3f76"
+timestamp = "#3b4261"
+topic = "#828bb8"
+url = "#82aaff"
+
+[buffer.server_messages]
+join = "#c3e88d"
+part = "#ff757f"
+quit = "#ff757f"
+default = "#86e1fc"
+
+[buttons.primary]
+background = "#222436"
+background_hover = "#2d3f76"
+background_selected = "#636da6"
+background_selected_hover = "#828bb8"
+
+[buttons.secondary]
+background = "#1e2030"
+background_hover = "#2d3f76"
+background_selected = "#636da6"
+background_selected_hover = "#828bb8"

@@ -1,0 +1,47 @@
+## Base16 Marrakesh
+# Author: Alexandre Gavioli (http://github.com/Alexx2/)
+[general]
+background = "#201602"
+border = "#faf0a5"
+horizontal_rule = "#5f5b17"
+unread_indicator = "#a88339"
+
+[text]
+primary = "#948e48"
+secondary = "#86813b"
+tertiary = "#a88339"
+success = "#18974e"
+error = "#c35359"
+
+[buffer]
+action = "#18974e"
+background = "#201602"
+background_text_input = "#302e00"
+background_title_bar = "#302e00"
+border = "#6c6823"
+border_selected = "#faf0a5"
+code = "#8868b3"
+highlight = "#302e00"
+nickname = "#75a738"
+selection = "#5f5b17"
+timestamp = "#948e48"
+topic = "#86813b"
+url = "#477ca1"
+
+[buffer.server_messages]
+join = "#18974e"
+part = "#c35359"
+quit = "#c35359"
+default = "#75a738"
+
+[buttons.primary]
+background = "#201602"
+background_hover = "#5f5b17"
+background_selected = "#6c6823"
+background_selected_hover = "#86813b"
+
+[buttons.secondary]
+background = "#302e00"
+background_hover = "#5f5b17"
+background_selected = "#6c6823"
+background_selected_hover = "#86813b"

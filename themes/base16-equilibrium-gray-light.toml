@@ -1,0 +1,47 @@
+## Base16 Equilibrium Gray Light
+# Author: Carlo Abelli
+[general]
+background = "#f1f1f1"
+border = "#1b1b1b"
+horizontal_rule = "#d4d4d4"
+unread_indicator = "#9d6f00"
+
+[text]
+primary = "#474747"
+secondary = "#5e5e5e"
+tertiary = "#9d6f00"
+success = "#637200"
+error = "#d02023"
+
+[buffer]
+action = "#637200"
+background = "#f1f1f1"
+background_text_input = "#e2e2e2"
+background_title_bar = "#e2e2e2"
+border = "#777777"
+border_selected = "#1b1b1b"
+code = "#4e66b6"
+highlight = "#e2e2e2"
+nickname = "#007a72"
+selection = "#d4d4d4"
+timestamp = "#474747"
+topic = "#5e5e5e"
+url = "#0073b5"
+
+[buffer.server_messages]
+join = "#637200"
+part = "#d02023"
+quit = "#d02023"
+default = "#007a72"
+
+[buttons.primary]
+background = "#f1f1f1"
+background_hover = "#d4d4d4"
+background_selected = "#777777"
+background_selected_hover = "#5e5e5e"
+
+[buttons.secondary]
+background = "#e2e2e2"
+background_hover = "#d4d4d4"
+background_selected = "#777777"
+background_selected_hover = "#5e5e5e"

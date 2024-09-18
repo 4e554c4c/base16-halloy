@@ -1,0 +1,47 @@
+## Base16 dirtysea
+# Author: Kahlil (Kal) Hodgson
+[general]
+background = "#e0e0e0"
+border = "#c4d9c4"
+horizontal_rule = "#d0d0d0"
+unread_indicator = "#755b00"
+
+[text]
+primary = "#000000"
+secondary = "#202020"
+tertiary = "#755b00"
+success = "#730073"
+error = "#840000"
+
+[buffer]
+action = "#730073"
+background = "#e0e0e0"
+background_text_input = "#d0dad0"
+background_title_bar = "#d0dad0"
+border = "#707070"
+border_selected = "#c4d9c4"
+code = "#000090"
+highlight = "#d0dad0"
+nickname = "#755b00"
+selection = "#d0d0d0"
+timestamp = "#000000"
+topic = "#202020"
+url = "#007300"
+
+[buffer.server_messages]
+join = "#730073"
+part = "#840000"
+quit = "#840000"
+default = "#755b00"
+
+[buttons.primary]
+background = "#e0e0e0"
+background_hover = "#d0d0d0"
+background_selected = "#707070"
+background_selected_hover = "#202020"
+
+[buttons.secondary]
+background = "#d0dad0"
+background_hover = "#d0d0d0"
+background_selected = "#707070"
+background_selected_hover = "#202020"

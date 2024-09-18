@@ -1,0 +1,47 @@
+## Base16 Eighties
+# Author: Chris Kempson (http://chriskempson.com)
+[general]
+background = "#2d2d2d"
+border = "#f2f0ec"
+horizontal_rule = "#515151"
+unread_indicator = "#ffcc66"
+
+[text]
+primary = "#d3d0c8"
+secondary = "#a09f93"
+tertiary = "#ffcc66"
+success = "#99cc99"
+error = "#f2777a"
+
+[buffer]
+action = "#99cc99"
+background = "#2d2d2d"
+background_text_input = "#393939"
+background_title_bar = "#393939"
+border = "#747369"
+border_selected = "#f2f0ec"
+code = "#cc99cc"
+highlight = "#393939"
+nickname = "#66cccc"
+selection = "#515151"
+timestamp = "#d3d0c8"
+topic = "#a09f93"
+url = "#6699cc"
+
+[buffer.server_messages]
+join = "#99cc99"
+part = "#f2777a"
+quit = "#f2777a"
+default = "#66cccc"
+
+[buttons.primary]
+background = "#2d2d2d"
+background_hover = "#515151"
+background_selected = "#747369"
+background_selected_hover = "#a09f93"
+
+[buttons.secondary]
+background = "#393939"
+background_hover = "#515151"
+background_selected = "#747369"
+background_selected_hover = "#a09f93"

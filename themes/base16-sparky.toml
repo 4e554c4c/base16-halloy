@@ -1,0 +1,47 @@
+## Base16 Sparky
+# Author: Leila Sother (https://github.com/mixcoac)
+[general]
+background = "#072b31"
+border = "#ffffff"
+horizontal_rule = "#003c46"
+unread_indicator = "#fbdd40"
+
+[text]
+primary = "#f4f5f0"
+secondary = "#00778b"
+tertiary = "#fbdd40"
+success = "#78d64b"
+error = "#ff585d"
+
+[buffer]
+action = "#78d64b"
+background = "#072b31"
+background_text_input = "#00313c"
+background_title_bar = "#00313c"
+border = "#003b49"
+border_selected = "#ffffff"
+code = "#d59ed7"
+highlight = "#00313c"
+nickname = "#2dccd3"
+selection = "#003c46"
+timestamp = "#f4f5f0"
+topic = "#00778b"
+url = "#4698cb"
+
+[buffer.server_messages]
+join = "#78d64b"
+part = "#ff585d"
+quit = "#ff585d"
+default = "#2dccd3"
+
+[buttons.primary]
+background = "#072b31"
+background_hover = "#003c46"
+background_selected = "#003b49"
+background_selected_hover = "#00778b"
+
+[buttons.secondary]
+background = "#00313c"
+background_hover = "#003c46"
+background_selected = "#003b49"
+background_selected_hover = "#00778b"

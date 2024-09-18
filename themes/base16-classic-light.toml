@@ -1,0 +1,47 @@
+## Base16 Classic Light
+# Author: Jason Heeris (http://heeris.id.au)
+[general]
+background = "#f5f5f5"
+border = "#151515"
+horizontal_rule = "#d0d0d0"
+unread_indicator = "#f4bf75"
+
+[text]
+primary = "#303030"
+secondary = "#505050"
+tertiary = "#f4bf75"
+success = "#90a959"
+error = "#ac4142"
+
+[buffer]
+action = "#90a959"
+background = "#f5f5f5"
+background_text_input = "#e0e0e0"
+background_title_bar = "#e0e0e0"
+border = "#b0b0b0"
+border_selected = "#151515"
+code = "#aa759f"
+highlight = "#e0e0e0"
+nickname = "#75b5aa"
+selection = "#d0d0d0"
+timestamp = "#303030"
+topic = "#505050"
+url = "#6a9fb5"
+
+[buffer.server_messages]
+join = "#90a959"
+part = "#ac4142"
+quit = "#ac4142"
+default = "#75b5aa"
+
+[buttons.primary]
+background = "#f5f5f5"
+background_hover = "#d0d0d0"
+background_selected = "#b0b0b0"
+background_selected_hover = "#505050"
+
+[buttons.secondary]
+background = "#e0e0e0"
+background_hover = "#d0d0d0"
+background_selected = "#b0b0b0"
+background_selected_hover = "#505050"

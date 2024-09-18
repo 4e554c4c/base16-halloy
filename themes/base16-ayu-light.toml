@@ -1,0 +1,47 @@
+## Base16 Ayu Light
+# Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+[general]
+background = "#fafafa"
+border = "#1a1f29"
+horizontal_rule = "#f8f9fa"
+unread_indicator = "#f2ae49"
+
+[text]
+primary = "#5c6773"
+secondary = "#828c99"
+tertiary = "#f2ae49"
+success = "#86b300"
+error = "#f07178"
+
+[buffer]
+action = "#86b300"
+background = "#fafafa"
+background_text_input = "#f3f4f5"
+background_title_bar = "#f3f4f5"
+border = "#abb0b6"
+border_selected = "#1a1f29"
+code = "#a37acc"
+highlight = "#f3f4f5"
+nickname = "#4cbf99"
+selection = "#f8f9fa"
+timestamp = "#5c6773"
+topic = "#828c99"
+url = "#36a3d9"
+
+[buffer.server_messages]
+join = "#86b300"
+part = "#f07178"
+quit = "#f07178"
+default = "#4cbf99"
+
+[buttons.primary]
+background = "#fafafa"
+background_hover = "#f8f9fa"
+background_selected = "#abb0b6"
+background_selected_hover = "#828c99"
+
+[buttons.secondary]
+background = "#f3f4f5"
+background_hover = "#f8f9fa"
+background_selected = "#abb0b6"
+background_selected_hover = "#828c99"

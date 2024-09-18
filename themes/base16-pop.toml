@@ -1,0 +1,47 @@
+## Base16 Pop
+# Author: Chris Kempson (http://chriskempson.com)
+[general]
+background = "#000000"
+border = "#ffffff"
+horizontal_rule = "#303030"
+unread_indicator = "#f8ca12"
+
+[text]
+primary = "#d0d0d0"
+secondary = "#b0b0b0"
+tertiary = "#f8ca12"
+success = "#37b349"
+error = "#eb008a"
+
+[buffer]
+action = "#37b349"
+background = "#000000"
+background_text_input = "#202020"
+background_title_bar = "#202020"
+border = "#505050"
+border_selected = "#ffffff"
+code = "#b31e8d"
+highlight = "#202020"
+nickname = "#00aabb"
+selection = "#303030"
+timestamp = "#d0d0d0"
+topic = "#b0b0b0"
+url = "#0e5a94"
+
+[buffer.server_messages]
+join = "#37b349"
+part = "#eb008a"
+quit = "#eb008a"
+default = "#00aabb"
+
+[buttons.primary]
+background = "#000000"
+background_hover = "#303030"
+background_selected = "#505050"
+background_selected_hover = "#b0b0b0"
+
+[buttons.secondary]
+background = "#202020"
+background_hover = "#303030"
+background_selected = "#505050"
+background_selected_hover = "#b0b0b0"

@@ -1,0 +1,47 @@
+## Base16 Isotope
+# Author: Jan T. Sott
+[general]
+background = "#000000"
+border = "#ffffff"
+horizontal_rule = "#606060"
+unread_indicator = "#ff0099"
+
+[text]
+primary = "#d0d0d0"
+secondary = "#c0c0c0"
+tertiary = "#ff0099"
+success = "#33ff00"
+error = "#ff0000"
+
+[buffer]
+action = "#33ff00"
+background = "#000000"
+background_text_input = "#404040"
+background_title_bar = "#404040"
+border = "#808080"
+border_selected = "#ffffff"
+code = "#cc00ff"
+highlight = "#404040"
+nickname = "#00ffff"
+selection = "#606060"
+timestamp = "#d0d0d0"
+topic = "#c0c0c0"
+url = "#0066ff"
+
+[buffer.server_messages]
+join = "#33ff00"
+part = "#ff0000"
+quit = "#ff0000"
+default = "#00ffff"
+
+[buttons.primary]
+background = "#000000"
+background_hover = "#606060"
+background_selected = "#808080"
+background_selected_hover = "#c0c0c0"
+
+[buttons.secondary]
+background = "#404040"
+background_hover = "#606060"
+background_selected = "#808080"
+background_selected_hover = "#c0c0c0"

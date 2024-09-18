@@ -1,0 +1,47 @@
+## Base16 Icy Dark
+# Author: icyphox (https://icyphox.ga)
+[general]
+background = "#021012"
+border = "#109cb0"
+horizontal_rule = "#041f23"
+unread_indicator = "#80deea"
+
+[text]
+primary = "#095b67"
+secondary = "#064048"
+tertiary = "#80deea"
+success = "#4dd0e1"
+error = "#16c1d9"
+
+[buffer]
+action = "#4dd0e1"
+background = "#021012"
+background_text_input = "#031619"
+background_title_bar = "#031619"
+border = "#052e34"
+border_selected = "#109cb0"
+code = "#00acc1"
+highlight = "#031619"
+nickname = "#26c6da"
+selection = "#041f23"
+timestamp = "#095b67"
+topic = "#064048"
+url = "#00bcd4"
+
+[buffer.server_messages]
+join = "#4dd0e1"
+part = "#16c1d9"
+quit = "#16c1d9"
+default = "#26c6da"
+
+[buttons.primary]
+background = "#021012"
+background_hover = "#041f23"
+background_selected = "#052e34"
+background_selected_hover = "#064048"
+
+[buttons.secondary]
+background = "#031619"
+background_hover = "#041f23"
+background_selected = "#052e34"
+background_selected_hover = "#064048"

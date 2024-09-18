@@ -1,0 +1,47 @@
+## Base16 Pico
+# Author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
+[general]
+background = "#000000"
+border = "#fff1e8"
+horizontal_rule = "#7e2553"
+unread_indicator = "#fff024"
+
+[text]
+primary = "#5f574f"
+secondary = "#ab5236"
+tertiary = "#fff024"
+success = "#00e756"
+error = "#ff004d"
+
+[buffer]
+action = "#00e756"
+background = "#000000"
+background_text_input = "#1d2b53"
+background_title_bar = "#1d2b53"
+border = "#008751"
+border_selected = "#fff1e8"
+code = "#ff77a8"
+highlight = "#1d2b53"
+nickname = "#29adff"
+selection = "#7e2553"
+timestamp = "#5f574f"
+topic = "#ab5236"
+url = "#83769c"
+
+[buffer.server_messages]
+join = "#00e756"
+part = "#ff004d"
+quit = "#ff004d"
+default = "#29adff"
+
+[buttons.primary]
+background = "#000000"
+background_hover = "#7e2553"
+background_selected = "#008751"
+background_selected_hover = "#ab5236"
+
+[buttons.secondary]
+background = "#1d2b53"
+background_hover = "#7e2553"
+background_selected = "#008751"
+background_selected_hover = "#ab5236"

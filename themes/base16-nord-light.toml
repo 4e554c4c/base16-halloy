@@ -1,0 +1,47 @@
+## Base16 Nord Light
+# Author: threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
+[general]
+background = "#e5e9f0"
+border = "#29838d"
+horizontal_rule = "#b8c5db"
+unread_indicator = "#9a7500"
+
+[text]
+primary = "#2e3440"
+secondary = "#60728c"
+tertiary = "#9a7500"
+success = "#4f894c"
+error = "#99324b"
+
+[buffer]
+action = "#4f894c"
+background = "#e5e9f0"
+background_text_input = "#c2d0e7"
+background_title_bar = "#c2d0e7"
+border = "#aebacf"
+border_selected = "#29838d"
+code = "#97365b"
+highlight = "#c2d0e7"
+nickname = "#398eac"
+selection = "#b8c5db"
+timestamp = "#2e3440"
+topic = "#60728c"
+url = "#3b6ea8"
+
+[buffer.server_messages]
+join = "#4f894c"
+part = "#99324b"
+quit = "#99324b"
+default = "#398eac"
+
+[buttons.primary]
+background = "#e5e9f0"
+background_hover = "#b8c5db"
+background_selected = "#aebacf"
+background_selected_hover = "#60728c"
+
+[buttons.secondary]
+background = "#c2d0e7"
+background_hover = "#b8c5db"
+background_selected = "#aebacf"
+background_selected_hover = "#60728c"

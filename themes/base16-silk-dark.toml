@@ -1,0 +1,47 @@
+## Base16 Silk Dark
+# Author: Gabriel Fontes (https://github.com/Misterio77)
+[general]
+background = "#0e3c46"
+border = "#d2faff"
+horizontal_rule = "#2a5054"
+unread_indicator = "#fce380"
+
+[text]
+primary = "#c7dbdd"
+secondary = "#9dc8cd"
+tertiary = "#fce380"
+success = "#73d8ad"
+error = "#fb6953"
+
+[buffer]
+action = "#73d8ad"
+background = "#0e3c46"
+background_text_input = "#1d494e"
+background_title_bar = "#1d494e"
+border = "#587073"
+border_selected = "#d2faff"
+code = "#756b8a"
+highlight = "#1d494e"
+nickname = "#3fb2b9"
+selection = "#2a5054"
+timestamp = "#c7dbdd"
+topic = "#9dc8cd"
+url = "#46bddd"
+
+[buffer.server_messages]
+join = "#73d8ad"
+part = "#fb6953"
+quit = "#fb6953"
+default = "#3fb2b9"
+
+[buttons.primary]
+background = "#0e3c46"
+background_hover = "#2a5054"
+background_selected = "#587073"
+background_selected_hover = "#9dc8cd"
+
+[buttons.secondary]
+background = "#1d494e"
+background_hover = "#2a5054"
+background_selected = "#587073"
+background_selected_hover = "#9dc8cd"

@@ -1,0 +1,47 @@
+## Base16 Rebecca
+# Author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+[general]
+background = "#292a44"
+border = "#53495d"
+horizontal_rule = "#383a62"
+unread_indicator = "#ae81ff"
+
+[text]
+primary = "#f1eff8"
+secondary = "#a0a0c5"
+tertiary = "#ae81ff"
+success = "#6dfedf"
+error = "#a0a0c5"
+
+[buffer]
+action = "#6dfedf"
+background = "#292a44"
+background_text_input = "#663399"
+background_title_bar = "#663399"
+border = "#666699"
+border_selected = "#53495d"
+code = "#7aa5ff"
+highlight = "#663399"
+nickname = "#8eaee0"
+selection = "#383a62"
+timestamp = "#f1eff8"
+topic = "#a0a0c5"
+url = "#2de0a7"
+
+[buffer.server_messages]
+join = "#6dfedf"
+part = "#a0a0c5"
+quit = "#a0a0c5"
+default = "#8eaee0"
+
+[buttons.primary]
+background = "#292a44"
+background_hover = "#383a62"
+background_selected = "#666699"
+background_selected_hover = "#a0a0c5"
+
+[buttons.secondary]
+background = "#663399"
+background_hover = "#383a62"
+background_selected = "#666699"
+background_selected_hover = "#a0a0c5"

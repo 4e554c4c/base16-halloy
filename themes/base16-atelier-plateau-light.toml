@@ -1,0 +1,47 @@
+## Base16 Atelier Plateau Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#f4ecec"
+border = "#1b1818"
+horizontal_rule = "#8a8585"
+unread_indicator = "#a06e3b"
+
+[text]
+primary = "#585050"
+secondary = "#655d5d"
+tertiary = "#a06e3b"
+success = "#4b8b8b"
+error = "#ca4949"
+
+[buffer]
+action = "#4b8b8b"
+background = "#f4ecec"
+background_text_input = "#e7dfdf"
+background_title_bar = "#e7dfdf"
+border = "#7e7777"
+border_selected = "#1b1818"
+code = "#8464c4"
+highlight = "#e7dfdf"
+nickname = "#5485b6"
+selection = "#8a8585"
+timestamp = "#585050"
+topic = "#655d5d"
+url = "#7272ca"
+
+[buffer.server_messages]
+join = "#4b8b8b"
+part = "#ca4949"
+quit = "#ca4949"
+default = "#5485b6"
+
+[buttons.primary]
+background = "#f4ecec"
+background_hover = "#8a8585"
+background_selected = "#7e7777"
+background_selected_hover = "#655d5d"
+
+[buttons.secondary]
+background = "#e7dfdf"
+background_hover = "#8a8585"
+background_selected = "#7e7777"
+background_selected_hover = "#655d5d"

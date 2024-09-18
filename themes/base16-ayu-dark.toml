@@ -1,0 +1,47 @@
+## Base16 Ayu Dark
+# Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+[general]
+background = "#0f1419"
+border = "#f3f4f5"
+horizontal_rule = "#272d38"
+unread_indicator = "#ffb454"
+
+[text]
+primary = "#e6e1cf"
+secondary = "#bfbdb6"
+tertiary = "#ffb454"
+success = "#b8cc52"
+error = "#f07178"
+
+[buffer]
+action = "#b8cc52"
+background = "#0f1419"
+background_text_input = "#131721"
+background_title_bar = "#131721"
+border = "#3e4b59"
+border_selected = "#f3f4f5"
+code = "#d2a6ff"
+highlight = "#131721"
+nickname = "#95e6cb"
+selection = "#272d38"
+timestamp = "#e6e1cf"
+topic = "#bfbdb6"
+url = "#59c2ff"
+
+[buffer.server_messages]
+join = "#b8cc52"
+part = "#f07178"
+quit = "#f07178"
+default = "#95e6cb"
+
+[buttons.primary]
+background = "#0f1419"
+background_hover = "#272d38"
+background_selected = "#3e4b59"
+background_selected_hover = "#bfbdb6"
+
+[buttons.secondary]
+background = "#131721"
+background_hover = "#272d38"
+background_selected = "#3e4b59"
+background_selected_hover = "#bfbdb6"

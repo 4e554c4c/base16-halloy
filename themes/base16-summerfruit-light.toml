@@ -1,0 +1,47 @@
+## Base16 Summerfruit Light
+# Author: Christopher Corley (http://christop.club/)
+[general]
+background = "#ffffff"
+border = "#202020"
+horizontal_rule = "#d0d0d0"
+unread_indicator = "#aba800"
+
+[text]
+primary = "#101010"
+secondary = "#000000"
+tertiary = "#aba800"
+success = "#00c918"
+error = "#ff0086"
+
+[buffer]
+action = "#00c918"
+background = "#ffffff"
+background_text_input = "#e0e0e0"
+background_title_bar = "#e0e0e0"
+border = "#b0b0b0"
+border_selected = "#202020"
+code = "#ad00a1"
+highlight = "#e0e0e0"
+nickname = "#1faaaa"
+selection = "#d0d0d0"
+timestamp = "#101010"
+topic = "#000000"
+url = "#3777e6"
+
+[buffer.server_messages]
+join = "#00c918"
+part = "#ff0086"
+quit = "#ff0086"
+default = "#1faaaa"
+
+[buttons.primary]
+background = "#ffffff"
+background_hover = "#d0d0d0"
+background_selected = "#b0b0b0"
+background_selected_hover = "#000000"
+
+[buttons.secondary]
+background = "#e0e0e0"
+background_hover = "#d0d0d0"
+background_selected = "#b0b0b0"
+background_selected_hover = "#000000"

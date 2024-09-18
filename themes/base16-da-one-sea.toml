@@ -1,0 +1,47 @@
+## Base16 Da One Sea
+# Author: NNB (https://github.com/NNBnh)
+[general]
+background = "#22273d"
+border = "#ffffff"
+horizontal_rule = "#525866"
+unread_indicator = "#ff9470"
+
+[text]
+primary = "#ffffff"
+secondary = "#c8c8c8"
+tertiary = "#ff9470"
+success = "#98c379"
+error = "#fa7883"
+
+[buffer]
+action = "#98c379"
+background = "#22273d"
+background_text_input = "#374059"
+background_title_bar = "#374059"
+border = "#878d96"
+border_selected = "#ffffff"
+code = "#e799ff"
+highlight = "#374059"
+nickname = "#8af5ff"
+selection = "#525866"
+timestamp = "#ffffff"
+topic = "#c8c8c8"
+url = "#6bb8ff"
+
+[buffer.server_messages]
+join = "#98c379"
+part = "#fa7883"
+quit = "#fa7883"
+default = "#8af5ff"
+
+[buttons.primary]
+background = "#22273d"
+background_hover = "#525866"
+background_selected = "#878d96"
+background_selected_hover = "#c8c8c8"
+
+[buttons.secondary]
+background = "#374059"
+background_hover = "#525866"
+background_selected = "#878d96"
+background_selected_hover = "#c8c8c8"

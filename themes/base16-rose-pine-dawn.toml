@@ -1,0 +1,47 @@
+## Base16 Rosé Pine Dawn
+# Author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+[general]
+background = "#faf4ed"
+border = "#cecacd"
+horizontal_rule = "#f2e9de"
+unread_indicator = "#d7827e"
+
+[text]
+primary = "#575279"
+secondary = "#797593"
+tertiary = "#d7827e"
+success = "#286983"
+error = "#b4637a"
+
+[buffer]
+action = "#286983"
+background = "#faf4ed"
+background_text_input = "#fffaf3"
+background_title_bar = "#fffaf3"
+border = "#9893a5"
+border_selected = "#cecacd"
+code = "#ea9d34"
+highlight = "#fffaf3"
+nickname = "#56949f"
+selection = "#f2e9de"
+timestamp = "#575279"
+topic = "#797593"
+url = "#907aa9"
+
+[buffer.server_messages]
+join = "#286983"
+part = "#b4637a"
+quit = "#b4637a"
+default = "#56949f"
+
+[buttons.primary]
+background = "#faf4ed"
+background_hover = "#f2e9de"
+background_selected = "#9893a5"
+background_selected_hover = "#797593"
+
+[buttons.secondary]
+background = "#fffaf3"
+background_hover = "#f2e9de"
+background_selected = "#9893a5"
+background_selected_hover = "#797593"

@@ -1,0 +1,47 @@
+## Base16 Material Lighter
+# Author: Nate Peterson
+[general]
+background = "#fafafa"
+border = "#ffffff"
+horizontal_rule = "#cceae7"
+unread_indicator = "#ffb62c"
+
+[text]
+primary = "#80cbc4"
+secondary = "#8796b0"
+tertiary = "#ffb62c"
+success = "#91b859"
+error = "#ff5370"
+
+[buffer]
+action = "#91b859"
+background = "#fafafa"
+background_text_input = "#e7eaec"
+background_title_bar = "#e7eaec"
+border = "#ccd7da"
+border_selected = "#ffffff"
+code = "#7c4dff"
+highlight = "#e7eaec"
+nickname = "#39adb5"
+selection = "#cceae7"
+timestamp = "#80cbc4"
+topic = "#8796b0"
+url = "#6182b8"
+
+[buffer.server_messages]
+join = "#91b859"
+part = "#ff5370"
+quit = "#ff5370"
+default = "#39adb5"
+
+[buttons.primary]
+background = "#fafafa"
+background_hover = "#cceae7"
+background_selected = "#ccd7da"
+background_selected_hover = "#8796b0"
+
+[buttons.secondary]
+background = "#e7eaec"
+background_hover = "#cceae7"
+background_selected = "#ccd7da"
+background_selected_hover = "#8796b0"

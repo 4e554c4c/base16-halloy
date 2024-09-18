@@ -1,0 +1,47 @@
+## Base16 OneDark
+# Author: Lalit Magant (http://github.com/tilal6991)
+[general]
+background = "#282c34"
+border = "#c8ccd4"
+horizontal_rule = "#3e4451"
+unread_indicator = "#e5c07b"
+
+[text]
+primary = "#abb2bf"
+secondary = "#565c64"
+tertiary = "#e5c07b"
+success = "#98c379"
+error = "#e06c75"
+
+[buffer]
+action = "#98c379"
+background = "#282c34"
+background_text_input = "#353b45"
+background_title_bar = "#353b45"
+border = "#545862"
+border_selected = "#c8ccd4"
+code = "#c678dd"
+highlight = "#353b45"
+nickname = "#56b6c2"
+selection = "#3e4451"
+timestamp = "#abb2bf"
+topic = "#565c64"
+url = "#61afef"
+
+[buffer.server_messages]
+join = "#98c379"
+part = "#e06c75"
+quit = "#e06c75"
+default = "#56b6c2"
+
+[buttons.primary]
+background = "#282c34"
+background_hover = "#3e4451"
+background_selected = "#545862"
+background_selected_hover = "#565c64"
+
+[buttons.secondary]
+background = "#353b45"
+background_hover = "#3e4451"
+background_selected = "#545862"
+background_selected_hover = "#565c64"

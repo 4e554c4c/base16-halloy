@@ -1,0 +1,47 @@
+## Base16 Equilibrium Dark
+# Author: Carlo Abelli
+[general]
+background = "#0c1118"
+border = "#e7e2d9"
+horizontal_rule = "#22262d"
+unread_indicator = "#bb8801"
+
+[text]
+primary = "#afaba2"
+secondary = "#949088"
+tertiary = "#bb8801"
+success = "#7f8b00"
+error = "#f04339"
+
+[buffer]
+action = "#7f8b00"
+background = "#0c1118"
+background_text_input = "#181c22"
+background_title_bar = "#181c22"
+border = "#7b776e"
+border_selected = "#e7e2d9"
+code = "#6a7fd2"
+highlight = "#181c22"
+nickname = "#00948b"
+selection = "#22262d"
+timestamp = "#afaba2"
+topic = "#949088"
+url = "#008dd1"
+
+[buffer.server_messages]
+join = "#7f8b00"
+part = "#f04339"
+quit = "#f04339"
+default = "#00948b"
+
+[buttons.primary]
+background = "#0c1118"
+background_hover = "#22262d"
+background_selected = "#7b776e"
+background_selected_hover = "#949088"
+
+[buttons.secondary]
+background = "#181c22"
+background_hover = "#22262d"
+background_selected = "#7b776e"
+background_selected_hover = "#949088"

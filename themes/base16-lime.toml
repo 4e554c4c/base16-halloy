@@ -1,0 +1,47 @@
+## Base16 lime
+# Author: limelier
+[general]
+background = "#1a1a2f"
+border = "#fff8e1"
+horizontal_rule = "#2a2a3f"
+unread_indicator = "#ffd15e"
+
+[text]
+primary = "#818175"
+secondary = "#515155"
+tertiary = "#ffd15e"
+success = "#8cd97c"
+error = "#ff662a"
+
+[buffer]
+action = "#8cd97c"
+background = "#1a1a2f"
+background_text_input = "#202030"
+background_title_bar = "#202030"
+border = "#313140"
+border_selected = "#fff8e1"
+code = "#1b825f"
+highlight = "#202030"
+nickname = "#4cad83"
+selection = "#2a2a3f"
+timestamp = "#818175"
+topic = "#515155"
+url = "#2b926f"
+
+[buffer.server_messages]
+join = "#8cd97c"
+part = "#ff662a"
+quit = "#ff662a"
+default = "#4cad83"
+
+[buttons.primary]
+background = "#1a1a2f"
+background_hover = "#2a2a3f"
+background_selected = "#313140"
+background_selected_hover = "#515155"
+
+[buttons.secondary]
+background = "#202030"
+background_hover = "#2a2a3f"
+background_selected = "#313140"
+background_selected_hover = "#515155"

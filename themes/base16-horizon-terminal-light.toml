@@ -1,0 +1,47 @@
+## Base16 Horizon Terminal Light
+# Author: Michaël Ball (http://github.com/michael-ball/)
+[general]
+background = "#fdf0ed"
+border = "#201c1d"
+horizontal_rule = "#f9cbbe"
+unread_indicator = "#fadad1"
+
+[text]
+primary = "#403c3d"
+secondary = "#948c8a"
+tertiary = "#fadad1"
+success = "#29d398"
+error = "#e95678"
+
+[buffer]
+action = "#29d398"
+background = "#fdf0ed"
+background_text_input = "#fadad1"
+background_title_bar = "#fadad1"
+border = "#bdb3b1"
+border_selected = "#201c1d"
+code = "#ee64ac"
+highlight = "#fadad1"
+nickname = "#59e1e3"
+selection = "#f9cbbe"
+timestamp = "#403c3d"
+topic = "#948c8a"
+url = "#26bbd9"
+
+[buffer.server_messages]
+join = "#29d398"
+part = "#e95678"
+quit = "#e95678"
+default = "#59e1e3"
+
+[buttons.primary]
+background = "#fdf0ed"
+background_hover = "#f9cbbe"
+background_selected = "#bdb3b1"
+background_selected_hover = "#948c8a"
+
+[buttons.secondary]
+background = "#fadad1"
+background_hover = "#f9cbbe"
+background_selected = "#bdb3b1"
+background_selected_hover = "#948c8a"

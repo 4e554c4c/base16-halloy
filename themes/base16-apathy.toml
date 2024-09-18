@@ -1,0 +1,47 @@
+## Base16 Apathy
+# Author: Jannik Siebert (https://github.com/janniks)
+[general]
+background = "#031a16"
+border = "#d2e7e4"
+horizontal_rule = "#184e45"
+unread_indicator = "#3e4c96"
+
+[text]
+primary = "#81b5ac"
+secondary = "#5f9c92"
+tertiary = "#3e4c96"
+success = "#883e96"
+error = "#3e9688"
+
+[buffer]
+action = "#883e96"
+background = "#031a16"
+background_text_input = "#0b342d"
+background_title_bar = "#0b342d"
+border = "#2b685e"
+border_selected = "#d2e7e4"
+code = "#4c963e"
+highlight = "#0b342d"
+nickname = "#963e4c"
+selection = "#184e45"
+timestamp = "#81b5ac"
+topic = "#5f9c92"
+url = "#96883e"
+
+[buffer.server_messages]
+join = "#883e96"
+part = "#3e9688"
+quit = "#3e9688"
+default = "#963e4c"
+
+[buttons.primary]
+background = "#031a16"
+background_hover = "#184e45"
+background_selected = "#2b685e"
+background_selected_hover = "#5f9c92"
+
+[buttons.secondary]
+background = "#0b342d"
+background_hover = "#184e45"
+background_selected = "#2b685e"
+background_selected_hover = "#5f9c92"

@@ -1,0 +1,47 @@
+## Base16 DanQing
+# Author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+[general]
+background = "#2d302f"
+border = "#fcfefd"
+horizontal_rule = "#5a605d"
+unread_indicator = "#f0c239"
+
+[text]
+primary = "#e0f0ef"
+secondary = "#cad8d2"
+tertiary = "#f0c239"
+success = "#8ab361"
+error = "#f9906f"
+
+[buffer]
+action = "#8ab361"
+background = "#2d302f"
+background_text_input = "#434846"
+background_title_bar = "#434846"
+border = "#9da8a3"
+border_selected = "#fcfefd"
+code = "#cca4e3"
+highlight = "#434846"
+nickname = "#30dff3"
+selection = "#5a605d"
+timestamp = "#e0f0ef"
+topic = "#cad8d2"
+url = "#b0a4e3"
+
+[buffer.server_messages]
+join = "#8ab361"
+part = "#f9906f"
+quit = "#f9906f"
+default = "#30dff3"
+
+[buttons.primary]
+background = "#2d302f"
+background_hover = "#5a605d"
+background_selected = "#9da8a3"
+background_selected_hover = "#cad8d2"
+
+[buttons.secondary]
+background = "#434846"
+background_hover = "#5a605d"
+background_selected = "#9da8a3"
+background_selected_hover = "#cad8d2"

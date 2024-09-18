@@ -1,0 +1,47 @@
+## Base16 Chalk
+# Author: Chris Kempson (http://chriskempson.com)
+[general]
+background = "#151515"
+border = "#f5f5f5"
+horizontal_rule = "#303030"
+unread_indicator = "#ddb26f"
+
+[text]
+primary = "#d0d0d0"
+secondary = "#b0b0b0"
+tertiary = "#ddb26f"
+success = "#acc267"
+error = "#fb9fb1"
+
+[buffer]
+action = "#acc267"
+background = "#151515"
+background_text_input = "#202020"
+background_title_bar = "#202020"
+border = "#505050"
+border_selected = "#f5f5f5"
+code = "#e1a3ee"
+highlight = "#202020"
+nickname = "#12cfc0"
+selection = "#303030"
+timestamp = "#d0d0d0"
+topic = "#b0b0b0"
+url = "#6fc2ef"
+
+[buffer.server_messages]
+join = "#acc267"
+part = "#fb9fb1"
+quit = "#fb9fb1"
+default = "#12cfc0"
+
+[buttons.primary]
+background = "#151515"
+background_hover = "#303030"
+background_selected = "#505050"
+background_selected_hover = "#b0b0b0"
+
+[buttons.secondary]
+background = "#202020"
+background_hover = "#303030"
+background_selected = "#505050"
+background_selected_hover = "#b0b0b0"

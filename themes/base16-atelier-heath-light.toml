@@ -1,0 +1,47 @@
+## Base16 Atelier Heath Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#f7f3f7"
+border = "#1b181b"
+horizontal_rule = "#ab9bab"
+unread_indicator = "#bb8a35"
+
+[text]
+primary = "#695d69"
+secondary = "#776977"
+tertiary = "#bb8a35"
+success = "#918b3b"
+error = "#ca402b"
+
+[buffer]
+action = "#918b3b"
+background = "#f7f3f7"
+background_text_input = "#d8cad8"
+background_title_bar = "#d8cad8"
+border = "#9e8f9e"
+border_selected = "#1b181b"
+code = "#7b59c0"
+highlight = "#d8cad8"
+nickname = "#159393"
+selection = "#ab9bab"
+timestamp = "#695d69"
+topic = "#776977"
+url = "#516aec"
+
+[buffer.server_messages]
+join = "#918b3b"
+part = "#ca402b"
+quit = "#ca402b"
+default = "#159393"
+
+[buttons.primary]
+background = "#f7f3f7"
+background_hover = "#ab9bab"
+background_selected = "#9e8f9e"
+background_selected_hover = "#776977"
+
+[buttons.secondary]
+background = "#d8cad8"
+background_hover = "#ab9bab"
+background_selected = "#9e8f9e"
+background_selected_hover = "#776977"

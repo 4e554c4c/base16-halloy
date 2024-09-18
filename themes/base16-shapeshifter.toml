@@ -1,0 +1,47 @@
+## Base16 Shapeshifter
+# Author: Tyler Benziger (http://tybenz.com)
+[general]
+background = "#f9f9f9"
+border = "#000000"
+horizontal_rule = "#ababab"
+unread_indicator = "#dddd13"
+
+[text]
+primary = "#102015"
+secondary = "#343434"
+tertiary = "#dddd13"
+success = "#0ed839"
+error = "#e92f2f"
+
+[buffer]
+action = "#0ed839"
+background = "#f9f9f9"
+background_text_input = "#e0e0e0"
+background_title_bar = "#e0e0e0"
+border = "#555555"
+border_selected = "#000000"
+code = "#f996e2"
+highlight = "#e0e0e0"
+nickname = "#23edda"
+selection = "#ababab"
+timestamp = "#102015"
+topic = "#343434"
+url = "#3b48e3"
+
+[buffer.server_messages]
+join = "#0ed839"
+part = "#e92f2f"
+quit = "#e92f2f"
+default = "#23edda"
+
+[buttons.primary]
+background = "#f9f9f9"
+background_hover = "#ababab"
+background_selected = "#555555"
+background_selected_hover = "#343434"
+
+[buttons.secondary]
+background = "#e0e0e0"
+background_hover = "#ababab"
+background_selected = "#555555"
+background_selected_hover = "#343434"

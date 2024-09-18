@@ -1,0 +1,47 @@
+## Base16 Grayscale Dark
+# Author: Alexandre Gavioli (https://github.com/Alexx2/)
+[general]
+background = "#101010"
+border = "#f7f7f7"
+horizontal_rule = "#464646"
+unread_indicator = "#a0a0a0"
+
+[text]
+primary = "#b9b9b9"
+secondary = "#ababab"
+tertiary = "#a0a0a0"
+success = "#8e8e8e"
+error = "#7c7c7c"
+
+[buffer]
+action = "#8e8e8e"
+background = "#101010"
+background_text_input = "#252525"
+background_title_bar = "#252525"
+border = "#525252"
+border_selected = "#f7f7f7"
+code = "#747474"
+highlight = "#252525"
+nickname = "#868686"
+selection = "#464646"
+timestamp = "#b9b9b9"
+topic = "#ababab"
+url = "#686868"
+
+[buffer.server_messages]
+join = "#8e8e8e"
+part = "#7c7c7c"
+quit = "#7c7c7c"
+default = "#868686"
+
+[buttons.primary]
+background = "#101010"
+background_hover = "#464646"
+background_selected = "#525252"
+background_selected_hover = "#ababab"
+
+[buttons.secondary]
+background = "#252525"
+background_hover = "#464646"
+background_selected = "#525252"
+background_selected_hover = "#ababab"

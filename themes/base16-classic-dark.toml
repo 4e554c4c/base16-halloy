@@ -1,0 +1,47 @@
+## Base16 Classic Dark
+# Author: Jason Heeris (http://heeris.id.au)
+[general]
+background = "#151515"
+border = "#f5f5f5"
+horizontal_rule = "#303030"
+unread_indicator = "#f4bf75"
+
+[text]
+primary = "#d0d0d0"
+secondary = "#b0b0b0"
+tertiary = "#f4bf75"
+success = "#90a959"
+error = "#ac4142"
+
+[buffer]
+action = "#90a959"
+background = "#151515"
+background_text_input = "#202020"
+background_title_bar = "#202020"
+border = "#505050"
+border_selected = "#f5f5f5"
+code = "#aa759f"
+highlight = "#202020"
+nickname = "#75b5aa"
+selection = "#303030"
+timestamp = "#d0d0d0"
+topic = "#b0b0b0"
+url = "#6a9fb5"
+
+[buffer.server_messages]
+join = "#90a959"
+part = "#ac4142"
+quit = "#ac4142"
+default = "#75b5aa"
+
+[buttons.primary]
+background = "#151515"
+background_hover = "#303030"
+background_selected = "#505050"
+background_selected_hover = "#b0b0b0"
+
+[buttons.secondary]
+background = "#202020"
+background_hover = "#303030"
+background_selected = "#505050"
+background_selected_hover = "#b0b0b0"

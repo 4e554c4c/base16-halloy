@@ -1,0 +1,47 @@
+## Base16 Shades of Purple
+# Author: Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
+[general]
+background = "#1e1e3f"
+border = "#ffffff"
+horizontal_rule = "#f1d000"
+unread_indicator = "#ffe700"
+
+[text]
+primary = "#c7c7c7"
+secondary = "#6871ff"
+tertiary = "#ffe700"
+success = "#3ad900"
+error = "#d90429"
+
+[buffer]
+action = "#3ad900"
+background = "#1e1e3f"
+background_text_input = "#43d426"
+background_title_bar = "#43d426"
+border = "#808080"
+border_selected = "#ffffff"
+code = "#ff2c70"
+highlight = "#43d426"
+nickname = "#00c5c7"
+selection = "#f1d000"
+timestamp = "#c7c7c7"
+topic = "#6871ff"
+url = "#6943ff"
+
+[buffer.server_messages]
+join = "#3ad900"
+part = "#d90429"
+quit = "#d90429"
+default = "#00c5c7"
+
+[buttons.primary]
+background = "#1e1e3f"
+background_hover = "#f1d000"
+background_selected = "#808080"
+background_selected_hover = "#6871ff"
+
+[buttons.secondary]
+background = "#43d426"
+background_hover = "#f1d000"
+background_selected = "#808080"
+background_selected_hover = "#6871ff"

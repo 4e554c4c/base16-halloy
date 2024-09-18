@@ -1,0 +1,47 @@
+## Base16 Paraiso
+# Author: Jan T. Sott
+[general]
+background = "#2f1e2e"
+border = "#e7e9db"
+horizontal_rule = "#4f424c"
+unread_indicator = "#fec418"
+
+[text]
+primary = "#a39e9b"
+secondary = "#8d8687"
+tertiary = "#fec418"
+success = "#48b685"
+error = "#ef6155"
+
+[buffer]
+action = "#48b685"
+background = "#2f1e2e"
+background_text_input = "#41323f"
+background_title_bar = "#41323f"
+border = "#776e71"
+border_selected = "#e7e9db"
+code = "#815ba4"
+highlight = "#41323f"
+nickname = "#5bc4bf"
+selection = "#4f424c"
+timestamp = "#a39e9b"
+topic = "#8d8687"
+url = "#06b6ef"
+
+[buffer.server_messages]
+join = "#48b685"
+part = "#ef6155"
+quit = "#ef6155"
+default = "#5bc4bf"
+
+[buttons.primary]
+background = "#2f1e2e"
+background_hover = "#4f424c"
+background_selected = "#776e71"
+background_selected_hover = "#8d8687"
+
+[buttons.secondary]
+background = "#41323f"
+background_hover = "#4f424c"
+background_selected = "#776e71"
+background_selected_hover = "#8d8687"

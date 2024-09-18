@@ -1,0 +1,47 @@
+## Base16 Precious Light White
+# Author: 4lex4 &lt;4lex49@zoho.com&gt;
+[general]
+background = "#ffffff"
+border = "#555555"
+horizontal_rule = "#dbdbdb"
+unread_indicator = "#876500"
+
+[text]
+primary = "#555555"
+secondary = "#636363"
+tertiary = "#876500"
+success = "#557301"
+error = "#af4947"
+
+[buffer]
+action = "#557301"
+background = "#ffffff"
+background_text_input = "#ededed"
+background_title_bar = "#ededed"
+border = "#848484"
+border_selected = "#555555"
+code = "#7b4ecb"
+highlight = "#ededed"
+nickname = "#087767"
+selection = "#dbdbdb"
+timestamp = "#555555"
+topic = "#636363"
+url = "#186daa"
+
+[buffer.server_messages]
+join = "#557301"
+part = "#af4947"
+quit = "#af4947"
+default = "#087767"
+
+[buttons.primary]
+background = "#ffffff"
+background_hover = "#dbdbdb"
+background_selected = "#848484"
+background_selected_hover = "#636363"
+
+[buttons.secondary]
+background = "#ededed"
+background_hover = "#dbdbdb"
+background_selected = "#848484"
+background_selected_hover = "#636363"

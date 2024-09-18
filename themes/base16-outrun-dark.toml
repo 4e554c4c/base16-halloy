@@ -1,0 +1,47 @@
+## Base16 Outrun Dark
+# Author: Hugo Delahousse (http://github.com/hugodelahousse/)
+[general]
+background = "#00002a"
+border = "#f5f5ff"
+horizontal_rule = "#30305a"
+unread_indicator = "#f3e877"
+
+[text]
+primary = "#d0d0fa"
+secondary = "#b0b0da"
+tertiary = "#f3e877"
+success = "#59f176"
+error = "#ff4242"
+
+[buffer]
+action = "#59f176"
+background = "#00002a"
+background_text_input = "#20204a"
+background_title_bar = "#20204a"
+border = "#50507a"
+border_selected = "#f5f5ff"
+code = "#f10596"
+highlight = "#20204a"
+nickname = "#0ef0f0"
+selection = "#30305a"
+timestamp = "#d0d0fa"
+topic = "#b0b0da"
+url = "#66b0ff"
+
+[buffer.server_messages]
+join = "#59f176"
+part = "#ff4242"
+quit = "#ff4242"
+default = "#0ef0f0"
+
+[buttons.primary]
+background = "#00002a"
+background_hover = "#30305a"
+background_selected = "#50507a"
+background_selected_hover = "#b0b0da"
+
+[buttons.secondary]
+background = "#20204a"
+background_hover = "#30305a"
+background_selected = "#50507a"
+background_selected_hover = "#b0b0da"

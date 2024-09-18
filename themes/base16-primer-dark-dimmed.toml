@@ -1,0 +1,47 @@
+## Base16 Primer Dark Dimmed
+# Author: Jimmy Lin
+[general]
+background = "#1c2128"
+border = "#cdd9e5"
+horizontal_rule = "#444c56"
+unread_indicator = "#c69026"
+
+[text]
+primary = "#909dab"
+secondary = "#768390"
+tertiary = "#c69026"
+success = "#57ab5a"
+error = "#f47067"
+
+[buffer]
+action = "#57ab5a"
+background = "#1c2128"
+background_text_input = "#373e47"
+background_title_bar = "#373e47"
+border = "#545d68"
+border_selected = "#cdd9e5"
+code = "#e275ad"
+highlight = "#373e47"
+nickname = "#96d0ff"
+selection = "#444c56"
+timestamp = "#909dab"
+topic = "#768390"
+url = "#539bf5"
+
+[buffer.server_messages]
+join = "#57ab5a"
+part = "#f47067"
+quit = "#f47067"
+default = "#96d0ff"
+
+[buttons.primary]
+background = "#1c2128"
+background_hover = "#444c56"
+background_selected = "#545d68"
+background_selected_hover = "#768390"
+
+[buttons.secondary]
+background = "#373e47"
+background_hover = "#444c56"
+background_selected = "#545d68"
+background_selected_hover = "#768390"

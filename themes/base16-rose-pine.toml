@@ -1,0 +1,47 @@
+## Base16 Rosé Pine
+# Author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+[general]
+background = "#191724"
+border = "#524f67"
+horizontal_rule = "#26233a"
+unread_indicator = "#ebbcba"
+
+[text]
+primary = "#e0def4"
+secondary = "#908caa"
+tertiary = "#ebbcba"
+success = "#31748f"
+error = "#eb6f92"
+
+[buffer]
+action = "#31748f"
+background = "#191724"
+background_text_input = "#1f1d2e"
+background_title_bar = "#1f1d2e"
+border = "#6e6a86"
+border_selected = "#524f67"
+code = "#f6c177"
+highlight = "#1f1d2e"
+nickname = "#9ccfd8"
+selection = "#26233a"
+timestamp = "#e0def4"
+topic = "#908caa"
+url = "#c4a7e7"
+
+[buffer.server_messages]
+join = "#31748f"
+part = "#eb6f92"
+quit = "#eb6f92"
+default = "#9ccfd8"
+
+[buttons.primary]
+background = "#191724"
+background_hover = "#26233a"
+background_selected = "#6e6a86"
+background_selected_hover = "#908caa"
+
+[buttons.secondary]
+background = "#1f1d2e"
+background_hover = "#26233a"
+background_selected = "#6e6a86"
+background_selected_hover = "#908caa"

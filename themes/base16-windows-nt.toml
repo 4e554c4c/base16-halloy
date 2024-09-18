@@ -1,0 +1,47 @@
+## Base16 Windows NT
+# Author: Fergus Collins (https://github.com/C-Fergus)
+[general]
+background = "#000000"
+border = "#ffffff"
+horizontal_rule = "#555555"
+unread_indicator = "#ffff00"
+
+[text]
+primary = "#c0c0c0"
+secondary = "#a1a1a1"
+tertiary = "#ffff00"
+success = "#00ff00"
+error = "#ff0000"
+
+[buffer]
+action = "#00ff00"
+background = "#000000"
+background_text_input = "#2a2a2a"
+background_title_bar = "#2a2a2a"
+border = "#808080"
+border_selected = "#ffffff"
+code = "#ff00ff"
+highlight = "#2a2a2a"
+nickname = "#00ffff"
+selection = "#555555"
+timestamp = "#c0c0c0"
+topic = "#a1a1a1"
+url = "#0000ff"
+
+[buffer.server_messages]
+join = "#00ff00"
+part = "#ff0000"
+quit = "#ff0000"
+default = "#00ffff"
+
+[buttons.primary]
+background = "#000000"
+background_hover = "#555555"
+background_selected = "#808080"
+background_selected_hover = "#a1a1a1"
+
+[buttons.secondary]
+background = "#2a2a2a"
+background_hover = "#555555"
+background_selected = "#808080"
+background_selected_hover = "#a1a1a1"

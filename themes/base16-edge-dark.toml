@@ -1,0 +1,47 @@
+## Base16 Edge Dark
+# Author: cjayross (https://github.com/cjayross)
+[general]
+background = "#262729"
+border = "#3e4249"
+horizontal_rule = "#b7bec9"
+unread_indicator = "#dbb774"
+
+[text]
+primary = "#b7bec9"
+secondary = "#73b3e7"
+tertiary = "#dbb774"
+success = "#a1bf78"
+error = "#e77171"
+
+[buffer]
+action = "#a1bf78"
+background = "#262729"
+background_text_input = "#88909f"
+background_title_bar = "#88909f"
+border = "#3e4249"
+border_selected = "#3e4249"
+code = "#d390e7"
+highlight = "#88909f"
+nickname = "#5ebaa5"
+selection = "#b7bec9"
+timestamp = "#b7bec9"
+topic = "#73b3e7"
+url = "#73b3e7"
+
+[buffer.server_messages]
+join = "#a1bf78"
+part = "#e77171"
+quit = "#e77171"
+default = "#5ebaa5"
+
+[buttons.primary]
+background = "#262729"
+background_hover = "#b7bec9"
+background_selected = "#3e4249"
+background_selected_hover = "#73b3e7"
+
+[buttons.secondary]
+background = "#88909f"
+background_hover = "#b7bec9"
+background_selected = "#3e4249"
+background_selected_hover = "#73b3e7"

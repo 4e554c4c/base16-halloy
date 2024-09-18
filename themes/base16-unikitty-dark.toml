@@ -1,0 +1,47 @@
+## Base16 Unikitty Dark
+# Author: Josh W Lewis (@joshwlewis)
+[general]
+background = "#2e2a31"
+border = "#f5f4f7"
+horizontal_rule = "#666369"
+unread_indicator = "#dc8a0e"
+
+[text]
+primary = "#bcbabe"
+secondary = "#9f9da2"
+tertiary = "#dc8a0e"
+success = "#17ad98"
+error = "#d8137f"
+
+[buffer]
+action = "#17ad98"
+background = "#2e2a31"
+background_text_input = "#4a464d"
+background_title_bar = "#4a464d"
+border = "#838085"
+border_selected = "#f5f4f7"
+code = "#bb60ea"
+highlight = "#4a464d"
+nickname = "#149bda"
+selection = "#666369"
+timestamp = "#bcbabe"
+topic = "#9f9da2"
+url = "#796af5"
+
+[buffer.server_messages]
+join = "#17ad98"
+part = "#d8137f"
+quit = "#d8137f"
+default = "#149bda"
+
+[buttons.primary]
+background = "#2e2a31"
+background_hover = "#666369"
+background_selected = "#838085"
+background_selected_hover = "#9f9da2"
+
+[buttons.secondary]
+background = "#4a464d"
+background_hover = "#666369"
+background_selected = "#838085"
+background_selected_hover = "#9f9da2"

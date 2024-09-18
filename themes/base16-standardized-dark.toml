@@ -1,0 +1,47 @@
+## Base16 standardized-dark
+# Author: ali (https://github.com/ali-githb/base16-standardized-scheme)
+[general]
+background = "#222222"
+border = "#ffffff"
+horizontal_rule = "#555555"
+unread_indicator = "#e1b31a"
+
+[text]
+primary = "#c0c0c0"
+secondary = "#898989"
+tertiary = "#e1b31a"
+success = "#5db129"
+error = "#e15d67"
+
+[buffer]
+action = "#5db129"
+background = "#222222"
+background_text_input = "#303030"
+background_title_bar = "#303030"
+border = "#898989"
+border_selected = "#ffffff"
+code = "#b46ee0"
+highlight = "#303030"
+nickname = "#21c992"
+selection = "#555555"
+timestamp = "#c0c0c0"
+topic = "#898989"
+url = "#00a3f2"
+
+[buffer.server_messages]
+join = "#5db129"
+part = "#e15d67"
+quit = "#e15d67"
+default = "#21c992"
+
+[buttons.primary]
+background = "#222222"
+background_hover = "#555555"
+background_selected = "#898989"
+background_selected_hover = "#898989"
+
+[buttons.secondary]
+background = "#303030"
+background_hover = "#555555"
+background_selected = "#898989"
+background_selected_hover = "#898989"

@@ -1,0 +1,47 @@
+## Base16 vulcan
+# Author: Andrey Varfolomeev
+[general]
+background = "#041523"
+border = "#214d68"
+horizontal_rule = "#003552"
+unread_indicator = "#adb4b9"
+
+[text]
+primary = "#5b778c"
+secondary = "#6b6977"
+tertiary = "#adb4b9"
+success = "#977d7c"
+error = "#818591"
+
+[buffer]
+action = "#977d7c"
+background = "#041523"
+background_text_input = "#122339"
+background_title_bar = "#122339"
+border = "#7a5759"
+border_selected = "#214d68"
+code = "#9198a3"
+highlight = "#122339"
+nickname = "#977d7c"
+selection = "#003552"
+timestamp = "#5b778c"
+topic = "#6b6977"
+url = "#977d7c"
+
+[buffer.server_messages]
+join = "#977d7c"
+part = "#818591"
+quit = "#818591"
+default = "#977d7c"
+
+[buttons.primary]
+background = "#041523"
+background_hover = "#003552"
+background_selected = "#7a5759"
+background_selected_hover = "#6b6977"
+
+[buttons.secondary]
+background = "#122339"
+background_hover = "#003552"
+background_selected = "#7a5759"
+background_selected_hover = "#6b6977"

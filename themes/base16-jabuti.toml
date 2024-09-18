@@ -1,0 +1,47 @@
+## Base16 Jabuti
+# Author: https://github.com/notusknot
+[general]
+background = "#292a37"
+border = "#ffffff"
+horizontal_rule = "#3c3e51"
+unread_indicator = "#e1c697"
+
+[text]
+primary = "#c0cbe3"
+secondary = "#50526b"
+tertiary = "#e1c697"
+success = "#3fdaa4"
+error = "#ec6a88"
+
+[buffer]
+action = "#3fdaa4"
+background = "#292a37"
+background_text_input = "#343545"
+background_title_bar = "#343545"
+border = "#45475d"
+border_selected = "#ffffff"
+code = "#be95ff"
+highlight = "#343545"
+nickname = "#ff7eb6"
+selection = "#3c3e51"
+timestamp = "#c0cbe3"
+topic = "#50526b"
+url = "#3fc6de"
+
+[buffer.server_messages]
+join = "#3fdaa4"
+part = "#ec6a88"
+quit = "#ec6a88"
+default = "#ff7eb6"
+
+[buttons.primary]
+background = "#292a37"
+background_hover = "#3c3e51"
+background_selected = "#45475d"
+background_selected_hover = "#50526b"
+
+[buttons.secondary]
+background = "#343545"
+background_hover = "#3c3e51"
+background_selected = "#45475d"
+background_selected_hover = "#50526b"

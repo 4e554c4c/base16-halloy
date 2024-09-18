@@ -1,0 +1,47 @@
+## Base16 Hopscotch
+# Author: Jan T. Sott
+[general]
+background = "#322931"
+border = "#ffffff"
+horizontal_rule = "#5c545b"
+unread_indicator = "#fdcc59"
+
+[text]
+primary = "#b9b5b8"
+secondary = "#989498"
+tertiary = "#fdcc59"
+success = "#8fc13e"
+error = "#dd464c"
+
+[buffer]
+action = "#8fc13e"
+background = "#322931"
+background_text_input = "#433b42"
+background_title_bar = "#433b42"
+border = "#797379"
+border_selected = "#ffffff"
+code = "#c85e7c"
+highlight = "#433b42"
+nickname = "#149b93"
+selection = "#5c545b"
+timestamp = "#b9b5b8"
+topic = "#989498"
+url = "#1290bf"
+
+[buffer.server_messages]
+join = "#8fc13e"
+part = "#dd464c"
+quit = "#dd464c"
+default = "#149b93"
+
+[buttons.primary]
+background = "#322931"
+background_hover = "#5c545b"
+background_selected = "#797379"
+background_selected_hover = "#989498"
+
+[buttons.secondary]
+background = "#433b42"
+background_hover = "#5c545b"
+background_selected = "#797379"
+background_selected_hover = "#989498"

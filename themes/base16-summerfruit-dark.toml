@@ -1,0 +1,47 @@
+## Base16 Summerfruit Dark
+# Author: Christopher Corley (http://christop.club/)
+[general]
+background = "#151515"
+border = "#ffffff"
+horizontal_rule = "#303030"
+unread_indicator = "#aba800"
+
+[text]
+primary = "#d0d0d0"
+secondary = "#b0b0b0"
+tertiary = "#aba800"
+success = "#00c918"
+error = "#ff0086"
+
+[buffer]
+action = "#00c918"
+background = "#151515"
+background_text_input = "#202020"
+background_title_bar = "#202020"
+border = "#505050"
+border_selected = "#ffffff"
+code = "#ad00a1"
+highlight = "#202020"
+nickname = "#1faaaa"
+selection = "#303030"
+timestamp = "#d0d0d0"
+topic = "#b0b0b0"
+url = "#3777e6"
+
+[buffer.server_messages]
+join = "#00c918"
+part = "#ff0086"
+quit = "#ff0086"
+default = "#1faaaa"
+
+[buttons.primary]
+background = "#151515"
+background_hover = "#303030"
+background_selected = "#505050"
+background_selected_hover = "#b0b0b0"
+
+[buttons.secondary]
+background = "#202020"
+background_hover = "#303030"
+background_selected = "#505050"
+background_selected_hover = "#b0b0b0"

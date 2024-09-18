@@ -1,0 +1,47 @@
+## Base16 Atelier Dune
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#20201d"
+border = "#fefbec"
+horizontal_rule = "#6e6b5e"
+unread_indicator = "#ae9513"
+
+[text]
+primary = "#a6a28c"
+secondary = "#999580"
+tertiary = "#ae9513"
+success = "#60ac39"
+error = "#d73737"
+
+[buffer]
+action = "#60ac39"
+background = "#20201d"
+background_text_input = "#292824"
+background_title_bar = "#292824"
+border = "#7d7a68"
+border_selected = "#fefbec"
+code = "#b854d4"
+highlight = "#292824"
+nickname = "#1fad83"
+selection = "#6e6b5e"
+timestamp = "#a6a28c"
+topic = "#999580"
+url = "#6684e1"
+
+[buffer.server_messages]
+join = "#60ac39"
+part = "#d73737"
+quit = "#d73737"
+default = "#1fad83"
+
+[buttons.primary]
+background = "#20201d"
+background_hover = "#6e6b5e"
+background_selected = "#7d7a68"
+background_selected_hover = "#999580"
+
+[buttons.secondary]
+background = "#292824"
+background_hover = "#6e6b5e"
+background_selected = "#7d7a68"
+background_selected_hover = "#999580"

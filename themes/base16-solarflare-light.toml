@@ -1,0 +1,47 @@
+## Base16 Solar Flare Light
+# Author: Chuck Harmston (https://chuck.harmston.ch)
+[general]
+background = "#f5f7fa"
+border = "#18262f"
+horizontal_rule = "#a6afb8"
+unread_indicator = "#e4b51c"
+
+[text]
+primary = "#586875"
+secondary = "#667581"
+tertiary = "#e4b51c"
+success = "#7cc844"
+error = "#ef5253"
+
+[buffer]
+action = "#7cc844"
+background = "#f5f7fa"
+background_text_input = "#e8e9ed"
+background_title_bar = "#e8e9ed"
+border = "#85939e"
+border_selected = "#18262f"
+code = "#a363d5"
+highlight = "#e8e9ed"
+nickname = "#52cbb0"
+selection = "#a6afb8"
+timestamp = "#586875"
+topic = "#667581"
+url = "#33b5e1"
+
+[buffer.server_messages]
+join = "#7cc844"
+part = "#ef5253"
+quit = "#ef5253"
+default = "#52cbb0"
+
+[buttons.primary]
+background = "#f5f7fa"
+background_hover = "#a6afb8"
+background_selected = "#85939e"
+background_selected_hover = "#667581"
+
+[buttons.secondary]
+background = "#e8e9ed"
+background_hover = "#a6afb8"
+background_selected = "#85939e"
+background_selected_hover = "#667581"

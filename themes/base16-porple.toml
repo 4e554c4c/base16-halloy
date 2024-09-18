@@ -1,0 +1,47 @@
+## Base16 Porple
+# Author: Niek den Breeje (https://github.com/AuditeMarlow)
+[general]
+background = "#292c36"
+border = "#f8f8f8"
+horizontal_rule = "#474160"
+unread_indicator = "#efa16b"
+
+[text]
+primary = "#d8d8d8"
+secondary = "#b8b8b8"
+tertiary = "#efa16b"
+success = "#95c76f"
+error = "#f84547"
+
+[buffer]
+action = "#95c76f"
+background = "#292c36"
+background_text_input = "#333344"
+background_title_bar = "#333344"
+border = "#65568a"
+border_selected = "#f8f8f8"
+code = "#b74989"
+highlight = "#333344"
+nickname = "#64878f"
+selection = "#474160"
+timestamp = "#d8d8d8"
+topic = "#b8b8b8"
+url = "#8485ce"
+
+[buffer.server_messages]
+join = "#95c76f"
+part = "#f84547"
+quit = "#f84547"
+default = "#64878f"
+
+[buttons.primary]
+background = "#292c36"
+background_hover = "#474160"
+background_selected = "#65568a"
+background_selected_hover = "#b8b8b8"
+
+[buttons.secondary]
+background = "#333344"
+background_hover = "#474160"
+background_selected = "#65568a"
+background_selected_hover = "#b8b8b8"

@@ -1,0 +1,47 @@
+## Base16 Sagelight
+# Author: Carter Veldhuizen
+[general]
+background = "#f8f8f8"
+border = "#181818"
+horizontal_rule = "#d8d8d8"
+unread_indicator = "#ffdc61"
+
+[text]
+primary = "#383838"
+secondary = "#585858"
+tertiary = "#ffdc61"
+success = "#a0d2c8"
+error = "#fa8480"
+
+[buffer]
+action = "#a0d2c8"
+background = "#f8f8f8"
+background_text_input = "#e8e8e8"
+background_title_bar = "#e8e8e8"
+border = "#b8b8b8"
+border_selected = "#181818"
+code = "#c8a0d2"
+highlight = "#e8e8e8"
+nickname = "#a2d6f5"
+selection = "#d8d8d8"
+timestamp = "#383838"
+topic = "#585858"
+url = "#a0a7d2"
+
+[buffer.server_messages]
+join = "#a0d2c8"
+part = "#fa8480"
+quit = "#fa8480"
+default = "#a2d6f5"
+
+[buttons.primary]
+background = "#f8f8f8"
+background_hover = "#d8d8d8"
+background_selected = "#b8b8b8"
+background_selected_hover = "#585858"
+
+[buttons.secondary]
+background = "#e8e8e8"
+background_hover = "#d8d8d8"
+background_selected = "#b8b8b8"
+background_selected_hover = "#585858"

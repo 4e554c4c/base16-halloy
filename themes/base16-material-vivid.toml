@@ -1,0 +1,47 @@
+## Base16 Material Vivid
+# Author: joshyrobot
+[general]
+background = "#202124"
+border = "#ffffff"
+horizontal_rule = "#323639"
+unread_indicator = "#ffeb3b"
+
+[text]
+primary = "#80868b"
+secondary = "#676c71"
+tertiary = "#ffeb3b"
+success = "#00e676"
+error = "#f44336"
+
+[buffer]
+action = "#00e676"
+background = "#202124"
+background_text_input = "#27292c"
+background_title_bar = "#27292c"
+border = "#44464d"
+border_selected = "#ffffff"
+code = "#673ab7"
+highlight = "#27292c"
+nickname = "#00bcd4"
+selection = "#323639"
+timestamp = "#80868b"
+topic = "#676c71"
+url = "#2196f3"
+
+[buffer.server_messages]
+join = "#00e676"
+part = "#f44336"
+quit = "#f44336"
+default = "#00bcd4"
+
+[buttons.primary]
+background = "#202124"
+background_hover = "#323639"
+background_selected = "#44464d"
+background_selected_hover = "#676c71"
+
+[buttons.secondary]
+background = "#27292c"
+background_hover = "#323639"
+background_selected = "#44464d"
+background_selected_hover = "#676c71"

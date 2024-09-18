@@ -1,0 +1,47 @@
+## Base16 Seti UI
+# Author: 
+[general]
+background = "#151718"
+border = "#ffffff"
+horizontal_rule = "#3b758c"
+unread_indicator = "#e6cd69"
+
+[text]
+primary = "#d6d6d6"
+secondary = "#43a5d5"
+tertiary = "#e6cd69"
+success = "#9fca56"
+error = "#cd3f45"
+
+[buffer]
+action = "#9fca56"
+background = "#151718"
+background_text_input = "#282a2b"
+background_title_bar = "#282a2b"
+border = "#41535b"
+border_selected = "#ffffff"
+code = "#a074c4"
+highlight = "#282a2b"
+nickname = "#55dbbe"
+selection = "#3b758c"
+timestamp = "#d6d6d6"
+topic = "#43a5d5"
+url = "#55b5db"
+
+[buffer.server_messages]
+join = "#9fca56"
+part = "#cd3f45"
+quit = "#cd3f45"
+default = "#55dbbe"
+
+[buttons.primary]
+background = "#151718"
+background_hover = "#3b758c"
+background_selected = "#41535b"
+background_selected_hover = "#43a5d5"
+
+[buttons.secondary]
+background = "#282a2b"
+background_hover = "#3b758c"
+background_selected = "#41535b"
+background_selected_hover = "#43a5d5"

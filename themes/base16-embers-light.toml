@@ -1,0 +1,47 @@
+## Base16 Embers Light
+# Author: Jannik Siebert (https://github.com/janniks)
+[general]
+background = "#d1d6db"
+border = "#0f1316"
+horizontal_rule = "#909aa3"
+unread_indicator = "#57826d"
+
+[text]
+primary = "#323b43"
+secondary = "#47505a"
+tertiary = "#57826d"
+success = "#6d8257"
+error = "#576d82"
+
+[buffer]
+action = "#6d8257"
+background = "#d1d6db"
+background_text_input = "#aeb6be"
+background_title_bar = "#aeb6be"
+border = "#75808a"
+border_selected = "#0f1316"
+code = "#6d5782"
+highlight = "#aeb6be"
+nickname = "#826d57"
+selection = "#909aa3"
+timestamp = "#323b43"
+topic = "#47505a"
+url = "#82576d"
+
+[buffer.server_messages]
+join = "#6d8257"
+part = "#576d82"
+quit = "#576d82"
+default = "#826d57"
+
+[buttons.primary]
+background = "#d1d6db"
+background_hover = "#909aa3"
+background_selected = "#75808a"
+background_selected_hover = "#47505a"
+
+[buttons.secondary]
+background = "#aeb6be"
+background_hover = "#909aa3"
+background_selected = "#75808a"
+background_selected_hover = "#47505a"

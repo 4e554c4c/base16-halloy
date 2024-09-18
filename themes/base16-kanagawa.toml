@@ -1,0 +1,47 @@
+## Base16 Kanagawa
+# Author: Tommaso Laurenzi (https://github.com/rebelot)
+[general]
+background = "#1f1f28"
+border = "#717c7c"
+horizontal_rule = "#223249"
+unread_indicator = "#c0a36e"
+
+[text]
+primary = "#dcd7ba"
+secondary = "#727169"
+tertiary = "#c0a36e"
+success = "#76946a"
+error = "#c34043"
+
+[buffer]
+action = "#76946a"
+background = "#1f1f28"
+background_text_input = "#16161d"
+background_title_bar = "#16161d"
+border = "#54546d"
+border_selected = "#717c7c"
+code = "#957fb8"
+highlight = "#16161d"
+nickname = "#6a9589"
+selection = "#223249"
+timestamp = "#dcd7ba"
+topic = "#727169"
+url = "#7e9cd8"
+
+[buffer.server_messages]
+join = "#76946a"
+part = "#c34043"
+quit = "#c34043"
+default = "#6a9589"
+
+[buttons.primary]
+background = "#1f1f28"
+background_hover = "#223249"
+background_selected = "#54546d"
+background_selected_hover = "#727169"
+
+[buttons.secondary]
+background = "#16161d"
+background_hover = "#223249"
+background_selected = "#54546d"
+background_selected_hover = "#727169"

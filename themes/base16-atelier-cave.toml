@@ -1,0 +1,47 @@
+## Base16 Atelier Cave
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#19171c"
+border = "#efecf4"
+horizontal_rule = "#585260"
+unread_indicator = "#a06e3b"
+
+[text]
+primary = "#8b8792"
+secondary = "#7e7887"
+tertiary = "#a06e3b"
+success = "#2a9292"
+error = "#be4678"
+
+[buffer]
+action = "#2a9292"
+background = "#19171c"
+background_text_input = "#26232a"
+background_title_bar = "#26232a"
+border = "#655f6d"
+border_selected = "#efecf4"
+code = "#955ae7"
+highlight = "#26232a"
+nickname = "#398bc6"
+selection = "#585260"
+timestamp = "#8b8792"
+topic = "#7e7887"
+url = "#576ddb"
+
+[buffer.server_messages]
+join = "#2a9292"
+part = "#be4678"
+quit = "#be4678"
+default = "#398bc6"
+
+[buttons.primary]
+background = "#19171c"
+background_hover = "#585260"
+background_selected = "#655f6d"
+background_selected_hover = "#7e7887"
+
+[buttons.secondary]
+background = "#26232a"
+background_hover = "#585260"
+background_selected = "#655f6d"
+background_selected_hover = "#7e7887"

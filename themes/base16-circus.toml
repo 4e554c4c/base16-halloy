@@ -1,0 +1,47 @@
+## Base16 Circus
+# Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+[general]
+background = "#191919"
+border = "#ffffff"
+horizontal_rule = "#303030"
+unread_indicator = "#c3ba63"
+
+[text]
+primary = "#a7a7a7"
+secondary = "#505050"
+tertiary = "#c3ba63"
+success = "#84b97c"
+error = "#dc657d"
+
+[buffer]
+action = "#84b97c"
+background = "#191919"
+background_text_input = "#202020"
+background_title_bar = "#202020"
+border = "#5f5a60"
+border_selected = "#ffffff"
+code = "#b888e2"
+highlight = "#202020"
+nickname = "#4bb1a7"
+selection = "#303030"
+timestamp = "#a7a7a7"
+topic = "#505050"
+url = "#639ee4"
+
+[buffer.server_messages]
+join = "#84b97c"
+part = "#dc657d"
+quit = "#dc657d"
+default = "#4bb1a7"
+
+[buttons.primary]
+background = "#191919"
+background_hover = "#303030"
+background_selected = "#5f5a60"
+background_selected_hover = "#505050"
+
+[buttons.secondary]
+background = "#202020"
+background_hover = "#303030"
+background_selected = "#5f5a60"
+background_selected_hover = "#505050"

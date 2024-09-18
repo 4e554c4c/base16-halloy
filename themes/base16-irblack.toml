@@ -1,0 +1,47 @@
+## Base16 IR Black
+# Author: Timothée Poisot (http://timotheepoisot.fr)
+[general]
+background = "#000000"
+border = "#fdfbee"
+horizontal_rule = "#484844"
+unread_indicator = "#ffffb6"
+
+[text]
+primary = "#b5b3aa"
+secondary = "#918f88"
+tertiary = "#ffffb6"
+success = "#a8ff60"
+error = "#ff6c60"
+
+[buffer]
+action = "#a8ff60"
+background = "#000000"
+background_text_input = "#242422"
+background_title_bar = "#242422"
+border = "#6c6c66"
+border_selected = "#fdfbee"
+code = "#ff73fd"
+highlight = "#242422"
+nickname = "#c6c5fe"
+selection = "#484844"
+timestamp = "#b5b3aa"
+topic = "#918f88"
+url = "#96cbfe"
+
+[buffer.server_messages]
+join = "#a8ff60"
+part = "#ff6c60"
+quit = "#ff6c60"
+default = "#c6c5fe"
+
+[buttons.primary]
+background = "#000000"
+background_hover = "#484844"
+background_selected = "#6c6c66"
+background_selected_hover = "#918f88"
+
+[buttons.secondary]
+background = "#242422"
+background_hover = "#484844"
+background_selected = "#6c6c66"
+background_selected_hover = "#918f88"

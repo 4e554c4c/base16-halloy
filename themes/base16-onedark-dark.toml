@@ -1,0 +1,47 @@
+## Base16 OneDark Dark
+# Author: olimorris (https://github.com/olimorris)
+[general]
+background = "#000000"
+border = "#c8ccd4"
+horizontal_rule = "#2c313a"
+unread_indicator = "#e5c07b"
+
+[text]
+primary = "#abb2bf"
+secondary = "#565c64"
+tertiary = "#e5c07b"
+success = "#89ca78"
+error = "#ef596f"
+
+[buffer]
+action = "#89ca78"
+background = "#000000"
+background_text_input = "#1c1f24"
+background_title_bar = "#1c1f24"
+border = "#434852"
+border_selected = "#c8ccd4"
+code = "#d55fde"
+highlight = "#1c1f24"
+nickname = "#2bbac5"
+selection = "#2c313a"
+timestamp = "#abb2bf"
+topic = "#565c64"
+url = "#61afef"
+
+[buffer.server_messages]
+join = "#89ca78"
+part = "#ef596f"
+quit = "#ef596f"
+default = "#2bbac5"
+
+[buttons.primary]
+background = "#000000"
+background_hover = "#2c313a"
+background_selected = "#434852"
+background_selected_hover = "#565c64"
+
+[buttons.secondary]
+background = "#1c1f24"
+background_hover = "#2c313a"
+background_selected = "#434852"
+background_selected_hover = "#565c64"

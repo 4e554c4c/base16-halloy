@@ -1,0 +1,47 @@
+## Base16 Windows 10 Light
+# Author: Fergus Collins (https://github.com/C-Fergus)
+[general]
+background = "#f2f2f2"
+border = "#0c0c0c"
+horizontal_rule = "#d9d9d9"
+unread_indicator = "#c19c00"
+
+[text]
+primary = "#767676"
+secondary = "#ababab"
+tertiary = "#c19c00"
+success = "#13a10e"
+error = "#c50f1f"
+
+[buffer]
+action = "#13a10e"
+background = "#f2f2f2"
+background_text_input = "#e5e5e5"
+background_title_bar = "#e5e5e5"
+border = "#cccccc"
+border_selected = "#0c0c0c"
+code = "#881798"
+highlight = "#e5e5e5"
+nickname = "#3a96dd"
+selection = "#d9d9d9"
+timestamp = "#767676"
+topic = "#ababab"
+url = "#0037da"
+
+[buffer.server_messages]
+join = "#13a10e"
+part = "#c50f1f"
+quit = "#c50f1f"
+default = "#3a96dd"
+
+[buttons.primary]
+background = "#f2f2f2"
+background_hover = "#d9d9d9"
+background_selected = "#cccccc"
+background_selected_hover = "#ababab"
+
+[buttons.secondary]
+background = "#e5e5e5"
+background_hover = "#d9d9d9"
+background_selected = "#cccccc"
+background_selected_hover = "#ababab"

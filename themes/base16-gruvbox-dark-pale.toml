@@ -1,0 +1,47 @@
+## Base16 Gruvbox dark, pale
+# Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+[general]
+background = "#262626"
+border = "#ebdbb2"
+horizontal_rule = "#4e4e4e"
+unread_indicator = "#ffaf00"
+
+[text]
+primary = "#dab997"
+secondary = "#949494"
+tertiary = "#ffaf00"
+success = "#afaf00"
+error = "#d75f5f"
+
+[buffer]
+action = "#afaf00"
+background = "#262626"
+background_text_input = "#3a3a3a"
+background_title_bar = "#3a3a3a"
+border = "#8a8a8a"
+border_selected = "#ebdbb2"
+code = "#d485ad"
+highlight = "#3a3a3a"
+nickname = "#85ad85"
+selection = "#4e4e4e"
+timestamp = "#dab997"
+topic = "#949494"
+url = "#83adad"
+
+[buffer.server_messages]
+join = "#afaf00"
+part = "#d75f5f"
+quit = "#d75f5f"
+default = "#85ad85"
+
+[buttons.primary]
+background = "#262626"
+background_hover = "#4e4e4e"
+background_selected = "#8a8a8a"
+background_selected_hover = "#949494"
+
+[buttons.secondary]
+background = "#3a3a3a"
+background_hover = "#4e4e4e"
+background_selected = "#8a8a8a"
+background_selected_hover = "#949494"

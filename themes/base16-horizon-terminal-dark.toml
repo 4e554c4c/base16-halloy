@@ -1,0 +1,47 @@
+## Base16 Horizon Terminal Dark
+# Author: Michaël Ball (http://github.com/michael-ball/)
+[general]
+background = "#1c1e26"
+border = "#e3e6ee"
+horizontal_rule = "#2e303e"
+unread_indicator = "#fac29a"
+
+[text]
+primary = "#cbced0"
+secondary = "#9da0a2"
+tertiary = "#fac29a"
+success = "#29d398"
+error = "#e95678"
+
+[buffer]
+action = "#29d398"
+background = "#1c1e26"
+background_text_input = "#232530"
+background_title_bar = "#232530"
+border = "#6f6f70"
+border_selected = "#e3e6ee"
+code = "#ee64ac"
+highlight = "#232530"
+nickname = "#59e1e3"
+selection = "#2e303e"
+timestamp = "#cbced0"
+topic = "#9da0a2"
+url = "#26bbd9"
+
+[buffer.server_messages]
+join = "#29d398"
+part = "#e95678"
+quit = "#e95678"
+default = "#59e1e3"
+
+[buttons.primary]
+background = "#1c1e26"
+background_hover = "#2e303e"
+background_selected = "#6f6f70"
+background_selected_hover = "#9da0a2"
+
+[buttons.secondary]
+background = "#232530"
+background_hover = "#2e303e"
+background_selected = "#6f6f70"
+background_selected_hover = "#9da0a2"

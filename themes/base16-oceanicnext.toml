@@ -1,0 +1,47 @@
+## Base16 OceanicNext
+# Author: https://github.com/voronianski/oceanic-next-color-scheme
+[general]
+background = "#1b2b34"
+border = "#d8dee9"
+horizontal_rule = "#4f5b66"
+unread_indicator = "#fac863"
+
+[text]
+primary = "#c0c5ce"
+secondary = "#a7adba"
+tertiary = "#fac863"
+success = "#99c794"
+error = "#ec5f67"
+
+[buffer]
+action = "#99c794"
+background = "#1b2b34"
+background_text_input = "#343d46"
+background_title_bar = "#343d46"
+border = "#65737e"
+border_selected = "#d8dee9"
+code = "#c594c5"
+highlight = "#343d46"
+nickname = "#5fb3b3"
+selection = "#4f5b66"
+timestamp = "#c0c5ce"
+topic = "#a7adba"
+url = "#6699cc"
+
+[buffer.server_messages]
+join = "#99c794"
+part = "#ec5f67"
+quit = "#ec5f67"
+default = "#5fb3b3"
+
+[buttons.primary]
+background = "#1b2b34"
+background_hover = "#4f5b66"
+background_selected = "#65737e"
+background_selected_hover = "#a7adba"
+
+[buttons.secondary]
+background = "#343d46"
+background_hover = "#4f5b66"
+background_selected = "#65737e"
+background_selected_hover = "#a7adba"

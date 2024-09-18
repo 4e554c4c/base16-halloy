@@ -1,0 +1,47 @@
+## Base16 Nova
+# Author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+[general]
+background = "#3c4c55"
+border = "#556873"
+horizontal_rule = "#6a7d89"
+unread_indicator = "#a8ce93"
+
+[text]
+primary = "#c5d4dd"
+secondary = "#899ba6"
+tertiary = "#a8ce93"
+success = "#7fc1ca"
+error = "#83afe5"
+
+[buffer]
+action = "#7fc1ca"
+background = "#3c4c55"
+background_text_input = "#556873"
+background_title_bar = "#556873"
+border = "#899ba6"
+border_selected = "#556873"
+code = "#9a93e1"
+highlight = "#556873"
+nickname = "#f2c38f"
+selection = "#6a7d89"
+timestamp = "#c5d4dd"
+topic = "#899ba6"
+url = "#83afe5"
+
+[buffer.server_messages]
+join = "#7fc1ca"
+part = "#83afe5"
+quit = "#83afe5"
+default = "#f2c38f"
+
+[buttons.primary]
+background = "#3c4c55"
+background_hover = "#6a7d89"
+background_selected = "#899ba6"
+background_selected_hover = "#899ba6"
+
+[buttons.secondary]
+background = "#556873"
+background_hover = "#6a7d89"
+background_selected = "#899ba6"
+background_selected_hover = "#899ba6"

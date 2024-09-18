@@ -1,0 +1,47 @@
+## Base16 Measured Light
+# Author: Measured (https://measured.co)
+[general]
+background = "#fdf9f5"
+border = "#000000"
+horizontal_rule = "#ffeada"
+unread_indicator = "#645a00"
+
+[text]
+primary = "#292929"
+secondary = "#404040"
+tertiary = "#645a00"
+success = "#0c680c"
+error = "#ac1f35"
+
+[buffer]
+action = "#0c680c"
+background = "#fdf9f5"
+background_text_input = "#f9f5f1"
+background_title_bar = "#f9f5f1"
+border = "#5a5a5a"
+border_selected = "#000000"
+code = "#6645c2"
+highlight = "#f9f5f1"
+nickname = "#01716f"
+selection = "#ffeada"
+timestamp = "#292929"
+topic = "#404040"
+url = "#0158ad"
+
+[buffer.server_messages]
+join = "#0c680c"
+part = "#ac1f35"
+quit = "#ac1f35"
+default = "#01716f"
+
+[buttons.primary]
+background = "#fdf9f5"
+background_hover = "#ffeada"
+background_selected = "#5a5a5a"
+background_selected_hover = "#404040"
+
+[buttons.secondary]
+background = "#f9f5f1"
+background_hover = "#ffeada"
+background_selected = "#5a5a5a"
+background_selected_hover = "#404040"

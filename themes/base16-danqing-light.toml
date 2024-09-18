@@ -1,0 +1,47 @@
+## Base16 DanQing Light
+# Author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+[general]
+background = "#fcfefd"
+border = "#2d302f"
+horizontal_rule = "#e0f0ef"
+unread_indicator = "#f0c239"
+
+[text]
+primary = "#5a605d"
+secondary = "#9da8a3"
+tertiary = "#f0c239"
+success = "#8ab361"
+error = "#f9906f"
+
+[buffer]
+action = "#8ab361"
+background = "#fcfefd"
+background_text_input = "#ecf6f2"
+background_title_bar = "#ecf6f2"
+border = "#cad8d2"
+border_selected = "#2d302f"
+code = "#cca4e3"
+highlight = "#ecf6f2"
+nickname = "#30dff3"
+selection = "#e0f0ef"
+timestamp = "#5a605d"
+topic = "#9da8a3"
+url = "#b0a4e3"
+
+[buffer.server_messages]
+join = "#8ab361"
+part = "#f9906f"
+quit = "#f9906f"
+default = "#30dff3"
+
+[buttons.primary]
+background = "#fcfefd"
+background_hover = "#e0f0ef"
+background_selected = "#cad8d2"
+background_selected_hover = "#9da8a3"
+
+[buttons.secondary]
+background = "#ecf6f2"
+background_hover = "#e0f0ef"
+background_selected = "#cad8d2"
+background_selected_hover = "#9da8a3"

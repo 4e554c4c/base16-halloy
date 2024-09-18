@@ -1,0 +1,47 @@
+## Base16 Silk Light
+# Author: Gabriel Fontes (https://github.com/Misterio77)
+[general]
+background = "#e9f1ef"
+border = "#d2faff"
+horizontal_rule = "#90b7b6"
+unread_indicator = "#cfad25"
+
+[text]
+primary = "#385156"
+secondary = "#4b5b5f"
+tertiary = "#cfad25"
+success = "#6ca38c"
+error = "#cf432e"
+
+[buffer]
+action = "#6ca38c"
+background = "#e9f1ef"
+background_text_input = "#ccd4d3"
+background_title_bar = "#ccd4d3"
+border = "#5c787b"
+border_selected = "#d2faff"
+code = "#6e6582"
+highlight = "#ccd4d3"
+nickname = "#329ca2"
+selection = "#90b7b6"
+timestamp = "#385156"
+topic = "#4b5b5f"
+url = "#39aac9"
+
+[buffer.server_messages]
+join = "#6ca38c"
+part = "#cf432e"
+quit = "#cf432e"
+default = "#329ca2"
+
+[buttons.primary]
+background = "#e9f1ef"
+background_hover = "#90b7b6"
+background_selected = "#5c787b"
+background_selected_hover = "#4b5b5f"
+
+[buttons.secondary]
+background = "#ccd4d3"
+background_hover = "#90b7b6"
+background_selected = "#5c787b"
+background_selected_hover = "#4b5b5f"

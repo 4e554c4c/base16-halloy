@@ -1,0 +1,47 @@
+## Base16 Tokyo Night Light
+# Author: Michaël Ball
+[general]
+background = "#d5d6db"
+border = "#1a1b26"
+horizontal_rule = "#dfe0e5"
+unread_indicator = "#166775"
+
+[text]
+primary = "#343b59"
+secondary = "#4c505e"
+tertiary = "#166775"
+success = "#485e30"
+error = "#343b58"
+
+[buffer]
+action = "#485e30"
+background = "#d5d6db"
+background_text_input = "#cbccd1"
+background_title_bar = "#cbccd1"
+border = "#9699a3"
+border_selected = "#1a1b26"
+code = "#5a4a78"
+highlight = "#cbccd1"
+nickname = "#3e6968"
+selection = "#dfe0e5"
+timestamp = "#343b59"
+topic = "#4c505e"
+url = "#34548a"
+
+[buffer.server_messages]
+join = "#485e30"
+part = "#343b58"
+quit = "#343b58"
+default = "#3e6968"
+
+[buttons.primary]
+background = "#d5d6db"
+background_hover = "#dfe0e5"
+background_selected = "#9699a3"
+background_selected_hover = "#4c505e"
+
+[buttons.secondary]
+background = "#cbccd1"
+background_hover = "#dfe0e5"
+background_selected = "#9699a3"
+background_selected_hover = "#4c505e"

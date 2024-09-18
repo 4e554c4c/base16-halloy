@@ -1,0 +1,47 @@
+## Base16 Atelier Estuary
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#22221b"
+border = "#f4f3ec"
+horizontal_rule = "#5f5e4e"
+unread_indicator = "#a5980d"
+
+[text]
+primary = "#929181"
+secondary = "#878573"
+tertiary = "#a5980d"
+success = "#7d9726"
+error = "#ba6236"
+
+[buffer]
+action = "#7d9726"
+background = "#22221b"
+background_text_input = "#302f27"
+background_title_bar = "#302f27"
+border = "#6c6b5a"
+border_selected = "#f4f3ec"
+code = "#5f9182"
+highlight = "#302f27"
+nickname = "#5b9d48"
+selection = "#5f5e4e"
+timestamp = "#929181"
+topic = "#878573"
+url = "#36a166"
+
+[buffer.server_messages]
+join = "#7d9726"
+part = "#ba6236"
+quit = "#ba6236"
+default = "#5b9d48"
+
+[buttons.primary]
+background = "#22221b"
+background_hover = "#5f5e4e"
+background_selected = "#6c6b5a"
+background_selected_hover = "#878573"
+
+[buttons.secondary]
+background = "#302f27"
+background_hover = "#5f5e4e"
+background_selected = "#6c6b5a"
+background_selected_hover = "#878573"

@@ -1,0 +1,47 @@
+## Base16 Default Dark
+# Author: Chris Kempson (http://chriskempson.com)
+[general]
+background = "#181818"
+border = "#f8f8f8"
+horizontal_rule = "#383838"
+unread_indicator = "#f7ca88"
+
+[text]
+primary = "#d8d8d8"
+secondary = "#b8b8b8"
+tertiary = "#f7ca88"
+success = "#a1b56c"
+error = "#ab4642"
+
+[buffer]
+action = "#a1b56c"
+background = "#181818"
+background_text_input = "#282828"
+background_title_bar = "#282828"
+border = "#585858"
+border_selected = "#f8f8f8"
+code = "#ba8baf"
+highlight = "#282828"
+nickname = "#86c1b9"
+selection = "#383838"
+timestamp = "#d8d8d8"
+topic = "#b8b8b8"
+url = "#7cafc2"
+
+[buffer.server_messages]
+join = "#a1b56c"
+part = "#ab4642"
+quit = "#ab4642"
+default = "#86c1b9"
+
+[buttons.primary]
+background = "#181818"
+background_hover = "#383838"
+background_selected = "#585858"
+background_selected_hover = "#b8b8b8"
+
+[buttons.secondary]
+background = "#282828"
+background_hover = "#383838"
+background_selected = "#585858"
+background_selected_hover = "#b8b8b8"

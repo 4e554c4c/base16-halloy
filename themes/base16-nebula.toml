@@ -1,0 +1,47 @@
+## Base16 Nebula
+# Author: Gabriel Fontes (https://github.com/Misterio77)
+[general]
+background = "#22273b"
+border = "#8dbdaa"
+horizontal_rule = "#5a8380"
+unread_indicator = "#4f9062"
+
+[text]
+primary = "#a4a6a9"
+secondary = "#87888b"
+tertiary = "#4f9062"
+success = "#6562a8"
+error = "#777abc"
+
+[buffer]
+action = "#6562a8"
+background = "#22273b"
+background_text_input = "#414f60"
+background_title_bar = "#414f60"
+border = "#6e6f72"
+border_selected = "#8dbdaa"
+code = "#716cae"
+highlight = "#414f60"
+nickname = "#226f68"
+selection = "#5a8380"
+timestamp = "#a4a6a9"
+topic = "#87888b"
+url = "#4d6bb6"
+
+[buffer.server_messages]
+join = "#6562a8"
+part = "#777abc"
+quit = "#777abc"
+default = "#226f68"
+
+[buttons.primary]
+background = "#22273b"
+background_hover = "#5a8380"
+background_selected = "#6e6f72"
+background_selected_hover = "#87888b"
+
+[buttons.secondary]
+background = "#414f60"
+background_hover = "#5a8380"
+background_selected = "#6e6f72"
+background_selected_hover = "#87888b"

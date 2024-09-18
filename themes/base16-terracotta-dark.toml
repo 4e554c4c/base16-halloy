@@ -1,0 +1,47 @@
+## Base16 Terracotta Dark
+# Author: Alexander Rossell Hayes (https://github.com/rossellhayes)
+[general]
+background = "#241d1a"
+border = "#dcd2ce"
+horizontal_rule = "#473933"
+unread_indicator = "#ffc37a"
+
+[text]
+primary = "#b8a59d"
+secondary = "#a78e84"
+tertiary = "#ffc37a"
+success = "#b6c68a"
+error = "#f6998f"
+
+[buffer]
+action = "#b6c68a"
+background = "#241d1a"
+background_text_input = "#362b27"
+background_title_bar = "#362b27"
+border = "#594740"
+border_selected = "#dcd2ce"
+code = "#d8a2b0"
+highlight = "#362b27"
+nickname = "#c0bcdb"
+selection = "#473933"
+timestamp = "#b8a59d"
+topic = "#a78e84"
+url = "#b0a4c3"
+
+[buffer.server_messages]
+join = "#b6c68a"
+part = "#f6998f"
+quit = "#f6998f"
+default = "#c0bcdb"
+
+[buttons.primary]
+background = "#241d1a"
+background_hover = "#473933"
+background_selected = "#594740"
+background_selected_hover = "#a78e84"
+
+[buttons.secondary]
+background = "#362b27"
+background_hover = "#473933"
+background_selected = "#594740"
+background_selected_hover = "#a78e84"

@@ -1,0 +1,47 @@
+## Base16 Material Palenight
+# Author: Nate Peterson
+[general]
+background = "#292d3e"
+border = "#ffffff"
+horizontal_rule = "#32374d"
+unread_indicator = "#ffcb6b"
+
+[text]
+primary = "#959dcb"
+secondary = "#8796b0"
+tertiary = "#ffcb6b"
+success = "#c3e88d"
+error = "#f07178"
+
+[buffer]
+action = "#c3e88d"
+background = "#292d3e"
+background_text_input = "#444267"
+background_title_bar = "#444267"
+border = "#676e95"
+border_selected = "#ffffff"
+code = "#c792ea"
+highlight = "#444267"
+nickname = "#89ddff"
+selection = "#32374d"
+timestamp = "#959dcb"
+topic = "#8796b0"
+url = "#82aaff"
+
+[buffer.server_messages]
+join = "#c3e88d"
+part = "#f07178"
+quit = "#f07178"
+default = "#89ddff"
+
+[buttons.primary]
+background = "#292d3e"
+background_hover = "#32374d"
+background_selected = "#676e95"
+background_selected_hover = "#8796b0"
+
+[buttons.secondary]
+background = "#444267"
+background_hover = "#32374d"
+background_selected = "#676e95"
+background_selected_hover = "#8796b0"

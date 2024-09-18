@@ -1,0 +1,47 @@
+## Base16 standardized-light
+# Author: ali (https://github.com/ali-githb/base16-standardized-scheme)
+[general]
+background = "#ffffff"
+border = "#222222"
+horizontal_rule = "#cccccc"
+unread_indicator = "#ad8200"
+
+[text]
+primary = "#444444"
+secondary = "#767676"
+tertiary = "#ad8200"
+success = "#31861f"
+error = "#d03e3e"
+
+[buffer]
+action = "#31861f"
+background = "#ffffff"
+background_text_input = "#eeeeee"
+background_title_bar = "#eeeeee"
+border = "#767676"
+border_selected = "#222222"
+code = "#9e57c2"
+highlight = "#eeeeee"
+nickname = "#00998f"
+selection = "#cccccc"
+timestamp = "#444444"
+topic = "#767676"
+url = "#3173c5"
+
+[buffer.server_messages]
+join = "#31861f"
+part = "#d03e3e"
+quit = "#d03e3e"
+default = "#00998f"
+
+[buttons.primary]
+background = "#ffffff"
+background_hover = "#cccccc"
+background_selected = "#767676"
+background_selected_hover = "#767676"
+
+[buttons.secondary]
+background = "#eeeeee"
+background_hover = "#cccccc"
+background_selected = "#767676"
+background_selected_hover = "#767676"

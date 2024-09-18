@@ -1,0 +1,47 @@
+## Base16 Decaf
+# Author: Alex Mirrington (https://github.com/alexmirrington)
+[general]
+background = "#2d2d2d"
+border = "#ffffff"
+horizontal_rule = "#515151"
+unread_indicator = "#ffd67c"
+
+[text]
+primary = "#cccccc"
+secondary = "#b4b7b4"
+tertiary = "#ffd67c"
+success = "#beda78"
+error = "#ff7f7b"
+
+[buffer]
+action = "#beda78"
+background = "#2d2d2d"
+background_text_input = "#393939"
+background_title_bar = "#393939"
+border = "#777777"
+border_selected = "#ffffff"
+code = "#efb3f7"
+highlight = "#393939"
+nickname = "#bed6ff"
+selection = "#515151"
+timestamp = "#cccccc"
+topic = "#b4b7b4"
+url = "#90bee1"
+
+[buffer.server_messages]
+join = "#beda78"
+part = "#ff7f7b"
+quit = "#ff7f7b"
+default = "#bed6ff"
+
+[buttons.primary]
+background = "#2d2d2d"
+background_hover = "#515151"
+background_selected = "#777777"
+background_selected_hover = "#b4b7b4"
+
+[buttons.secondary]
+background = "#393939"
+background_hover = "#515151"
+background_selected = "#777777"
+background_selected_hover = "#b4b7b4"

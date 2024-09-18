@@ -1,0 +1,47 @@
+## Base16 Solar Flare
+# Author: Chuck Harmston (https://chuck.harmston.ch)
+[general]
+background = "#18262f"
+border = "#f5f7fa"
+horizontal_rule = "#586875"
+unread_indicator = "#e4b51c"
+
+[text]
+primary = "#a6afb8"
+secondary = "#85939e"
+tertiary = "#e4b51c"
+success = "#7cc844"
+error = "#ef5253"
+
+[buffer]
+action = "#7cc844"
+background = "#18262f"
+background_text_input = "#222e38"
+background_title_bar = "#222e38"
+border = "#667581"
+border_selected = "#f5f7fa"
+code = "#a363d5"
+highlight = "#222e38"
+nickname = "#52cbb0"
+selection = "#586875"
+timestamp = "#a6afb8"
+topic = "#85939e"
+url = "#33b5e1"
+
+[buffer.server_messages]
+join = "#7cc844"
+part = "#ef5253"
+quit = "#ef5253"
+default = "#52cbb0"
+
+[buttons.primary]
+background = "#18262f"
+background_hover = "#586875"
+background_selected = "#667581"
+background_selected_hover = "#85939e"
+
+[buttons.secondary]
+background = "#222e38"
+background_hover = "#586875"
+background_selected = "#667581"
+background_selected_hover = "#85939e"

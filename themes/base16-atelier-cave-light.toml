@@ -1,0 +1,47 @@
+## Base16 Atelier Cave Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#efecf4"
+border = "#19171c"
+horizontal_rule = "#8b8792"
+unread_indicator = "#a06e3b"
+
+[text]
+primary = "#585260"
+secondary = "#655f6d"
+tertiary = "#a06e3b"
+success = "#2a9292"
+error = "#be4678"
+
+[buffer]
+action = "#2a9292"
+background = "#efecf4"
+background_text_input = "#e2dfe7"
+background_title_bar = "#e2dfe7"
+border = "#7e7887"
+border_selected = "#19171c"
+code = "#955ae7"
+highlight = "#e2dfe7"
+nickname = "#398bc6"
+selection = "#8b8792"
+timestamp = "#585260"
+topic = "#655f6d"
+url = "#576ddb"
+
+[buffer.server_messages]
+join = "#2a9292"
+part = "#be4678"
+quit = "#be4678"
+default = "#398bc6"
+
+[buttons.primary]
+background = "#efecf4"
+background_hover = "#8b8792"
+background_selected = "#7e7887"
+background_selected_hover = "#655f6d"
+
+[buttons.secondary]
+background = "#e2dfe7"
+background_hover = "#8b8792"
+background_selected = "#7e7887"
+background_selected_hover = "#655f6d"

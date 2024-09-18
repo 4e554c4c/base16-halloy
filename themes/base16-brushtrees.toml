@@ -1,0 +1,47 @@
+## Base16 Brush Trees
+# Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+[general]
+background = "#e3efef"
+border = "#485867"
+horizontal_rule = "#b0c5c8"
+unread_indicator = "#aab386"
+
+[text]
+primary = "#6d828e"
+secondary = "#8299a1"
+tertiary = "#aab386"
+success = "#87b386"
+error = "#b38686"
+
+[buffer]
+action = "#87b386"
+background = "#e3efef"
+background_text_input = "#c9dbdc"
+background_title_bar = "#c9dbdc"
+border = "#98afb5"
+border_selected = "#485867"
+code = "#b386b2"
+highlight = "#c9dbdc"
+nickname = "#86b3b3"
+selection = "#b0c5c8"
+timestamp = "#6d828e"
+topic = "#8299a1"
+url = "#868cb3"
+
+[buffer.server_messages]
+join = "#87b386"
+part = "#b38686"
+quit = "#b38686"
+default = "#86b3b3"
+
+[buttons.primary]
+background = "#e3efef"
+background_hover = "#b0c5c8"
+background_selected = "#98afb5"
+background_selected_hover = "#8299a1"
+
+[buttons.secondary]
+background = "#c9dbdc"
+background_hover = "#b0c5c8"
+background_selected = "#98afb5"
+background_selected_hover = "#8299a1"

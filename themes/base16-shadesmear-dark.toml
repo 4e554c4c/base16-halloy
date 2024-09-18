@@ -1,0 +1,47 @@
+## Base16 ShadeSmear Dark
+# Author: Kyle Giammarco (http://kyle.giammar.co)
+[general]
+background = "#232323"
+border = "#1c1c1c"
+horizontal_rule = "#4e4e4e"
+unread_indicator = "#307878"
+
+[text]
+primary = "#dbdbdb"
+secondary = "#e4e4e4"
+tertiary = "#307878"
+success = "#71983b"
+error = "#cc5450"
+
+[buffer]
+action = "#71983b"
+background = "#232323"
+background_text_input = "#1c1c1c"
+background_title_bar = "#1c1c1c"
+border = "#c0c0c0"
+border_selected = "#1c1c1c"
+code = "#d7ab54"
+highlight = "#1c1c1c"
+nickname = "#c57d42"
+selection = "#4e4e4e"
+timestamp = "#dbdbdb"
+topic = "#e4e4e4"
+url = "#376388"
+
+[buffer.server_messages]
+join = "#71983b"
+part = "#cc5450"
+quit = "#cc5450"
+default = "#c57d42"
+
+[buttons.primary]
+background = "#232323"
+background_hover = "#4e4e4e"
+background_selected = "#c0c0c0"
+background_selected_hover = "#e4e4e4"
+
+[buttons.secondary]
+background = "#1c1c1c"
+background_hover = "#4e4e4e"
+background_selected = "#c0c0c0"
+background_selected_hover = "#e4e4e4"

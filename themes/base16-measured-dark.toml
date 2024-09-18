@@ -1,0 +1,47 @@
+## Base16 Measured Dark
+# Author: Measured (https://measured.co)
+[general]
+background = "#00211f"
+border = "#f5f5f5"
+horizontal_rule = "#005453"
+unread_indicator = "#bfac4e"
+
+[text]
+primary = "#dcdcdc"
+secondary = "#c3c3c3"
+tertiary = "#bfac4e"
+success = "#56c16f"
+error = "#ce7e8e"
+
+[buffer]
+action = "#56c16f"
+background = "#00211f"
+background_text_input = "#003a38"
+background_title_bar = "#003a38"
+border = "#ababab"
+border_selected = "#f5f5f5"
+code = "#b39be0"
+highlight = "#003a38"
+nickname = "#62c0be"
+selection = "#005453"
+timestamp = "#dcdcdc"
+topic = "#c3c3c3"
+url = "#88b0da"
+
+[buffer.server_messages]
+join = "#56c16f"
+part = "#ce7e8e"
+quit = "#ce7e8e"
+default = "#62c0be"
+
+[buttons.primary]
+background = "#00211f"
+background_hover = "#005453"
+background_selected = "#ababab"
+background_selected_hover = "#c3c3c3"
+
+[buttons.secondary]
+background = "#003a38"
+background_hover = "#005453"
+background_selected = "#ababab"
+background_selected_hover = "#c3c3c3"

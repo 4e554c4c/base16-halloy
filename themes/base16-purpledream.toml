@@ -1,0 +1,47 @@
+## Base16 Purpledream
+# Author: malet
+[general]
+background = "#100510"
+border = "#fff0ff"
+horizontal_rule = "#403040"
+unread_indicator = "#f000a0"
+
+[text]
+primary = "#ddd0dd"
+secondary = "#bbb0bb"
+tertiary = "#f000a0"
+success = "#14cc64"
+error = "#ff1d0d"
+
+[buffer]
+action = "#14cc64"
+background = "#100510"
+background_text_input = "#302030"
+background_title_bar = "#302030"
+border = "#605060"
+border_selected = "#fff0ff"
+code = "#b000d0"
+highlight = "#302030"
+nickname = "#0075b0"
+selection = "#403040"
+timestamp = "#ddd0dd"
+topic = "#bbb0bb"
+url = "#00a0f0"
+
+[buffer.server_messages]
+join = "#14cc64"
+part = "#ff1d0d"
+quit = "#ff1d0d"
+default = "#0075b0"
+
+[buttons.primary]
+background = "#100510"
+background_hover = "#403040"
+background_selected = "#605060"
+background_selected_hover = "#bbb0bb"
+
+[buttons.secondary]
+background = "#302030"
+background_hover = "#403040"
+background_selected = "#605060"
+background_selected_hover = "#bbb0bb"

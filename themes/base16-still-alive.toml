@@ -1,0 +1,47 @@
+## Base16 Still Alive
+# Author: Derrick McKee (derrick.mckee@gmail.com)
+[general]
+background = "#f0f0f0"
+border = "#30a860"
+horizontal_rule = "#fff018"
+unread_indicator = "#426395"
+
+[text]
+primary = "#d80000"
+secondary = "#f00000"
+tertiary = "#426395"
+success = "#5c5c6a"
+error = "#487830"
+
+[buffer]
+action = "#5c5c6a"
+background = "#f0f0f0"
+background_text_input = "#f0d848"
+background_title_bar = "#f0d848"
+border = "#f01818"
+border_selected = "#30a860"
+code = "#900000"
+highlight = "#f0d848"
+nickname = "#2c3c57"
+selection = "#fff018"
+timestamp = "#d80000"
+topic = "#f00000"
+url = "#001878"
+
+[buffer.server_messages]
+join = "#5c5c6a"
+part = "#487830"
+quit = "#487830"
+default = "#2c3c57"
+
+[buttons.primary]
+background = "#f0f0f0"
+background_hover = "#fff018"
+background_selected = "#f01818"
+background_selected_hover = "#f00000"
+
+[buttons.secondary]
+background = "#f0d848"
+background_hover = "#fff018"
+background_selected = "#f01818"
+background_selected_hover = "#f00000"

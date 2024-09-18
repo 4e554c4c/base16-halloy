@@ -1,0 +1,47 @@
+## Base16 PaperColor Light
+# Author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+[general]
+background = "#eeeeee"
+border = "#878787"
+horizontal_rule = "#008700"
+unread_indicator = "#d70087"
+
+[text]
+primary = "#444444"
+secondary = "#0087af"
+tertiary = "#d70087"
+success = "#8700af"
+error = "#bcbcbc"
+
+[buffer]
+action = "#8700af"
+background = "#eeeeee"
+background_text_input = "#af0000"
+background_title_bar = "#af0000"
+border = "#5f8700"
+border_selected = "#878787"
+code = "#005faf"
+highlight = "#af0000"
+nickname = "#d75f00"
+selection = "#008700"
+timestamp = "#444444"
+topic = "#0087af"
+url = "#d75f00"
+
+[buffer.server_messages]
+join = "#8700af"
+part = "#bcbcbc"
+quit = "#bcbcbc"
+default = "#d75f00"
+
+[buttons.primary]
+background = "#eeeeee"
+background_hover = "#008700"
+background_selected = "#5f8700"
+background_selected_hover = "#0087af"
+
+[buttons.secondary]
+background = "#af0000"
+background_hover = "#008700"
+background_selected = "#5f8700"
+background_selected_hover = "#0087af"

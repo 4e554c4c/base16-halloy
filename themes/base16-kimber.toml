@@ -1,0 +1,47 @@
+## Base16 Kimber
+# Author: Mishka Nguyen (https://github.com/akhsiM)
+[general]
+background = "#222222"
+border = "#ffffe6"
+horizontal_rule = "#555d55"
+unread_indicator = "#d8b56d"
+
+[text]
+primary = "#dedee7"
+secondary = "#5a5a5a"
+tertiary = "#d8b56d"
+success = "#99c899"
+error = "#c88c8c"
+
+[buffer]
+action = "#99c899"
+background = "#222222"
+background_text_input = "#313131"
+background_title_bar = "#313131"
+border = "#644646"
+border_selected = "#ffffe6"
+code = "#86cacd"
+highlight = "#313131"
+nickname = "#78b4b4"
+selection = "#555d55"
+timestamp = "#dedee7"
+topic = "#5a5a5a"
+url = "#537c9c"
+
+[buffer.server_messages]
+join = "#99c899"
+part = "#c88c8c"
+quit = "#c88c8c"
+default = "#78b4b4"
+
+[buttons.primary]
+background = "#222222"
+background_hover = "#555d55"
+background_selected = "#644646"
+background_selected_hover = "#5a5a5a"
+
+[buttons.secondary]
+background = "#313131"
+background_hover = "#555d55"
+background_selected = "#644646"
+background_selected_hover = "#5a5a5a"

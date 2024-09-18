@@ -1,0 +1,47 @@
+## Base16 pandora
+# Author: Cassandra Fox
+[general]
+background = "#131213"
+border = "#632227"
+horizontal_rule = "#472234"
+unread_indicator = "#ffcc00"
+
+[text]
+primary = "#f15c99"
+secondary = "#9b2a46"
+tertiary = "#ffcc00"
+success = "#9ddf69"
+error = "#b00b69"
+
+[buffer]
+action = "#9ddf69"
+background = "#131213"
+background_text_input = "#2f1823"
+background_title_bar = "#2f1823"
+border = "#ffbee3"
+border_selected = "#632227"
+code = "#a24030"
+highlight = "#2f1823"
+nickname = "#714ca6"
+selection = "#472234"
+timestamp = "#f15c99"
+topic = "#9b2a46"
+url = "#008080"
+
+[buffer.server_messages]
+join = "#9ddf69"
+part = "#b00b69"
+quit = "#b00b69"
+default = "#714ca6"
+
+[buttons.primary]
+background = "#131213"
+background_hover = "#472234"
+background_selected = "#ffbee3"
+background_selected_hover = "#9b2a46"
+
+[buttons.secondary]
+background = "#2f1823"
+background_hover = "#472234"
+background_selected = "#ffbee3"
+background_selected_hover = "#9b2a46"

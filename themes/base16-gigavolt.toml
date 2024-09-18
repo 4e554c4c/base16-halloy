@@ -1,0 +1,47 @@
+## Base16 Gigavolt
+# Author: Aidan Swope (http://github.com/Whillikers)
+[general]
+background = "#202126"
+border = "#f2fbff"
+horizontal_rule = "#5a576e"
+unread_indicator = "#ffdc2d"
+
+[text]
+primary = "#e9e7e1"
+secondary = "#cad3ff"
+tertiary = "#ffdc2d"
+success = "#f2e6a9"
+error = "#ff661a"
+
+[buffer]
+action = "#f2e6a9"
+background = "#202126"
+background_text_input = "#2d303d"
+background_title_bar = "#2d303d"
+border = "#a1d2e6"
+border_selected = "#f2fbff"
+code = "#ae94f9"
+highlight = "#2d303d"
+nickname = "#fb6acb"
+selection = "#5a576e"
+timestamp = "#e9e7e1"
+topic = "#cad3ff"
+url = "#40bfff"
+
+[buffer.server_messages]
+join = "#f2e6a9"
+part = "#ff661a"
+quit = "#ff661a"
+default = "#fb6acb"
+
+[buttons.primary]
+background = "#202126"
+background_hover = "#5a576e"
+background_selected = "#a1d2e6"
+background_selected_hover = "#cad3ff"
+
+[buttons.secondary]
+background = "#2d303d"
+background_hover = "#5a576e"
+background_selected = "#a1d2e6"
+background_selected_hover = "#cad3ff"

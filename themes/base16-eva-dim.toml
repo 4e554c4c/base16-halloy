@@ -1,0 +1,47 @@
+## Base16 Eva Dim
+# Author: kjakapat (https://github.com/kjakapat)
+[general]
+background = "#2a3b4d"
+border = "#ffffff"
+horizontal_rule = "#4b6988"
+unread_indicator = "#cfd05d"
+
+[text]
+primary = "#9fa2a6"
+secondary = "#7e90a3"
+tertiary = "#cfd05d"
+success = "#5de561"
+error = "#c4676c"
+
+[buffer]
+action = "#5de561"
+background = "#2a3b4d"
+background_text_input = "#3d566f"
+background_title_bar = "#3d566f"
+border = "#55799c"
+border_selected = "#ffffff"
+code = "#9c6cd3"
+highlight = "#3d566f"
+nickname = "#4b8f77"
+selection = "#4b6988"
+timestamp = "#9fa2a6"
+topic = "#7e90a3"
+url = "#1ae1dc"
+
+[buffer.server_messages]
+join = "#5de561"
+part = "#c4676c"
+quit = "#c4676c"
+default = "#4b8f77"
+
+[buttons.primary]
+background = "#2a3b4d"
+background_hover = "#4b6988"
+background_selected = "#55799c"
+background_selected_hover = "#7e90a3"
+
+[buttons.secondary]
+background = "#3d566f"
+background_hover = "#4b6988"
+background_selected = "#55799c"
+background_selected_hover = "#7e90a3"

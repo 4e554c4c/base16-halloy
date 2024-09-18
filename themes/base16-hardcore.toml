@@ -1,0 +1,47 @@
+## Base16 Hardcore
+# Author: Chris Caller
+[general]
+background = "#212121"
+border = "#ffffff"
+horizontal_rule = "#353535"
+unread_indicator = "#e6db74"
+
+[text]
+primary = "#cdcdcd"
+secondary = "#707070"
+tertiary = "#e6db74"
+success = "#a6e22e"
+error = "#f92672"
+
+[buffer]
+action = "#a6e22e"
+background = "#212121"
+background_text_input = "#303030"
+background_title_bar = "#303030"
+border = "#4a4a4a"
+border_selected = "#ffffff"
+code = "#9e6ffe"
+highlight = "#303030"
+nickname = "#708387"
+selection = "#353535"
+timestamp = "#cdcdcd"
+topic = "#707070"
+url = "#66d9ef"
+
+[buffer.server_messages]
+join = "#a6e22e"
+part = "#f92672"
+quit = "#f92672"
+default = "#708387"
+
+[buttons.primary]
+background = "#212121"
+background_hover = "#353535"
+background_selected = "#4a4a4a"
+background_selected_hover = "#707070"
+
+[buttons.secondary]
+background = "#303030"
+background_hover = "#353535"
+background_selected = "#4a4a4a"
+background_selected_hover = "#707070"

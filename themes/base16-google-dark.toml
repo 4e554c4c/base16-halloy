@@ -1,0 +1,47 @@
+## Base16 Google Dark
+# Author: Seth Wright (http://sethawright.com)
+[general]
+background = "#1d1f21"
+border = "#ffffff"
+horizontal_rule = "#373b41"
+unread_indicator = "#fba922"
+
+[text]
+primary = "#c5c8c6"
+secondary = "#b4b7b4"
+tertiary = "#fba922"
+success = "#198844"
+error = "#cc342b"
+
+[buffer]
+action = "#198844"
+background = "#1d1f21"
+background_text_input = "#282a2e"
+background_title_bar = "#282a2e"
+border = "#969896"
+border_selected = "#ffffff"
+code = "#a36ac7"
+highlight = "#282a2e"
+nickname = "#3971ed"
+selection = "#373b41"
+timestamp = "#c5c8c6"
+topic = "#b4b7b4"
+url = "#3971ed"
+
+[buffer.server_messages]
+join = "#198844"
+part = "#cc342b"
+quit = "#cc342b"
+default = "#3971ed"
+
+[buttons.primary]
+background = "#1d1f21"
+background_hover = "#373b41"
+background_selected = "#969896"
+background_selected_hover = "#b4b7b4"
+
+[buttons.secondary]
+background = "#282a2e"
+background_hover = "#373b41"
+background_selected = "#969896"
+background_selected_hover = "#b4b7b4"

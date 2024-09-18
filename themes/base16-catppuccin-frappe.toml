@@ -1,0 +1,47 @@
+## Base16 Catppuccin Frappe
+# Author: https://github.com/catppuccin/catppuccin
+[general]
+background = "#303446"
+border = "#babbf1"
+horizontal_rule = "#414559"
+unread_indicator = "#e5c890"
+
+[text]
+primary = "#c6d0f5"
+secondary = "#626880"
+tertiary = "#e5c890"
+success = "#a6d189"
+error = "#e78284"
+
+[buffer]
+action = "#a6d189"
+background = "#303446"
+background_text_input = "#292c3c"
+background_title_bar = "#292c3c"
+border = "#51576d"
+border_selected = "#babbf1"
+code = "#ca9ee6"
+highlight = "#292c3c"
+nickname = "#81c8be"
+selection = "#414559"
+timestamp = "#c6d0f5"
+topic = "#626880"
+url = "#8caaee"
+
+[buffer.server_messages]
+join = "#a6d189"
+part = "#e78284"
+quit = "#e78284"
+default = "#81c8be"
+
+[buttons.primary]
+background = "#303446"
+background_hover = "#414559"
+background_selected = "#51576d"
+background_selected_hover = "#626880"
+
+[buttons.secondary]
+background = "#292c3c"
+background_hover = "#414559"
+background_selected = "#51576d"
+background_selected_hover = "#626880"

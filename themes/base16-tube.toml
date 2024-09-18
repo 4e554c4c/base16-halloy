@@ -1,0 +1,47 @@
+## Base16 London Tube
+# Author: Jan T. Sott
+[general]
+background = "#231f20"
+border = "#ffffff"
+horizontal_rule = "#5a5758"
+unread_indicator = "#ffd204"
+
+[text]
+primary = "#d9d8d8"
+secondary = "#959ca1"
+tertiary = "#ffd204"
+success = "#00853e"
+error = "#ee2e24"
+
+[buffer]
+action = "#00853e"
+background = "#231f20"
+background_text_input = "#1c3f95"
+background_title_bar = "#1c3f95"
+border = "#737171"
+border_selected = "#ffffff"
+code = "#98005d"
+highlight = "#1c3f95"
+nickname = "#85cebc"
+selection = "#5a5758"
+timestamp = "#d9d8d8"
+topic = "#959ca1"
+url = "#009ddc"
+
+[buffer.server_messages]
+join = "#00853e"
+part = "#ee2e24"
+quit = "#ee2e24"
+default = "#85cebc"
+
+[buttons.primary]
+background = "#231f20"
+background_hover = "#5a5758"
+background_selected = "#737171"
+background_selected_hover = "#959ca1"
+
+[buttons.secondary]
+background = "#1c3f95"
+background_hover = "#5a5758"
+background_selected = "#737171"
+background_selected_hover = "#959ca1"

@@ -1,0 +1,47 @@
+## Base16 Precious Light Warm
+# Author: 4lex4 &lt;4lex49@zoho.com&gt;
+[general]
+background = "#fff5e5"
+border = "#4e5359"
+horizontal_rule = "#d9d3c8"
+unread_indicator = "#876500"
+
+[text]
+primary = "#4e5359"
+secondary = "#5d6065"
+tertiary = "#876500"
+success = "#557300"
+error = "#b14745"
+
+[buffer]
+action = "#557300"
+background = "#fff5e5"
+background_text_input = "#ece4d6"
+background_title_bar = "#ece4d6"
+border = "#7f8080"
+border_selected = "#4e5359"
+code = "#7a50c6"
+highlight = "#ece4d6"
+nickname = "#0e7767"
+selection = "#d9d3c8"
+timestamp = "#4e5359"
+topic = "#5d6065"
+url = "#246da5"
+
+[buffer.server_messages]
+join = "#557300"
+part = "#b14745"
+quit = "#b14745"
+default = "#0e7767"
+
+[buttons.primary]
+background = "#fff5e5"
+background_hover = "#d9d3c8"
+background_selected = "#7f8080"
+background_selected_hover = "#5d6065"
+
+[buttons.secondary]
+background = "#ece4d6"
+background_hover = "#d9d3c8"
+background_selected = "#7f8080"
+background_selected_hover = "#5d6065"

@@ -1,0 +1,47 @@
+## Base16 Gruvbox light, medium
+# Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+[general]
+background = "#fbf1c7"
+border = "#282828"
+horizontal_rule = "#d5c4a1"
+unread_indicator = "#b57614"
+
+[text]
+primary = "#504945"
+secondary = "#665c54"
+tertiary = "#b57614"
+success = "#79740e"
+error = "#9d0006"
+
+[buffer]
+action = "#79740e"
+background = "#fbf1c7"
+background_text_input = "#ebdbb2"
+background_title_bar = "#ebdbb2"
+border = "#bdae93"
+border_selected = "#282828"
+code = "#8f3f71"
+highlight = "#ebdbb2"
+nickname = "#427b58"
+selection = "#d5c4a1"
+timestamp = "#504945"
+topic = "#665c54"
+url = "#076678"
+
+[buffer.server_messages]
+join = "#79740e"
+part = "#9d0006"
+quit = "#9d0006"
+default = "#427b58"
+
+[buttons.primary]
+background = "#fbf1c7"
+background_hover = "#d5c4a1"
+background_selected = "#bdae93"
+background_selected_hover = "#665c54"
+
+[buttons.secondary]
+background = "#ebdbb2"
+background_hover = "#d5c4a1"
+background_selected = "#bdae93"
+background_selected_hover = "#665c54"

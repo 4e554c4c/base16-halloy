@@ -1,0 +1,47 @@
+## Base16 Railscasts
+# Author: Ryan Bates (http://railscasts.com)
+[general]
+background = "#2b2b2b"
+border = "#f9f7f3"
+horizontal_rule = "#3a4055"
+unread_indicator = "#ffc66d"
+
+[text]
+primary = "#e6e1dc"
+secondary = "#d4cfc9"
+tertiary = "#ffc66d"
+success = "#a5c261"
+error = "#da4939"
+
+[buffer]
+action = "#a5c261"
+background = "#2b2b2b"
+background_text_input = "#272935"
+background_title_bar = "#272935"
+border = "#5a647e"
+border_selected = "#f9f7f3"
+code = "#b6b3eb"
+highlight = "#272935"
+nickname = "#519f50"
+selection = "#3a4055"
+timestamp = "#e6e1dc"
+topic = "#d4cfc9"
+url = "#6d9cbe"
+
+[buffer.server_messages]
+join = "#a5c261"
+part = "#da4939"
+quit = "#da4939"
+default = "#519f50"
+
+[buttons.primary]
+background = "#2b2b2b"
+background_hover = "#3a4055"
+background_selected = "#5a647e"
+background_selected_hover = "#d4cfc9"
+
+[buttons.secondary]
+background = "#272935"
+background_hover = "#3a4055"
+background_selected = "#5a647e"
+background_selected_hover = "#d4cfc9"

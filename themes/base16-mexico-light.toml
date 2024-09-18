@@ -1,0 +1,47 @@
+## Base16 Mexico Light
+# Author: Sheldon Johnson
+[general]
+background = "#f8f8f8"
+border = "#181818"
+horizontal_rule = "#d8d8d8"
+unread_indicator = "#f79a0e"
+
+[text]
+primary = "#383838"
+secondary = "#585858"
+tertiary = "#f79a0e"
+success = "#538947"
+error = "#ab4642"
+
+[buffer]
+action = "#538947"
+background = "#f8f8f8"
+background_text_input = "#e8e8e8"
+background_title_bar = "#e8e8e8"
+border = "#b8b8b8"
+border_selected = "#181818"
+code = "#96609e"
+highlight = "#e8e8e8"
+nickname = "#4b8093"
+selection = "#d8d8d8"
+timestamp = "#383838"
+topic = "#585858"
+url = "#7cafc2"
+
+[buffer.server_messages]
+join = "#538947"
+part = "#ab4642"
+quit = "#ab4642"
+default = "#4b8093"
+
+[buttons.primary]
+background = "#f8f8f8"
+background_hover = "#d8d8d8"
+background_selected = "#b8b8b8"
+background_selected_hover = "#585858"
+
+[buttons.secondary]
+background = "#e8e8e8"
+background_hover = "#d8d8d8"
+background_selected = "#b8b8b8"
+background_selected_hover = "#585858"

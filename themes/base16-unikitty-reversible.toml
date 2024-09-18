@@ -1,0 +1,47 @@
+## Base16 Unikitty Reversible
+# Author: Josh W Lewis (@joshwlewis)
+[general]
+background = "#2e2a31"
+border = "#ffffff"
+horizontal_rule = "#69666b"
+unread_indicator = "#dc8a0e"
+
+[text]
+primary = "#c3c2c4"
+secondary = "#a5a3a6"
+tertiary = "#dc8a0e"
+success = "#17ad98"
+error = "#d8137f"
+
+[buffer]
+action = "#17ad98"
+background = "#2e2a31"
+background_text_input = "#4b484e"
+background_title_bar = "#4b484e"
+border = "#878589"
+border_selected = "#ffffff"
+code = "#b33ce8"
+highlight = "#4b484e"
+nickname = "#149bda"
+selection = "#69666b"
+timestamp = "#c3c2c4"
+topic = "#a5a3a6"
+url = "#7864fa"
+
+[buffer.server_messages]
+join = "#17ad98"
+part = "#d8137f"
+quit = "#d8137f"
+default = "#149bda"
+
+[buttons.primary]
+background = "#2e2a31"
+background_hover = "#69666b"
+background_selected = "#878589"
+background_selected_hover = "#a5a3a6"
+
+[buttons.secondary]
+background = "#4b484e"
+background_hover = "#69666b"
+background_selected = "#878589"
+background_selected_hover = "#a5a3a6"

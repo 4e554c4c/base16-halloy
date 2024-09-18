@@ -1,0 +1,47 @@
+## Base16 Primer Light
+# Author: Jimmy Lin
+[general]
+background = "#fafbfc"
+border = "#1b1f23"
+horizontal_rule = "#d1d5da"
+unread_indicator = "#ffd33d"
+
+[text]
+primary = "#2f363d"
+secondary = "#444d56"
+tertiary = "#ffd33d"
+success = "#28a745"
+error = "#d73a49"
+
+[buffer]
+action = "#28a745"
+background = "#fafbfc"
+background_text_input = "#e1e4e8"
+background_title_bar = "#e1e4e8"
+border = "#959da5"
+border_selected = "#1b1f23"
+code = "#ea4aaa"
+highlight = "#e1e4e8"
+nickname = "#79b8ff"
+selection = "#d1d5da"
+timestamp = "#2f363d"
+topic = "#444d56"
+url = "#0366d6"
+
+[buffer.server_messages]
+join = "#28a745"
+part = "#d73a49"
+quit = "#d73a49"
+default = "#79b8ff"
+
+[buttons.primary]
+background = "#fafbfc"
+background_hover = "#d1d5da"
+background_selected = "#959da5"
+background_selected_hover = "#444d56"
+
+[buttons.secondary]
+background = "#e1e4e8"
+background_hover = "#d1d5da"
+background_selected = "#959da5"
+background_selected_hover = "#444d56"

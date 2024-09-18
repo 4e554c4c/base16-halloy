@@ -1,0 +1,47 @@
+## Base16 Terracotta
+# Author: Alexander Rossell Hayes (https://github.com/rossellhayes)
+[general]
+background = "#efeae8"
+border = "#241c19"
+horizontal_rule = "#d0c1bb"
+unread_indicator = "#ce943e"
+
+[text]
+primary = "#473731"
+secondary = "#59453d"
+tertiary = "#ce943e"
+success = "#7a894a"
+error = "#a75045"
+
+[buffer]
+action = "#7a894a"
+background = "#efeae8"
+background_text_input = "#dfd6d1"
+background_title_bar = "#dfd6d1"
+border = "#c0aca4"
+border_selected = "#241c19"
+code = "#8d5968"
+highlight = "#dfd6d1"
+nickname = "#847f9e"
+selection = "#d0c1bb"
+timestamp = "#473731"
+topic = "#59453d"
+url = "#625574"
+
+[buffer.server_messages]
+join = "#7a894a"
+part = "#a75045"
+quit = "#a75045"
+default = "#847f9e"
+
+[buttons.primary]
+background = "#efeae8"
+background_hover = "#d0c1bb"
+background_selected = "#c0aca4"
+background_selected_hover = "#59453d"
+
+[buttons.secondary]
+background = "#dfd6d1"
+background_hover = "#d0c1bb"
+background_selected = "#c0aca4"
+background_selected_hover = "#59453d"

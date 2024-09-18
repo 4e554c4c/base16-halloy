@@ -1,0 +1,47 @@
+## Base16 Everforest
+# Author: Sainnhe Park (https://github.com/sainnhe)
+[general]
+background = "#2d353b"
+border = "#fdf6e3"
+horizontal_rule = "#475258"
+unread_indicator = "#dbbc7f"
+
+[text]
+primary = "#d3c6aa"
+secondary = "#9da9a0"
+tertiary = "#dbbc7f"
+success = "#a7c080"
+error = "#e67e80"
+
+[buffer]
+action = "#a7c080"
+background = "#2d353b"
+background_text_input = "#343f44"
+background_title_bar = "#343f44"
+border = "#859289"
+border_selected = "#fdf6e3"
+code = "#d699b6"
+highlight = "#343f44"
+nickname = "#83c092"
+selection = "#475258"
+timestamp = "#d3c6aa"
+topic = "#9da9a0"
+url = "#7fbbb3"
+
+[buffer.server_messages]
+join = "#a7c080"
+part = "#e67e80"
+quit = "#e67e80"
+default = "#83c092"
+
+[buttons.primary]
+background = "#2d353b"
+background_hover = "#475258"
+background_selected = "#859289"
+background_selected_hover = "#9da9a0"
+
+[buttons.secondary]
+background = "#343f44"
+background_hover = "#475258"
+background_selected = "#859289"
+background_selected_hover = "#9da9a0"

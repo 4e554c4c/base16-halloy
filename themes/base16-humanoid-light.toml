@@ -1,0 +1,47 @@
+## Base16 Humanoid light
+# Author: Thomas (tasmo) Friese
+[general]
+background = "#f8f8f2"
+border = "#070708"
+horizontal_rule = "#deded8"
+unread_indicator = "#ffb627"
+
+[text]
+primary = "#232629"
+secondary = "#60615d"
+tertiary = "#ffb627"
+success = "#388e3c"
+error = "#b0151a"
+
+[buffer]
+action = "#388e3c"
+background = "#f8f8f2"
+background_text_input = "#efefe9"
+background_title_bar = "#efefe9"
+border = "#c0c0bd"
+border_selected = "#070708"
+code = "#700f98"
+highlight = "#efefe9"
+nickname = "#008e8e"
+selection = "#deded8"
+timestamp = "#232629"
+topic = "#60615d"
+url = "#0082c9"
+
+[buffer.server_messages]
+join = "#388e3c"
+part = "#b0151a"
+quit = "#b0151a"
+default = "#008e8e"
+
+[buttons.primary]
+background = "#f8f8f2"
+background_hover = "#deded8"
+background_selected = "#c0c0bd"
+background_selected_hover = "#60615d"
+
+[buttons.secondary]
+background = "#efefe9"
+background_hover = "#deded8"
+background_selected = "#c0c0bd"
+background_selected_hover = "#60615d"

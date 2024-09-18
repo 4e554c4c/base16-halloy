@@ -1,0 +1,47 @@
+## Base16 Precious Dark Fifteen
+# Author: 4lex4 &lt;4lex49@zoho.com&gt;
+[general]
+background = "#23262b"
+border = "#bab9b6"
+horizontal_rule = "#3e4044"
+unread_indicator = "#cfa546"
+
+[text]
+primary = "#bab9b6"
+secondary = "#abaaa8"
+tertiary = "#cfa546"
+success = "#95b659"
+error = "#ff8782"
+
+[buffer]
+action = "#95b659"
+background = "#23262b"
+background_text_input = "#303337"
+background_title_bar = "#303337"
+border = "#898989"
+border_selected = "#bab9b6"
+code = "#b799ff"
+highlight = "#303337"
+nickname = "#42bda7"
+selection = "#3e4044"
+timestamp = "#bab9b6"
+topic = "#abaaa8"
+url = "#66b0ef"
+
+[buffer.server_messages]
+join = "#95b659"
+part = "#ff8782"
+quit = "#ff8782"
+default = "#42bda7"
+
+[buttons.primary]
+background = "#23262b"
+background_hover = "#3e4044"
+background_selected = "#898989"
+background_selected_hover = "#abaaa8"
+
+[buttons.secondary]
+background = "#303337"
+background_hover = "#3e4044"
+background_selected = "#898989"
+background_selected_hover = "#abaaa8"

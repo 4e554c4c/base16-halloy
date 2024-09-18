@@ -1,0 +1,47 @@
+## Base16 Da One White
+# Author: NNB (https://github.com/NNBnh)
+[general]
+background = "#ffffff"
+border = "#000000"
+horizontal_rule = "#888888"
+unread_indicator = "#b3684f"
+
+[text]
+primary = "#181818"
+secondary = "#282828"
+tertiary = "#b3684f"
+success = "#76a85d"
+error = "#de5d6e"
+
+[buffer]
+action = "#76a85d"
+background = "#ffffff"
+background_text_input = "#c8c8c8"
+background_title_bar = "#c8c8c8"
+border = "#585858"
+border_selected = "#000000"
+code = "#c173d1"
+highlight = "#c8c8c8"
+nickname = "#64b5a7"
+selection = "#888888"
+timestamp = "#181818"
+topic = "#282828"
+url = "#5890f8"
+
+[buffer.server_messages]
+join = "#76a85d"
+part = "#de5d6e"
+quit = "#de5d6e"
+default = "#64b5a7"
+
+[buttons.primary]
+background = "#ffffff"
+background_hover = "#888888"
+background_selected = "#585858"
+background_selected_hover = "#282828"
+
+[buttons.secondary]
+background = "#c8c8c8"
+background_hover = "#888888"
+background_selected = "#585858"
+background_selected_hover = "#282828"

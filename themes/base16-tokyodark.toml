@@ -1,0 +1,47 @@
+## Base16 Tokyodark
+# Author: Tiagovla (https://github.com/tiagovla/)
+[general]
+background = "#11121d"
+border = "#2c2d38"
+horizontal_rule = "#43444f"
+unread_indicator = "#7199ee"
+
+[text]
+primary = "#abb2bf"
+secondary = "#1b1c27"
+tertiary = "#7199ee"
+success = "#d7a65f"
+error = "#a485dd"
+
+[buffer]
+action = "#d7a65f"
+background = "#11121d"
+background_text_input = "#151621"
+background_title_bar = "#151621"
+border = "#393a45"
+border_selected = "#2c2d38"
+code = "#ee6d85"
+highlight = "#151621"
+nickname = "#a485dd"
+selection = "#43444f"
+timestamp = "#abb2bf"
+topic = "#1b1c27"
+url = "#95c561"
+
+[buffer.server_messages]
+join = "#d7a65f"
+part = "#a485dd"
+quit = "#a485dd"
+default = "#a485dd"
+
+[buttons.primary]
+background = "#11121d"
+background_hover = "#43444f"
+background_selected = "#393a45"
+background_selected_hover = "#1b1c27"
+
+[buttons.secondary]
+background = "#151621"
+background_hover = "#43444f"
+background_selected = "#393a45"
+background_selected_hover = "#1b1c27"

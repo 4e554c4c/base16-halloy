@@ -1,0 +1,47 @@
+## Base16 Windows 95 Light
+# Author: Fergus Collins (https://github.com/C-Fergus)
+[general]
+background = "#fcfcfc"
+border = "#000000"
+horizontal_rule = "#c4c4c4"
+unread_indicator = "#a85400"
+
+[text]
+primary = "#545454"
+secondary = "#7e7e7e"
+tertiary = "#a85400"
+success = "#00a800"
+error = "#a80000"
+
+[buffer]
+action = "#00a800"
+background = "#fcfcfc"
+background_text_input = "#e0e0e0"
+background_title_bar = "#e0e0e0"
+border = "#a8a8a8"
+border_selected = "#000000"
+code = "#a800a8"
+highlight = "#e0e0e0"
+nickname = "#00a8a8"
+selection = "#c4c4c4"
+timestamp = "#545454"
+topic = "#7e7e7e"
+url = "#0000a8"
+
+[buffer.server_messages]
+join = "#00a800"
+part = "#a80000"
+quit = "#a80000"
+default = "#00a8a8"
+
+[buttons.primary]
+background = "#fcfcfc"
+background_hover = "#c4c4c4"
+background_selected = "#a8a8a8"
+background_selected_hover = "#7e7e7e"
+
+[buttons.secondary]
+background = "#e0e0e0"
+background_hover = "#c4c4c4"
+background_selected = "#a8a8a8"
+background_selected_hover = "#7e7e7e"

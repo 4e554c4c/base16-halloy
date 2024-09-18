@@ -1,0 +1,47 @@
+## Base16 Atlas
+# Author: Alex Lende (https://ajlende.com)
+[general]
+background = "#002635"
+border = "#fafaf8"
+horizontal_rule = "#517f8d"
+unread_indicator = "#ffcc1b"
+
+[text]
+primary = "#a1a19a"
+secondary = "#869696"
+tertiary = "#ffcc1b"
+success = "#7fc06e"
+error = "#ff5a67"
+
+[buffer]
+action = "#7fc06e"
+background = "#002635"
+background_text_input = "#00384d"
+background_title_bar = "#00384d"
+border = "#6c8b91"
+border_selected = "#fafaf8"
+code = "#9a70a4"
+highlight = "#00384d"
+nickname = "#5dd7b9"
+selection = "#517f8d"
+timestamp = "#a1a19a"
+topic = "#869696"
+url = "#14747e"
+
+[buffer.server_messages]
+join = "#7fc06e"
+part = "#ff5a67"
+quit = "#ff5a67"
+default = "#5dd7b9"
+
+[buttons.primary]
+background = "#002635"
+background_hover = "#517f8d"
+background_selected = "#6c8b91"
+background_selected_hover = "#869696"
+
+[buttons.secondary]
+background = "#00384d"
+background_hover = "#517f8d"
+background_selected = "#6c8b91"
+background_selected_hover = "#869696"

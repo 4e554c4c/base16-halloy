@@ -1,0 +1,47 @@
+## Base16 One Light
+# Author: Daniel Pfeifer (http://github.com/purpleKarrot)
+[general]
+background = "#fafafa"
+border = "#090a0b"
+horizontal_rule = "#e5e5e6"
+unread_indicator = "#c18401"
+
+[text]
+primary = "#383a42"
+secondary = "#696c77"
+tertiary = "#c18401"
+success = "#50a14f"
+error = "#ca1243"
+
+[buffer]
+action = "#50a14f"
+background = "#fafafa"
+background_text_input = "#f0f0f1"
+background_title_bar = "#f0f0f1"
+border = "#a0a1a7"
+border_selected = "#090a0b"
+code = "#a626a4"
+highlight = "#f0f0f1"
+nickname = "#0184bc"
+selection = "#e5e5e6"
+timestamp = "#383a42"
+topic = "#696c77"
+url = "#4078f2"
+
+[buffer.server_messages]
+join = "#50a14f"
+part = "#ca1243"
+quit = "#ca1243"
+default = "#0184bc"
+
+[buttons.primary]
+background = "#fafafa"
+background_hover = "#e5e5e6"
+background_selected = "#a0a1a7"
+background_selected_hover = "#696c77"
+
+[buttons.secondary]
+background = "#f0f0f1"
+background_hover = "#e5e5e6"
+background_selected = "#a0a1a7"
+background_selected_hover = "#696c77"

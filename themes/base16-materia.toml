@@ -1,0 +1,47 @@
+## Base16 Materia
+# Author: Defman21
+[general]
+background = "#263238"
+border = "#ffffff"
+horizontal_rule = "#37474f"
+unread_indicator = "#ffcc00"
+
+[text]
+primary = "#cdd3de"
+secondary = "#c9ccd3"
+tertiary = "#ffcc00"
+success = "#8bd649"
+error = "#ec5f67"
+
+[buffer]
+action = "#8bd649"
+background = "#263238"
+background_text_input = "#2c393f"
+background_title_bar = "#2c393f"
+border = "#707880"
+border_selected = "#ffffff"
+code = "#82aaff"
+highlight = "#2c393f"
+nickname = "#80cbc4"
+selection = "#37474f"
+timestamp = "#cdd3de"
+topic = "#c9ccd3"
+url = "#89ddff"
+
+[buffer.server_messages]
+join = "#8bd649"
+part = "#ec5f67"
+quit = "#ec5f67"
+default = "#80cbc4"
+
+[buttons.primary]
+background = "#263238"
+background_hover = "#37474f"
+background_selected = "#707880"
+background_selected_hover = "#c9ccd3"
+
+[buttons.secondary]
+background = "#2c393f"
+background_hover = "#37474f"
+background_selected = "#707880"
+background_selected_hover = "#c9ccd3"

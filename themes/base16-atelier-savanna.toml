@@ -1,0 +1,47 @@
+## Base16 Atelier Savanna
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+[general]
+background = "#171c19"
+border = "#ecf4ee"
+horizontal_rule = "#526057"
+unread_indicator = "#a07e3b"
+
+[text]
+primary = "#87928a"
+secondary = "#78877d"
+tertiary = "#a07e3b"
+success = "#489963"
+error = "#b16139"
+
+[buffer]
+action = "#489963"
+background = "#171c19"
+background_text_input = "#232a25"
+background_title_bar = "#232a25"
+border = "#5f6d64"
+border_selected = "#ecf4ee"
+code = "#55859b"
+highlight = "#232a25"
+nickname = "#1c9aa0"
+selection = "#526057"
+timestamp = "#87928a"
+topic = "#78877d"
+url = "#478c90"
+
+[buffer.server_messages]
+join = "#489963"
+part = "#b16139"
+quit = "#b16139"
+default = "#1c9aa0"
+
+[buttons.primary]
+background = "#171c19"
+background_hover = "#526057"
+background_selected = "#5f6d64"
+background_selected_hover = "#78877d"
+
+[buttons.secondary]
+background = "#232a25"
+background_hover = "#526057"
+background_selected = "#5f6d64"
+background_selected_hover = "#78877d"

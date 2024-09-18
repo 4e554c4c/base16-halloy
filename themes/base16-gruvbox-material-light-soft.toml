@@ -1,0 +1,47 @@
+## Base16 Gruvbox Material Light, Soft
+# Author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+[general]
+background = "#f2e5bc"
+border = "#282828"
+horizontal_rule = "#c9b99a"
+unread_indicator = "#b47109"
+
+[text]
+primary = "#654735"
+secondary = "#665c54"
+tertiary = "#b47109"
+success = "#6c782e"
+error = "#c14a4a"
+
+[buffer]
+action = "#6c782e"
+background = "#f2e5bc"
+background_text_input = "#ebdbb2"
+background_title_bar = "#ebdbb2"
+border = "#a89984"
+border_selected = "#282828"
+code = "#945e80"
+highlight = "#ebdbb2"
+nickname = "#4c7a5d"
+selection = "#c9b99a"
+timestamp = "#654735"
+topic = "#665c54"
+url = "#45707a"
+
+[buffer.server_messages]
+join = "#6c782e"
+part = "#c14a4a"
+quit = "#c14a4a"
+default = "#4c7a5d"
+
+[buttons.primary]
+background = "#f2e5bc"
+background_hover = "#c9b99a"
+background_selected = "#a89984"
+background_selected_hover = "#665c54"
+
+[buttons.secondary]
+background = "#ebdbb2"
+background_hover = "#c9b99a"
+background_selected = "#a89984"
+background_selected_hover = "#665c54"

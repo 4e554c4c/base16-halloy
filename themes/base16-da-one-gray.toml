@@ -1,0 +1,47 @@
+## Base16 Da One Gray
+# Author: NNB (https://github.com/NNBnh)
+[general]
+background = "#181818"
+border = "#ffffff"
+horizontal_rule = "#585858"
+unread_indicator = "#ff9470"
+
+[text]
+primary = "#ffffff"
+secondary = "#c8c8c8"
+tertiary = "#ff9470"
+success = "#98c379"
+error = "#fa7883"
+
+[buffer]
+action = "#98c379"
+background = "#181818"
+background_text_input = "#282828"
+background_title_bar = "#282828"
+border = "#888888"
+border_selected = "#ffffff"
+code = "#e799ff"
+highlight = "#282828"
+nickname = "#8af5ff"
+selection = "#585858"
+timestamp = "#ffffff"
+topic = "#c8c8c8"
+url = "#6bb8ff"
+
+[buffer.server_messages]
+join = "#98c379"
+part = "#fa7883"
+quit = "#fa7883"
+default = "#8af5ff"
+
+[buttons.primary]
+background = "#181818"
+background_hover = "#585858"
+background_selected = "#888888"
+background_selected_hover = "#c8c8c8"
+
+[buttons.secondary]
+background = "#282828"
+background_hover = "#585858"
+background_selected = "#888888"
+background_selected_hover = "#c8c8c8"

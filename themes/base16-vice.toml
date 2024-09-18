@@ -1,0 +1,47 @@
+## Base16 vice
+# Author: Thomas Leon Highbaugh thighbaugh@zoho.com
+[general]
+background = "#17191e"
+border = "#f4f4f7"
+horizontal_rule = "#3c3f4c"
+unread_indicator = "#f0ffaa"
+
+[text]
+primary = "#8b9cbe"
+secondary = "#555e70"
+tertiary = "#f0ffaa"
+success = "#0badff"
+error = "#ff29a8"
+
+[buffer]
+action = "#0badff"
+background = "#17191e"
+background_text_input = "#22262d"
+background_title_bar = "#22262d"
+border = "#383a47"
+border_selected = "#f4f4f7"
+code = "#00f6d9"
+highlight = "#22262d"
+nickname = "#8265ff"
+selection = "#3c3f4c"
+timestamp = "#8b9cbe"
+topic = "#555e70"
+url = "#00eaff"
+
+[buffer.server_messages]
+join = "#0badff"
+part = "#ff29a8"
+quit = "#ff29a8"
+default = "#8265ff"
+
+[buttons.primary]
+background = "#17191e"
+background_hover = "#3c3f4c"
+background_selected = "#383a47"
+background_selected_hover = "#555e70"
+
+[buttons.secondary]
+background = "#22262d"
+background_hover = "#3c3f4c"
+background_selected = "#383a47"
+background_selected_hover = "#555e70"

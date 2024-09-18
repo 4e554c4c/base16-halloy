@@ -1,0 +1,47 @@
+## Base16 Moonlight
+# Author: Jeremy Swinarton (https://github.com/jswinarton)
+[general]
+background = "#212337"
+border = "#ef43fa"
+horizontal_rule = "#596399"
+unread_indicator = "#ffc777"
+
+[text]
+primary = "#a3ace1"
+secondary = "#a1abe0"
+tertiary = "#ffc777"
+success = "#2df4c0"
+error = "#ff5370"
+
+[buffer]
+action = "#2df4c0"
+background = "#212337"
+background_text_input = "#403c64"
+background_title_bar = "#403c64"
+border = "#748cd6"
+border_selected = "#ef43fa"
+code = "#b994f1"
+highlight = "#403c64"
+nickname = "#04d1f9"
+selection = "#596399"
+timestamp = "#a3ace1"
+topic = "#a1abe0"
+url = "#40ffff"
+
+[buffer.server_messages]
+join = "#2df4c0"
+part = "#ff5370"
+quit = "#ff5370"
+default = "#04d1f9"
+
+[buttons.primary]
+background = "#212337"
+background_hover = "#596399"
+background_selected = "#748cd6"
+background_selected_hover = "#a1abe0"
+
+[buttons.secondary]
+background = "#403c64"
+background_hover = "#596399"
+background_selected = "#748cd6"
+background_selected_hover = "#a1abe0"

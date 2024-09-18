@@ -1,0 +1,47 @@
+## Base16 Colors
+# Author: mrmrs (http://clrs.cc)
+[general]
+background = "#111111"
+border = "#ffffff"
+horizontal_rule = "#555555"
+unread_indicator = "#ffdc00"
+
+[text]
+primary = "#bbbbbb"
+secondary = "#999999"
+tertiary = "#ffdc00"
+success = "#2ecc40"
+error = "#ff4136"
+
+[buffer]
+action = "#2ecc40"
+background = "#111111"
+background_text_input = "#333333"
+background_title_bar = "#333333"
+border = "#777777"
+border_selected = "#ffffff"
+code = "#b10dc9"
+highlight = "#333333"
+nickname = "#7fdbff"
+selection = "#555555"
+timestamp = "#bbbbbb"
+topic = "#999999"
+url = "#0074d9"
+
+[buffer.server_messages]
+join = "#2ecc40"
+part = "#ff4136"
+quit = "#ff4136"
+default = "#7fdbff"
+
+[buttons.primary]
+background = "#111111"
+background_hover = "#555555"
+background_selected = "#777777"
+background_selected_hover = "#999999"
+
+[buttons.secondary]
+background = "#333333"
+background_hover = "#555555"
+background_selected = "#777777"
+background_selected_hover = "#999999"

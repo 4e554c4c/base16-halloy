@@ -1,0 +1,47 @@
+## Base16 Cupcake
+# Author: Chris Kempson (http://chriskempson.com)
+[general]
+background = "#fbf1f2"
+border = "#585062"
+horizontal_rule = "#d8d5dd"
+unread_indicator = "#dcb16c"
+
+[text]
+primary = "#8b8198"
+secondary = "#a59daf"
+tertiary = "#dcb16c"
+success = "#a3b367"
+error = "#d57e85"
+
+[buffer]
+action = "#a3b367"
+background = "#fbf1f2"
+background_text_input = "#f2f1f4"
+background_title_bar = "#f2f1f4"
+border = "#bfb9c6"
+border_selected = "#585062"
+code = "#bb99b4"
+highlight = "#f2f1f4"
+nickname = "#69a9a7"
+selection = "#d8d5dd"
+timestamp = "#8b8198"
+topic = "#a59daf"
+url = "#7297b9"
+
+[buffer.server_messages]
+join = "#a3b367"
+part = "#d57e85"
+quit = "#d57e85"
+default = "#69a9a7"
+
+[buttons.primary]
+background = "#fbf1f2"
+background_hover = "#d8d5dd"
+background_selected = "#bfb9c6"
+background_selected_hover = "#a59daf"
+
+[buttons.secondary]
+background = "#f2f1f4"
+background_hover = "#d8d5dd"
+background_selected = "#bfb9c6"
+background_selected_hover = "#a59daf"

@@ -1,0 +1,47 @@
+## Base16 Harmonic16 Light
+# Author: Jannik Siebert (https://github.com/janniks)
+[general]
+background = "#f7f9fb"
+border = "#0b1c2c"
+horizontal_rule = "#cbd6e2"
+unread_indicator = "#8bbf56"
+
+[text]
+primary = "#405c79"
+secondary = "#627e99"
+tertiary = "#8bbf56"
+success = "#56bf8b"
+error = "#bf8b56"
+
+[buffer]
+action = "#56bf8b"
+background = "#f7f9fb"
+background_text_input = "#e5ebf1"
+background_title_bar = "#e5ebf1"
+border = "#aabcce"
+border_selected = "#0b1c2c"
+code = "#bf568b"
+highlight = "#e5ebf1"
+nickname = "#568bbf"
+selection = "#cbd6e2"
+timestamp = "#405c79"
+topic = "#627e99"
+url = "#8b56bf"
+
+[buffer.server_messages]
+join = "#56bf8b"
+part = "#bf8b56"
+quit = "#bf8b56"
+default = "#568bbf"
+
+[buttons.primary]
+background = "#f7f9fb"
+background_hover = "#cbd6e2"
+background_selected = "#aabcce"
+background_selected_hover = "#627e99"
+
+[buttons.secondary]
+background = "#e5ebf1"
+background_hover = "#cbd6e2"
+background_selected = "#aabcce"
+background_selected_hover = "#627e99"

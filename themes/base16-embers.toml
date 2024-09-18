@@ -1,0 +1,47 @@
+## Base16 Embers
+# Author: Jannik Siebert (https://github.com/janniks)
+[general]
+background = "#16130f"
+border = "#dbd6d1"
+horizontal_rule = "#433b32"
+unread_indicator = "#6d8257"
+
+[text]
+primary = "#a39a90"
+secondary = "#8a8075"
+tertiary = "#6d8257"
+success = "#57826d"
+error = "#826d57"
+
+[buffer]
+action = "#57826d"
+background = "#16130f"
+background_text_input = "#2c2620"
+background_title_bar = "#2c2620"
+border = "#5a5047"
+border_selected = "#dbd6d1"
+code = "#82576d"
+highlight = "#2c2620"
+nickname = "#576d82"
+selection = "#433b32"
+timestamp = "#a39a90"
+topic = "#8a8075"
+url = "#6d5782"
+
+[buffer.server_messages]
+join = "#57826d"
+part = "#826d57"
+quit = "#826d57"
+default = "#576d82"
+
+[buttons.primary]
+background = "#16130f"
+background_hover = "#433b32"
+background_selected = "#5a5047"
+background_selected_hover = "#8a8075"
+
+[buttons.secondary]
+background = "#2c2620"
+background_hover = "#433b32"
+background_selected = "#5a5047"
+background_selected_hover = "#8a8075"

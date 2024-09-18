@@ -1,0 +1,47 @@
+## Base16 Darcula
+# Author: jetbrains
+[general]
+background = "#2b2b2b"
+border = "#ffffff"
+horizontal_rule = "#323232"
+unread_indicator = "#bbb529"
+
+[text]
+primary = "#a9b7c6"
+secondary = "#a4a3a3"
+tertiary = "#bbb529"
+success = "#6a8759"
+error = "#4eade5"
+
+[buffer]
+action = "#6a8759"
+background = "#2b2b2b"
+background_text_input = "#323232"
+background_title_bar = "#323232"
+border = "#606366"
+border_selected = "#ffffff"
+code = "#cc7832"
+highlight = "#323232"
+nickname = "#629755"
+selection = "#323232"
+timestamp = "#a9b7c6"
+topic = "#a4a3a3"
+url = "#9876aa"
+
+[buffer.server_messages]
+join = "#6a8759"
+part = "#4eade5"
+quit = "#4eade5"
+default = "#629755"
+
+[buttons.primary]
+background = "#2b2b2b"
+background_hover = "#323232"
+background_selected = "#606366"
+background_selected_hover = "#a4a3a3"
+
+[buttons.secondary]
+background = "#323232"
+background_hover = "#323232"
+background_selected = "#606366"
+background_selected_hover = "#a4a3a3"

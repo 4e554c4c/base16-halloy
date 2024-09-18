@@ -1,0 +1,47 @@
+## Base16 Catppuccin Macchiato
+# Author: https://github.com/catppuccin/catppuccin
+[general]
+background = "#24273a"
+border = "#b7bdf8"
+horizontal_rule = "#363a4f"
+unread_indicator = "#eed49f"
+
+[text]
+primary = "#cad3f5"
+secondary = "#5b6078"
+tertiary = "#eed49f"
+success = "#a6da95"
+error = "#ed8796"
+
+[buffer]
+action = "#a6da95"
+background = "#24273a"
+background_text_input = "#1e2030"
+background_title_bar = "#1e2030"
+border = "#494d64"
+border_selected = "#b7bdf8"
+code = "#c6a0f6"
+highlight = "#1e2030"
+nickname = "#8bd5ca"
+selection = "#363a4f"
+timestamp = "#cad3f5"
+topic = "#5b6078"
+url = "#8aadf4"
+
+[buffer.server_messages]
+join = "#a6da95"
+part = "#ed8796"
+quit = "#ed8796"
+default = "#8bd5ca"
+
+[buttons.primary]
+background = "#24273a"
+background_hover = "#363a4f"
+background_selected = "#494d64"
+background_selected_hover = "#5b6078"
+
+[buttons.secondary]
+background = "#1e2030"
+background_hover = "#363a4f"
+background_selected = "#494d64"
+background_selected_hover = "#5b6078"

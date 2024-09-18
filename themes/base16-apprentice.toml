@@ -1,0 +1,47 @@
+## Base16 Apprentice
+# Author: romainl
+[general]
+background = "#262626"
+border = "#6c6c6c"
+horizontal_rule = "#5f875f"
+unread_indicator = "#87af87"
+
+[text]
+primary = "#5f5f87"
+secondary = "#5f87af"
+tertiary = "#87af87"
+success = "#ffffaf"
+error = "#444444"
+
+[buffer]
+action = "#ffffaf"
+background = "#262626"
+background_text_input = "#af5f5f"
+background_title_bar = "#af5f5f"
+border = "#87875f"
+border_selected = "#6c6c6c"
+code = "#5fafaf"
+highlight = "#af5f5f"
+nickname = "#87afd7"
+selection = "#5f875f"
+timestamp = "#5f5f87"
+topic = "#5f87af"
+url = "#8787af"
+
+[buffer.server_messages]
+join = "#ffffaf"
+part = "#444444"
+quit = "#444444"
+default = "#87afd7"
+
+[buttons.primary]
+background = "#262626"
+background_hover = "#5f875f"
+background_selected = "#87875f"
+background_selected_hover = "#5f87af"
+
+[buttons.secondary]
+background = "#af5f5f"
+background_hover = "#5f875f"
+background_selected = "#87875f"
+background_selected_hover = "#5f87af"

@@ -1,0 +1,47 @@
+## Base16 Vesper
+# Author: FormalSnake (https://github.com/formalsnake)
+[general]
+background = "#101010"
+border = "#d5d5d5"
+horizontal_rule = "#222222"
+unread_indicator = "#ffc799"
+
+[text]
+primary = "#b7b7b7"
+secondary = "#999999"
+tertiary = "#ffc799"
+success = "#5f8787"
+error = "#de6e6e"
+
+[buffer]
+action = "#5f8787"
+background = "#101010"
+background_text_input = "#232323"
+background_title_bar = "#232323"
+border = "#333333"
+border_selected = "#d5d5d5"
+code = "#d69094"
+highlight = "#232323"
+nickname = "#60a592"
+selection = "#222222"
+timestamp = "#b7b7b7"
+topic = "#999999"
+url = "#8eaaaa"
+
+[buffer.server_messages]
+join = "#5f8787"
+part = "#de6e6e"
+quit = "#de6e6e"
+default = "#60a592"
+
+[buttons.primary]
+background = "#101010"
+background_hover = "#222222"
+background_selected = "#333333"
+background_selected_hover = "#999999"
+
+[buttons.secondary]
+background = "#232323"
+background_hover = "#222222"
+background_selected = "#333333"
+background_selected_hover = "#999999"

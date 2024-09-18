@@ -1,0 +1,47 @@
+## Base16 Blue Forest
+# Author: alonsodomin (https://github.com/alonsodomin)
+[general]
+background = "#141f2e"
+border = "#375780"
+horizontal_rule = "#273e5c"
+unread_indicator = "#91ccff"
+
+[text]
+primary = "#ffcc33"
+secondary = "#1e5c1e"
+tertiary = "#91ccff"
+success = "#80ff80"
+error = "#fffab1"
+
+[buffer]
+action = "#80ff80"
+background = "#141f2e"
+background_text_input = "#1e5c1e"
+background_title_bar = "#1e5c1e"
+border = "#a0ffa0"
+border_selected = "#375780"
+code = "#0099ff"
+highlight = "#1e5c1e"
+nickname = "#80ff80"
+selection = "#273e5c"
+timestamp = "#ffcc33"
+topic = "#1e5c1e"
+url = "#a2cff5"
+
+[buffer.server_messages]
+join = "#80ff80"
+part = "#fffab1"
+quit = "#fffab1"
+default = "#80ff80"
+
+[buttons.primary]
+background = "#141f2e"
+background_hover = "#273e5c"
+background_selected = "#a0ffa0"
+background_selected_hover = "#1e5c1e"
+
+[buttons.secondary]
+background = "#1e5c1e"
+background_hover = "#273e5c"
+background_selected = "#a0ffa0"
+background_selected_hover = "#1e5c1e"

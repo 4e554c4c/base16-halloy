@@ -1,0 +1,47 @@
+## Base16 Spacemacs
+# Author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+[general]
+background = "#1f2022"
+border = "#f8f8f8"
+horizontal_rule = "#444155"
+unread_indicator = "#b1951d"
+
+[text]
+primary = "#a3a3a3"
+secondary = "#b8b8b8"
+tertiary = "#b1951d"
+success = "#67b11d"
+error = "#f2241f"
+
+[buffer]
+action = "#67b11d"
+background = "#1f2022"
+background_text_input = "#282828"
+background_title_bar = "#282828"
+border = "#585858"
+border_selected = "#f8f8f8"
+code = "#a31db1"
+highlight = "#282828"
+nickname = "#2d9574"
+selection = "#444155"
+timestamp = "#a3a3a3"
+topic = "#b8b8b8"
+url = "#4f97d7"
+
+[buffer.server_messages]
+join = "#67b11d"
+part = "#f2241f"
+quit = "#f2241f"
+default = "#2d9574"
+
+[buttons.primary]
+background = "#1f2022"
+background_hover = "#444155"
+background_selected = "#585858"
+background_selected_hover = "#b8b8b8"
+
+[buttons.secondary]
+background = "#282828"
+background_hover = "#444155"
+background_selected = "#585858"
+background_selected_hover = "#b8b8b8"

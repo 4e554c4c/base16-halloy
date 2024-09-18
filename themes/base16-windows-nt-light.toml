@@ -1,0 +1,47 @@
+## Base16 Windows NT Light
+# Author: Fergus Collins (https://github.com/C-Fergus)
+[general]
+background = "#ffffff"
+border = "#000000"
+horizontal_rule = "#d5d5d5"
+unread_indicator = "#808000"
+
+[text]
+primary = "#808080"
+secondary = "#a0a0a0"
+tertiary = "#808000"
+success = "#008000"
+error = "#800000"
+
+[buffer]
+action = "#008000"
+background = "#ffffff"
+background_text_input = "#eaeaea"
+background_title_bar = "#eaeaea"
+border = "#c0c0c0"
+border_selected = "#000000"
+code = "#800080"
+highlight = "#eaeaea"
+nickname = "#008080"
+selection = "#d5d5d5"
+timestamp = "#808080"
+topic = "#a0a0a0"
+url = "#000080"
+
+[buffer.server_messages]
+join = "#008000"
+part = "#800000"
+quit = "#800000"
+default = "#008080"
+
+[buttons.primary]
+background = "#ffffff"
+background_hover = "#d5d5d5"
+background_selected = "#c0c0c0"
+background_selected_hover = "#a0a0a0"
+
+[buttons.secondary]
+background = "#eaeaea"
+background_hover = "#d5d5d5"
+background_selected = "#c0c0c0"
+background_selected_hover = "#a0a0a0"

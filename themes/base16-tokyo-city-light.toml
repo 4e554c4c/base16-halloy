@@ -1,0 +1,47 @@
+## Base16 Tokyo City Light
+# Author: Michaël Ball
+[general]
+background = "#fbfbfd"
+border = "#171d23"
+horizontal_rule = "#edeff6"
+unread_indicator = "#4c505e"
+
+[text]
+primary = "#343b59"
+secondary = "#4c505e"
+tertiary = "#4c505e"
+success = "#485e30"
+error = "#8c4351"
+
+[buffer]
+action = "#485e30"
+background = "#fbfbfd"
+background_text_input = "#f6f6f8"
+background_title_bar = "#f6f6f8"
+border = "#9699a3"
+border_selected = "#171d23"
+code = "#5a4a78"
+highlight = "#f6f6f8"
+nickname = "#4c505e"
+selection = "#edeff6"
+timestamp = "#343b59"
+topic = "#4c505e"
+url = "#34548a"
+
+[buffer.server_messages]
+join = "#485e30"
+part = "#8c4351"
+quit = "#8c4351"
+default = "#4c505e"
+
+[buttons.primary]
+background = "#fbfbfd"
+background_hover = "#edeff6"
+background_selected = "#9699a3"
+background_selected_hover = "#4c505e"
+
+[buttons.secondary]
+background = "#f6f6f8"
+background_hover = "#edeff6"
+background_selected = "#9699a3"
+background_selected_hover = "#4c505e"

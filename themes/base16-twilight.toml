@@ -1,0 +1,47 @@
+## Base16 Twilight
+# Author: David Hart (https://github.com/hartbit)
+[general]
+background = "#1e1e1e"
+border = "#ffffff"
+horizontal_rule = "#464b50"
+unread_indicator = "#f9ee98"
+
+[text]
+primary = "#a7a7a7"
+secondary = "#838184"
+tertiary = "#f9ee98"
+success = "#8f9d6a"
+error = "#cf6a4c"
+
+[buffer]
+action = "#8f9d6a"
+background = "#1e1e1e"
+background_text_input = "#323537"
+background_title_bar = "#323537"
+border = "#5f5a60"
+border_selected = "#ffffff"
+code = "#9b859d"
+highlight = "#323537"
+nickname = "#afc4db"
+selection = "#464b50"
+timestamp = "#a7a7a7"
+topic = "#838184"
+url = "#7587a6"
+
+[buffer.server_messages]
+join = "#8f9d6a"
+part = "#cf6a4c"
+quit = "#cf6a4c"
+default = "#afc4db"
+
+[buttons.primary]
+background = "#1e1e1e"
+background_hover = "#464b50"
+background_selected = "#5f5a60"
+background_selected_hover = "#838184"
+
+[buttons.secondary]
+background = "#323537"
+background_hover = "#464b50"
+background_selected = "#5f5a60"
+background_selected_hover = "#838184"

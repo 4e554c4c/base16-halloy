@@ -1,0 +1,47 @@
+## Base16 Tokyo City Terminal Dark
+# Author: Michaël Ball
+[general]
+background = "#171d23"
+border = "#fbfbfd"
+horizontal_rule = "#28323a"
+unread_indicator = "#ebbf83"
+
+[text]
+primary = "#d8e2ec"
+secondary = "#b7c5d3"
+tertiary = "#ebbf83"
+success = "#8bd49c"
+error = "#d95468"
+
+[buffer]
+action = "#8bd49c"
+background = "#171d23"
+background_text_input = "#1d252c"
+background_title_bar = "#1d252c"
+border = "#526270"
+border_selected = "#fbfbfd"
+code = "#b62d65"
+highlight = "#1d252c"
+nickname = "#70e1e8"
+selection = "#28323a"
+timestamp = "#d8e2ec"
+topic = "#b7c5d3"
+url = "#539afc"
+
+[buffer.server_messages]
+join = "#8bd49c"
+part = "#d95468"
+quit = "#d95468"
+default = "#70e1e8"
+
+[buttons.primary]
+background = "#171d23"
+background_hover = "#28323a"
+background_selected = "#526270"
+background_selected_hover = "#b7c5d3"
+
+[buttons.secondary]
+background = "#1d252c"
+background_hover = "#28323a"
+background_selected = "#526270"
+background_selected_hover = "#b7c5d3"

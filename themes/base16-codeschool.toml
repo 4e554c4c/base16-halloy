@@ -1,0 +1,47 @@
+## Base16 Codeschool
+# Author: blockloop
+[general]
+background = "#232c31"
+border = "#b5d8f6"
+horizontal_rule = "#2a343a"
+unread_indicator = "#a03b1e"
+
+[text]
+primary = "#9ea7a6"
+secondary = "#84898c"
+tertiary = "#a03b1e"
+success = "#237986"
+error = "#2a5491"
+
+[buffer]
+action = "#237986"
+background = "#232c31"
+background_text_input = "#1c3657"
+background_title_bar = "#1c3657"
+border = "#3f4944"
+border_selected = "#b5d8f6"
+code = "#c59820"
+highlight = "#1c3657"
+nickname = "#b02f30"
+selection = "#2a343a"
+timestamp = "#9ea7a6"
+topic = "#84898c"
+url = "#484d79"
+
+[buffer.server_messages]
+join = "#237986"
+part = "#2a5491"
+quit = "#2a5491"
+default = "#b02f30"
+
+[buttons.primary]
+background = "#232c31"
+background_hover = "#2a343a"
+background_selected = "#3f4944"
+background_selected_hover = "#84898c"
+
+[buttons.secondary]
+background = "#1c3657"
+background_hover = "#2a343a"
+background_selected = "#3f4944"
+background_selected_hover = "#84898c"

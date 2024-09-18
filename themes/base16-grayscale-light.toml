@@ -1,0 +1,47 @@
+## Base16 Grayscale Light
+# Author: Alexandre Gavioli (https://github.com/Alexx2/)
+[general]
+background = "#f7f7f7"
+border = "#101010"
+horizontal_rule = "#b9b9b9"
+unread_indicator = "#a0a0a0"
+
+[text]
+primary = "#464646"
+secondary = "#525252"
+tertiary = "#a0a0a0"
+success = "#8e8e8e"
+error = "#7c7c7c"
+
+[buffer]
+action = "#8e8e8e"
+background = "#f7f7f7"
+background_text_input = "#e3e3e3"
+background_title_bar = "#e3e3e3"
+border = "#ababab"
+border_selected = "#101010"
+code = "#747474"
+highlight = "#e3e3e3"
+nickname = "#868686"
+selection = "#b9b9b9"
+timestamp = "#464646"
+topic = "#525252"
+url = "#686868"
+
+[buffer.server_messages]
+join = "#8e8e8e"
+part = "#7c7c7c"
+quit = "#7c7c7c"
+default = "#868686"
+
+[buttons.primary]
+background = "#f7f7f7"
+background_hover = "#b9b9b9"
+background_selected = "#ababab"
+background_selected_hover = "#525252"
+
+[buttons.secondary]
+background = "#e3e3e3"
+background_hover = "#b9b9b9"
+background_selected = "#ababab"
+background_selected_hover = "#525252"

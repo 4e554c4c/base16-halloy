@@ -1,0 +1,47 @@
+## Base16 caroline
+# Author: ed (https://codeberg.org/ed)
+[general]
+background = "#1c1213"
+border = "#e3a68c"
+horizontal_rule = "#563837"
+unread_indicator = "#f28171"
+
+[text]
+primary = "#a87569"
+secondary = "#8b5d57"
+tertiary = "#f28171"
+success = "#806c61"
+error = "#c24f57"
+
+[buffer]
+action = "#806c61"
+background = "#1c1213"
+background_text_input = "#3a2425"
+background_title_bar = "#3a2425"
+border = "#6d4745"
+border_selected = "#e3a68c"
+code = "#a63650"
+highlight = "#3a2425"
+nickname = "#6b6566"
+selection = "#563837"
+timestamp = "#a87569"
+topic = "#8b5d57"
+url = "#684c59"
+
+[buffer.server_messages]
+join = "#806c61"
+part = "#c24f57"
+quit = "#c24f57"
+default = "#6b6566"
+
+[buttons.primary]
+background = "#1c1213"
+background_hover = "#563837"
+background_selected = "#6d4745"
+background_selected_hover = "#8b5d57"
+
+[buttons.secondary]
+background = "#3a2425"
+background_hover = "#563837"
+background_selected = "#6d4745"
+background_selected_hover = "#8b5d57"

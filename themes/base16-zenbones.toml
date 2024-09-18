@@ -1,0 +1,47 @@
+## Base16 Zenbones
+# Author: mcchrish
+[general]
+background = "#191919"
+border = "#bbbbbb"
+horizontal_rule = "#819b69"
+unread_indicator = "#8bae68"
+
+[text]
+primary = "#b279a7"
+secondary = "#6099c0"
+tertiary = "#8bae68"
+success = "#d68c67"
+error = "#3d3839"
+
+[buffer]
+action = "#d68c67"
+background = "#191919"
+background_text_input = "#de6e7c"
+background_title_bar = "#de6e7c"
+border = "#b77e64"
+border_selected = "#bbbbbb"
+code = "#65b8c1"
+highlight = "#de6e7c"
+nickname = "#61abda"
+selection = "#819b69"
+timestamp = "#b279a7"
+topic = "#6099c0"
+url = "#cf86c1"
+
+[buffer.server_messages]
+join = "#d68c67"
+part = "#3d3839"
+quit = "#3d3839"
+default = "#61abda"
+
+[buttons.primary]
+background = "#191919"
+background_hover = "#819b69"
+background_selected = "#b77e64"
+background_selected_hover = "#6099c0"
+
+[buttons.secondary]
+background = "#de6e7c"
+background_hover = "#819b69"
+background_selected = "#b77e64"
+background_selected_hover = "#6099c0"

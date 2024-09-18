@@ -1,0 +1,47 @@
+## Base16 Ashes
+# Author: Jannik Siebert (https://github.com/janniks)
+[general]
+background = "#1c2023"
+border = "#f3f4f5"
+horizontal_rule = "#565e65"
+unread_indicator = "#aec795"
+
+[text]
+primary = "#c7ccd1"
+secondary = "#adb3ba"
+tertiary = "#aec795"
+success = "#95c7ae"
+error = "#c7ae95"
+
+[buffer]
+action = "#95c7ae"
+background = "#1c2023"
+background_text_input = "#393f45"
+background_title_bar = "#393f45"
+border = "#747c84"
+border_selected = "#f3f4f5"
+code = "#c795ae"
+highlight = "#393f45"
+nickname = "#95aec7"
+selection = "#565e65"
+timestamp = "#c7ccd1"
+topic = "#adb3ba"
+url = "#ae95c7"
+
+[buffer.server_messages]
+join = "#95c7ae"
+part = "#c7ae95"
+quit = "#c7ae95"
+default = "#95aec7"
+
+[buttons.primary]
+background = "#1c2023"
+background_hover = "#565e65"
+background_selected = "#747c84"
+background_selected_hover = "#adb3ba"
+
+[buttons.secondary]
+background = "#393f45"
+background_hover = "#565e65"
+background_selected = "#747c84"
+background_selected_hover = "#adb3ba"

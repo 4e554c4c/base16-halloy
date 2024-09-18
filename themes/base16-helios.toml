@@ -1,0 +1,47 @@
+## Base16 Helios
+# Author: Alex Meyer (https://github.com/reyemxela)
+[general]
+background = "#1d2021"
+border = "#e5e5e5"
+horizontal_rule = "#53585b"
+unread_indicator = "#f19d1a"
+
+[text]
+primary = "#d5d5d5"
+secondary = "#cdcdcd"
+tertiary = "#f19d1a"
+success = "#88b92d"
+error = "#d72638"
+
+[buffer]
+action = "#88b92d"
+background = "#1d2021"
+background_text_input = "#383c3e"
+background_title_bar = "#383c3e"
+border = "#6f7579"
+border_selected = "#e5e5e5"
+code = "#be4264"
+highlight = "#383c3e"
+nickname = "#1ba595"
+selection = "#53585b"
+timestamp = "#d5d5d5"
+topic = "#cdcdcd"
+url = "#1e8bac"
+
+[buffer.server_messages]
+join = "#88b92d"
+part = "#d72638"
+quit = "#d72638"
+default = "#1ba595"
+
+[buttons.primary]
+background = "#1d2021"
+background_hover = "#53585b"
+background_selected = "#6f7579"
+background_selected_hover = "#cdcdcd"
+
+[buttons.secondary]
+background = "#383c3e"
+background_hover = "#53585b"
+background_selected = "#6f7579"
+background_selected_hover = "#cdcdcd"

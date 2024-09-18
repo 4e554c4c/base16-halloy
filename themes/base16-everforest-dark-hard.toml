@@ -1,0 +1,47 @@
+## Base16 Everforest Dark Hard
+# Author: Sainnhe Park (https://github.com/sainnhe)
+[general]
+background = "#272e33"
+border = "#fffbef"
+horizontal_rule = "#414b50"
+unread_indicator = "#dbbc7f"
+
+[text]
+primary = "#d3c6aa"
+secondary = "#9da9a0"
+tertiary = "#dbbc7f"
+success = "#a7c080"
+error = "#e67e80"
+
+[buffer]
+action = "#a7c080"
+background = "#272e33"
+background_text_input = "#2e383c"
+background_title_bar = "#2e383c"
+border = "#859289"
+border_selected = "#fffbef"
+code = "#d699b6"
+highlight = "#2e383c"
+nickname = "#83c092"
+selection = "#414b50"
+timestamp = "#d3c6aa"
+topic = "#9da9a0"
+url = "#7fbbb3"
+
+[buffer.server_messages]
+join = "#a7c080"
+part = "#e67e80"
+quit = "#e67e80"
+default = "#83c092"
+
+[buttons.primary]
+background = "#272e33"
+background_hover = "#414b50"
+background_selected = "#859289"
+background_selected_hover = "#9da9a0"
+
+[buttons.secondary]
+background = "#2e383c"
+background_hover = "#414b50"
+background_selected = "#859289"
+background_selected_hover = "#9da9a0"

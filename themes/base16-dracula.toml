@@ -1,0 +1,47 @@
+## Base16 Dracula
+# Author: Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
+[general]
+background = "#282a36"
+border = "#ffffff"
+horizontal_rule = "#44475a"
+unread_indicator = "#f1fa8c"
+
+[text]
+primary = "#f8f8f2"
+secondary = "#9ea8c7"
+tertiary = "#f1fa8c"
+success = "#50fa7b"
+error = "#ff5555"
+
+[buffer]
+action = "#50fa7b"
+background = "#282a36"
+background_text_input = "#363447"
+background_title_bar = "#363447"
+border = "#6272a4"
+border_selected = "#ffffff"
+code = "#ff79c6"
+highlight = "#363447"
+nickname = "#8be9fd"
+selection = "#44475a"
+timestamp = "#f8f8f2"
+topic = "#9ea8c7"
+url = "#80bfff"
+
+[buffer.server_messages]
+join = "#50fa7b"
+part = "#ff5555"
+quit = "#ff5555"
+default = "#8be9fd"
+
+[buttons.primary]
+background = "#282a36"
+background_hover = "#44475a"
+background_selected = "#6272a4"
+background_selected_hover = "#9ea8c7"
+
+[buttons.secondary]
+background = "#363447"
+background_hover = "#44475a"
+background_selected = "#6272a4"
+background_selected_hover = "#9ea8c7"
